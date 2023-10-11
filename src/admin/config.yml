@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bloom-hondo/coram
+  repo: bloom-works/coram-11ty
 media_folder: "src/static/img"
 public_folder: "/static/img"
 publish_mode: 'editorial_workflow'
