@@ -1,0 +1,34 @@
+topics:
+  - hero:
+      backgroundColor:
+        - light
+      title: This is a test
+      image: /src/images/heros/child.jpg
+      imgAlt: Here is a test
+    layout: topic
+    image: /src/images/topics/topic-fpl.svg
+    about: >
+      Youth in foster care often leave with fewer connections than they entered
+      care with. Children can't be expected to maintain these relationships by
+      themselves—they can't drive, may not have a phone while in care, and may
+      not even have contact information. It should be the responsibility of
+      every child welfare system to maintain and nurture all of a child's
+      supportive relationships throughout their time in care.
+    why: >
+      Children in foster care deserve every support available, including rich
+      relationships with their support network.
+    what: >+
+      
+
+
+
+      - **Document a youth's support network.** Whether with a heart map or a genogram, capture all of a youth's relationships, their contact information, and a next step for staying in touch. 
+
+      - **Make it policy to keep in touch.** A child's worker and foster family should have an active plan for staying in touch with every connection, whether that's through in person visits, video calls, summer trips, rides to school, or other interactions. It should be a formal responsibility for the worker and the foster family to adhere to this plan. 
+
+      - **Support those supportive adults** An adult may love a child but not know exactly how to support them or to navigate the child welfare system. Offer resources, like training or even simply an occasional conversation, to the entire support network.
+
+
+
+
+    title: this-is-a-test
