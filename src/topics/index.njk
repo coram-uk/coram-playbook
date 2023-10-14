@@ -1,0 +1,10 @@
+---
+layout: default
+title: Topics
+---
+
+<ul>
+    {% for topic in collections.topics %}
+        <li><a href="{{ topic.title }}">{{ topic.hero.title }}</a></li>
+    {% endfor %}
+</ul>

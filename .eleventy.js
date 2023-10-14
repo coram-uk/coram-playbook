@@ -1,7 +1,14 @@
+const fs = require('fs');
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const markdownIt = require("markdown-it");
+const markdownItOptions = {
+  html: true,
+  breaks: true,
+  linkify: true
+};
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -9,6 +16,20 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+
+  // Adds topics collection
+  eleventyConfig.addCollection("topics", function(collection) {
+    try {
+      const fileContents = fs.readFileSync('src/pages/content/topics.content.yml', 'utf8');
+      const data = yaml.load(fileContents);
+      const topics = data.topics;
+
+      return topics
+    } catch (err) {
+      console.error('Error reading file:', err);
+      return [];
+    }
+  });
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -23,6 +44,7 @@ module.exports = function (eleventyConfig) {
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+  eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents));
 
   // Copy Static Files to /_Site
   eleventyConfig.addPassthroughCopy({
@@ -34,9 +56,15 @@ module.exports = function (eleventyConfig) {
 
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
+  eleventyConfig.addPassthroughCopy("./src/images");
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
+
+  eleventyConfig.addNunjucksFilter("markdown", function(markdownString) {
+    const md = new markdownIt(markdownItOptions);
+    return md.render(markdownString);
+  });
 
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
