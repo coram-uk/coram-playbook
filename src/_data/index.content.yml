@@ -3,3 +3,49 @@ home:
     title: Lorem ipsum. Dolor sit amet.
     image: /src/images/heros/baby.jpg
     imgAlt: This is alt text
+  features:
+    largeFeature:
+      layout: lg
+      title: Lorem ipsum dolor sit amet consectetur.
+      content: >
+        Lorem ipsum dolor sit amet consectetur. Fermentum mattis massa at risus
+        euismod mauris. Sed pharetra nulla sed sit tempus.
+      image: /src/images/features/kid.jpg
+      imgAlt: This is alt text
+      link: "#"
+      linkText: Button
+    whatsNew: |
+      Lorem ipsum
+    smallFeature:
+      - title: Lorem ipsum dolor sit amet consectetur.
+        content: >
+          Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
+          diam volutpat nibh in.
+        image: /src/images/features/kid.jpg
+        imgAlt: This is alt text
+        link: "#"
+      - title: Lorem ipsum dolor sit amet consectetur.
+        content: >
+          Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
+          diam volutpat nibh in.
+        image: /src/images/features/kid.jpg
+        link: "#"
+        imgAlt: This is alt text
+      - title: Lorem ipsum dolor sit amet consectetur.
+        content: >
+          Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
+          diam volutpat nibh in.
+        image: /src/images/features/kid.jpg
+        imgAlt: This is alt text
+        link: "#"
+  mission:
+    content: >
+      Lorem ipsum dolor sit amet consectetur. Fermentum mattis massa at risus
+      euismod mauris. Sed pharetra nulla sed sit tempus. Iaculis amet fringilla
+      mattis eget a egestas placerat. Nulla cum faucibus phasellus quis in
+      adipiscing morbi in.
+    title: Lorem ipsum
+    image: /src/images/heros/background-checks.jpg
+    imgAlt: This is alt text
+    link: "#"
+    linkText: Button
