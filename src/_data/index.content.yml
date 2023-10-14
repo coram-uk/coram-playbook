@@ -1,0 +1,5 @@
+home:
+  hero:
+    title: Lorem ipsum. Dolor sit amet.
+    image: /src/images/heros/baby.jpg
+    imgAlt: This is alt text
