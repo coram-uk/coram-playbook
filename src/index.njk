@@ -1,0 +1,71 @@
+---
+layout: default
+title: Eleventy Starter
+path: home
+---
+
+{% set hero = home.home.hero %}
+{% set features = home.home.features %}
+{% set mission = home.home.mission %}
+
+<div class="min-h-[500px] bg-no-repeat bg-cover" style="background-image: url({{ hero.image | replace('/src', '') }})">
+    <div class="mx-auto px-8 md:px-[10%]">
+        <div class="max-w-xl py-24">
+            <h1 class="text-7xl font-bold">{{ hero.title }}</h1>
+        </div>
+    </div>
+</div>
+
+<div class="bg-[#EFEFEE]">
+    <div class="mx-auto px-8 md:px-[10%]">
+        <div class="py-24">
+            <h2 class="text-4xl font-bold mb-12 mt-0">
+                <span class="border-b-[6px] border-primary pb-2">{{ features.whatsNew }}</span>
+            </h2>
+            <div class="w-full px-16 py-24 bg-cover mb-4" style="background-image: url({{ features.largeFeature.image | replace('/src', '') }})">
+                <div class="md:w-1/3">
+                    <h3 class="font-bold text-[28px] leading-tight mb-4">{{ features.largeFeature.title }}</h3>
+                    <div class="text-[21px] mb-4">{{ features.largeFeature.content }}</div>
+                    <div>
+                        <a href="{{ features.largeFeature.link }}" class="bg-white text-black font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-primary hover:text-white">{{ features.largeFeature.linkText }}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="grid md:grid-cols-3 grid-cols-1 gap-4">
+                {% for feature in features.smallFeature %}
+                    <a class="bg-white border-2 border-[#A49C87]" href="{{ feature.link }}">
+                        <img src="{{ feature.image | replace('/src', '') }}" alt="{{ feature.title }}" class="w-full h-48 object-cover" />
+                        <div class="p-4">
+                            <h3 class="font-bold text-[28px] leading-tight mb-4">{{ feature.title }}</h3>
+                            <div class="text-[21px]">{{ feature.content }}</div>
+                        </div>
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-primary">
+    <div class="mx-auto px-8 md:px-[10%]">
+        <div class="py-24">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-4">
+                <div class="aspect-w-1 aspect-h-1">
+                    <img src="{{ mission.image | replace('/src', '') }}" alt="{{ mission.title }}" class="w-full h-full object-cover" />
+                </div>
+                <div>
+                    <div class="md:p-12">
+                        <h2 class="text-4xl font-bold mb-8 mt-0 text-white">
+                            <span class="border-b-[6px] border-white pb-2">{{ mission.title }}</span>
+                        </h2>
+                        <div class="text-[21px] text-white mb-12">{{ mission.content }}</div>
+                        <div>
+                            <a href="{{ features.largeFeature.link }}" class="bg-white text-black font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-primary hover:text-white">{{ features.largeFeature.linkText }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

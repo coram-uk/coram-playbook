@@ -13,9 +13,16 @@
           </div>
           <div class="justify-between items-center w-full lg:flex lg:w-auto lg:order-1 lg:ml-auto" id="mobile-menu">
             <ul class="flex flex-col mt-4 text-xl font-bold lg:flex-row lg:space-x-8 lg:mt-0">
-              <li><a href="#" class="block py-2 text-white border-b-2 border-primary lg:hover:border-white lg:hover:bg-transparent lg:py-0">Topics</a></li>
-              <li><a href="#" class="block py-2 text-white border-b-2 border-primary lg:hover:border-white lg:hover:bg-transparent lg:py-0">Projects</a></li>
-              <li><a href="#" class="block py-2 text-white border-b-2 border-primary lg:hover:border-white lg:hover:bg-transparent lg:py-0">Compare</a></li>
+              {% for link in navigation.items %}
+                <li>
+                  <a href="{{ link.url }}" class="block py-2 text-white border-b-2 border-primary lg:hover:border-white lg:hover:bg-transparent lg:py-0 flex items-center gap-2">
+                    {{ link.text }}
+                    {% if link.icon %}
+                      {{ link.icon | safe }}
+                    {% endif %}
+                  </a>
+                </li>
+              {% endfor %}
             </ul>
           </div>
       </div>

@@ -15,7 +15,7 @@ collections:
   files:
     - label: 'Topics Collection'
       name: 'topicsCollection'
-      file: 'src/pages/content/topics.content.yml'
+      file: 'src/_data/topics.yml'
       fields:
         - label: 'Topics'
           name: 'topics'
@@ -95,12 +95,12 @@ collections:
               search_fields: ['tags.*.title']
               file: 'tagsCollection'
               required: false
-    - name: 'recommendationsCollection'
-      label: 'Recommendations Collection'
-      file: 'src/pages/content/recommendations.content.yml'
+    - name: 'projects'
+      label: 'Projects'
+      file: 'src/_data/projects.yml'
       fields:
-        - label: 'Recommendations'
-          name: 'recommendations'
+        - label: 'Projects'
+          name: 'projects'
           widget: 'list'
           summary: '{{fields.title}}'
           fields:
@@ -209,7 +209,7 @@ collections:
   files:
     - label: 'Main Page'
       name: 'index'
-      file: 'src/_data/index.content.yml'
+      file: 'src/_data/home.yml'
       fields:
         - label: 'Home'
           name: 'home'

@@ -17,20 +17,6 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
-  // Adds topics collection
-  eleventyConfig.addCollection("topics", function(collection) {
-    try {
-      const fileContents = fs.readFileSync('src/pages/content/topics.content.yml', 'utf8');
-      const data = yaml.load(fileContents);
-      const topics = data.topics;
-
-      return topics
-    } catch (err) {
-      console.error('Error reading file:', err);
-      return [];
-    }
-  });
-
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(

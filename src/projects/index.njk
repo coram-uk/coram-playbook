@@ -1,0 +1,84 @@
+---
+layout: default
+title: Projects
+---
+
+{% set projects = projects.projects %}
+
+<div x-data="projectsData" x-init="init">
+  <div class="min-h-[400px] bg-primary">
+      <div class="mx-auto px-8 md:px-[10%]">
+          <div class="max-w-screen-lg py-24">
+              <h1 class="text-7xl font-bold text-white">All Projects</h1>
+          </div>
+      </div>
+  </div>
+  <div class="hidden md:block mx-auto px-8 md:px-[10%]">
+      <nav class="flex py-8" aria-label="Breadcrumb">
+          <ol class="inline-flex items-center space-x-1 md:space-x-3">
+              <li class="inline-flex items-center">
+                  <a href="/" class="font-medium text-navy hover:underline">Home</a>
+              </li>
+              <li aria-current="page">
+                  <div class="flex items-center gap-2">
+                      <span>/</span>
+                      <strong class="text-navy hover:underline font-bold">All Projects</strong>
+                  </div>
+              </li>
+          </ol>
+      </nav>
+  </div>
+  <div class="md:block mx-auto px-8 md:px-[10%] mb-24">
+    <form class="flex gap-2">
+      <input class="placeholder-black border-b-2 border-black w-full p-4" type="text" x-model="search" placeholder="Search projects...">
+      <button class="font-sans bg-primary text-white font-bold px-12" @click="searchProjects">Search</button>
+    </form>
+  </div>
+  <div class="md:block mx-auto px-8 md:px-[10%]">
+    <div>
+      <template x-for="projectGroup in projectGroups">
+        <div class="mb-12">
+          <h2 class="text-4xl font-bold mb-8 mt-0">
+              <span class="border-b-[6px] border-primary pb-2" x-text="projectGroup"></span>
+          </h2>
+          <ul>
+            <template x-for="project in filteredProjects" :key="project.title">
+              <li x-show="project.heading.charAt(0) === projectGroup">
+                <a class="text-[21px] text-navy hover:underline" :href="'/projects/' + project.title" x-text="project.heading"></a>
+              </li>
+            </template>
+          </ul>
+        </div>
+      </template>
+    </div>
+  </div>
+  <script>
+    document.addEventListener('alpine:init', () => {
+      Alpine.data('projectsData', () => ({
+        search: '',
+        projects: [],
+        init() {
+          this.projects = {{ projects | dump | safe }};
+        },
+        searchProjects() {
+          window.location.href = '?q=' + this.search;
+        },
+        get filteredProjects() {
+          if (!this.search) {
+            return this.projects.sort((a, b) => a.heading.localeCompare(b.heading));
+          }
+          return this.projects.filter(project =>
+            Object.values(project).some(value =>
+              String(value).toLowerCase().includes(this.search.toLowerCase())
+            )
+          ).sort((a, b) => a.heading.localeCompare(b.heading));
+        },
+        get projectGroups() {
+          return Array.from(new Set(this.projects.map(project => project.heading.charAt(0)))).sort();
+        }
+      }));
+    });
+  </script>
+</div>
+
+
