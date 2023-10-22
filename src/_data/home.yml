@@ -3,6 +3,7 @@ home:
     title: Lorem ipsum. Dolor sit amet.
     image: /src/images/heros/baby.jpg
     imgAlt: This is alt text
+    backgroundColor: primary
   features:
     largeFeature:
       layout: lg
@@ -38,6 +39,8 @@ home:
         image: /src/images/features/kid.jpg
         imgAlt: This is alt text
         link: "#"
+    mediumFeature:
+      layout: md
   mission:
     content: >
       Lorem ipsum dolor sit amet consectetur. Fermentum mattis massa at risus
@@ -49,3 +52,18 @@ home:
     imgAlt: This is alt text
     link: "#"
     linkText: Button
+    backgroundColor: light
+  topicSection:
+    title: Lorem ipsum
+    content: Lorem ipsum dolor sit amet consectetur. Blandit nec vel enim in odio
+      bibendum in. Lectus a orci amet tristique gravida egestas. Vulputate
+      tincidunt non mauris at pellentesque sollicitudin diam risus.
+    buttontext: Button
+    buttonurl: "#"
+    topics:
+      - connecting-youth-to-their-supportive-adults
+      - emergency-placements
+      - extended-foster-care
+      - finding-family-members
+      - foster-parent-compensation
+      - foster-parent-licensing
