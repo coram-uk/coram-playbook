@@ -76,14 +76,14 @@ collections:
                 default: 'topic',
               }
             - {
-                label: 'Recommendations',
-                name: 'recommendations',
-                collection: 'recommendationsTopicsTags',
+                label: 'Projects',
+                name: 'projects',
+                collection: 'projects',
                 widget: 'relation',
                 multiple: true,
-                value_field: 'recommendations.*.title',
-                search_fields: ['recommendations.*.title'],
-                file: 'recommendationsCollection',
+                value_field: 'projects.*.title',
+                search_fields: ['projects.*.title'],
+                file: 'projects',
                 required: false,
               }
             - label: 'Tags'
