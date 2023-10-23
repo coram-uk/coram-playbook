@@ -2,8 +2,8 @@
 items:
   - text: Topics
     url: "/topics"
-  - text: Menu Two
-    url: "#"
+  - text: Projects
+    url: "/projects"
   - text: Menu Three
     url: "#"
   - text: Search

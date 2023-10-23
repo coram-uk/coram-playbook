@@ -1,9 +1,14 @@
-<footer class="{{ 'fixed' if path == 'home' }} bottom-0 text-center w-full py-4">
-    <small class="text-gray-500">Copyright ©
-        {{settings.name}}
-        2020. Made with ❤ by
-        <a href="{{settings.url}}" target="_blank" class="underline">{{settings.author}}</a>
-        •
-        <a href="https://github.com/StaticJsCMS/static-cms-eleventy-netlify-template" class="underline" target="_blank" rel="noopener">View on Github</a>
-    </small>
+<footer class="bg-black py-8">
+    <div class="hidden md:block mx-auto px-8 md:px-[10%] text-white">
+        <div class="grid md:grid-cols-6 gap-12">
+            <div class="w-full md:col-span-2 flex flex-col">
+                <a href="/" class="flex items-center mb-4">
+                    <img src="/static/img/logo.svg" class="mr-3" alt="Coram" height="24" />
+                </a>
+                <div class="">{{ footer.address }}</div>
+            </div>
+            <div class="w-full md:col-span-3">Test</div>
+            <div class="w-full md:col-span-1">Test</div>
+        </div>
+    </div>
 </footer>

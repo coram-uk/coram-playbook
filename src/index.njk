@@ -5,13 +5,45 @@ path: home
 ---
 
 {% set hero = home.home.hero %}
+{% set topicSection = home.home.topicSection %}
 {% set features = home.home.features %}
 {% set mission = home.home.mission %}
+
 
 <div class="min-h-[500px] bg-no-repeat bg-cover" style="background-image: url({{ hero.image | replace('/src', '') }})">
     <div class="mx-auto px-8 md:px-[10%]">
         <div class="max-w-xl py-24">
-            <h1 class="text-7xl font-bold">{{ hero.title }}</h1>
+            <h1 class="text-7xl font-bold mb-24">{{ hero.title }}</h1>
+            <form action="/search" method="GET" class="flex gap-2">
+                <input class="placeholder-primary text-primary border-b-2 border-primary w-full p-4" type="text" name="q" id="q" />
+                <input type="submit" class="cursor-pointer font-sans bg-primary text-white font-bold px-12" value="Search" />
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="bg-[#FFFFFF]">
+    <div class="mx-auto px-8 md:px-[10%]">
+        <div class="py-24 grid lg:grid-cols-3 grid-cols-1 gap-4 md:gap-24">
+            <div class="lg:col-span-1 w-full flex flex-col justify-center">
+                <h2 class="text-4xl font-bold mb-12 mt-0">
+                    <span class="border-b-[6px] border-primary pb-2">{{ topicSection.title }}</span>
+                </h2>
+                <p class="mb-8">{{ topicSection.content }}</p>
+                <a href="{{ topics.buttonurl }}" class="bg-primary text-white font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-primary hover:text-white">{{ topicSection.buttontext }}</a>
+            </div>
+            <div class="lg:col-span-2 w-full grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
+                {% for topic in topicSection.topics %}
+                    {% for candidateTopic in topics.topics %}
+                        {% if topic === candidateTopic.title %}
+                            <a class="text-[21px] text-navy hover:underline h-[220px] bg-[#F4B413] block p-8 pt-12 text-center font-bold flex flex-col" href="/topics/{{ candidateTopic.title }}">
+                                <span class="flex-grow">{{ candidateTopic.hero.title }}</span>
+                                <span class="mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="27" fill="none"><path fill="#000" stroke="#000" d="M1.32 22.326h-.001a2.353 2.353 0 0 0 0 3.306v.001a2.323 2.323 0 0 0 3.294 0l10.435-10.505a2.353 2.353 0 0 0 0-3.306L4.613 1.315a2.323 2.323 0 0 0-3.293 0h-.001a2.353 2.353 0 0 0 0 3.306l8.799 8.856-8.798 8.848Z"/></svg></span>
+                            </a>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>

@@ -9,7 +9,7 @@ title: Search
           <div class="max-w-screen-lg py-24">
                 <h1 class="text-7xl font-bold text-white mb-24" x-text="searchParam != '' ? `Search results for: ${searchParam}` : `Search`"></h1>
                 <form class="flex gap-2">
-                    <input class="placeholder-black bg-primary text-white border-b-2 border-white w-full p-4" type="text" x-model="search" x-bind:value="search" placeholder="Search">
+                    <input class="placeholder-black bg-primary text-white border-b-2 border-white w-full p-4" type="text" x-model="search" x-bind:value="search" />
                     <button class="font-sans bg-white text-primary font-bold px-12" @click="performSearch">Search</button>
                 </form>
           </div>
@@ -197,18 +197,17 @@ title: Search
                 
                     CORAM_INDEX = new Fuse([], options);
 
-                    
-                    CORAM_PROJECTS.forEach((project, index) => {
-                        CORAM_INDEX.add({
-                            type: "PROJECT",
-                            ...project
-                        });
-                    });
-
                     CORAM_TOPICS.topics.forEach((topic, index) => {
                         CORAM_INDEX.add({
                             type: "TOPIC",
                             ...topic
+                        });
+                    });
+                    
+                    CORAM_PROJECTS.projects.forEach((project, index) => {
+                        CORAM_INDEX.add({
+                            type: "PROJECT",
+                            ...project
                         });
                     });
 
