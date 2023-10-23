@@ -2,13 +2,32 @@
     <div class="hidden md:block mx-auto px-8 md:px-[10%] text-white">
         <div class="grid md:grid-cols-6 gap-12">
             <div class="w-full md:col-span-2 flex flex-col">
-                <a href="/" class="flex items-center mb-4">
+                <a href="/" class="flex items-center mb-2">
                     <img src="/static/img/logo.svg" class="mr-3" alt="Coram" height="24" />
                 </a>
-                <div class="">{{ footer.address }}</div>
+                <div class="mb-12">{{ footer.address }}</div>
+                <div>{{ footer.copyright }}</div>
             </div>
-            <div class="w-full md:col-span-3">Test</div>
-            <div class="w-full md:col-span-1">Test</div>
+            <div class="w-full md:col-span-3">
+                <div class="mb-2"><strong>{{ footer.navtitle }}</strong></div>
+                <ul class="grid md:grid-cols-3 gap-4">
+                    {% for link in footer.navLinks %}
+                        <li><a href="{{link.url}}" class="hover:underline">{{link.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="w-full md:col-span-1">
+                <div class="mb-2"><strong>{{ footer.socialtitle }}</strong></div>
+                <ul class="grid md:grid-cols-3 gap-2">
+                    {% for link in footer.socialLinks %}
+                        <li>
+                            <a href="{{link.url}}" class="hover:underline">
+                                <img src="{{link.icon | replace('/src', '')}}" alt="{{link.title}}" />
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
     </div>
 </footer>
