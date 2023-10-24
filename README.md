@@ -4,5 +4,5 @@ Site with a playbook including projects and topics that will help organisations 
 
 Documentation for the project can be found in the `/docs` directory, including:
 
-- [Developer setup](dev_setup.md)
-- [System architecture](architecture.md)
+- [Developer setup](docs/dev_setup.md)
+- [System architecture](docs/architecture.md)
