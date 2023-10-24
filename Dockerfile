@@ -1,12 +1,12 @@
 ################################
 ### TO BUILD IMAGE
-# docker build -t coram-uk/coram-playbook .
+# docker build -t coram/playbook .
 #
 ### TO RUN SERVER (requires rebuild if files change)
-# docker run -it --rm -p "8080:8080" coram-uk/coram-playbook
+# docker run -it --rm -p "8080:8080" coram/playbook
 #
 ### TO RUN TERMINAL WITH LOCAL FILES (i.e. for local development with live file mapping)
-#   1. docker run -it --rm -p "8080:8080" -v "$PWD:/app" coram-uk/coram-playbook bash
+#   1. docker run -it --rm -p "8080:8080" -v "$PWD:/app" coram/playbook bash
 #   2. npm install
 #   3. npm run start
 ################################
