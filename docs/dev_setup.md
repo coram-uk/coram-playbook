@@ -6,7 +6,7 @@ This sets up the site with a consistent runtime environment, and requires Docker
 
 1. Navigate to the base of this repo in your terminal or command prompt
 1. Launch the Bash shell:
-    - Linux/Mac: `sh bin/dev_shell.bat`
+    - Linux/Mac: `sh bin/dev_shell.sh`
     - Windows: `bin\dev_shell.bat`
 1. Install dependencies (first time only or when `package.json` changes): `npm install`
 1. Run the dev server: `npm run start`
