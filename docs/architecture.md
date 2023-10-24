@@ -14,9 +14,9 @@
 
 ## Publish Workflow
 
-1. User goes to `<url>/admin` to access CMS
-1. User authenticates with their GitHub user account, which also checks the repository for read/write authorization
-1. User add, deletes, or modifies a piece of content
+1. User goes to `<url>/admin` to access Static CMS
+1. Static CMS asks user to authenticate with their GitHub user account, which also checks the repository for read/write authorization
+1. User add, deletes, or modifies a piece of content in Static CMS
 1. Static CMS saves the draft in a GitHub branch
 1. Netlify sees the draft and deploys it
 1. User can preview the draft at a draft URL
