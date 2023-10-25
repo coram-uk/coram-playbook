@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bloom-works/coram-11ty
+  repo: coram-uk/coram-playbook
 media_folder: "src/static/img"
 public_folder: "/static/img"
 publish_mode: 'editorial_workflow'
