@@ -360,6 +360,30 @@ collections:
   - name: 'sections'
     label: 'Sections'
     files:
+      - label: 'Header'
+        name: 'header'
+        file: 'src/_data/header.yml'
+        fields:
+          - { label: 'Logo', name: 'logo', widget: 'image', media_folder: '/src/images', required: true, allow_multiple: false }
+          - label: 'Menu'
+            name: 'menu'
+            widget: 'list'
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'URL', name: 'url', widget: 'string' }
+              - { label: 'Icon', name: 'icon', widget: 'image', media_folder: '/src/images/icons', required: true, allow_multiple: false }
+      - label: 'Topics Index'
+        name: 'topicsIndex'
+        file: 'src/_data/topicsIndex.yml'
+        fields:
+          - { label: 'Hero', name: 'hero', widget: 'image', media_folder: '/src/images', required: true, allow_multiple: false }
+          - { label: 'Title', name: 'title', widget: 'string' }
+      - label: 'Projects Index'
+        name: 'projectsIndex'
+        file: 'src/_data/projectsIndex.yml'
+        fields:
+          - { label: 'Hero', name: 'hero', widget: 'image', media_folder: '/src/images', required: true, allow_multiple: false }
+          - { label: 'Title', name: 'title', widget: 'string' }
       - label: 'Footer'
         name: 'footer'
         file: 'src/_data/footer.yml'
