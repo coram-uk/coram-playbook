@@ -20,7 +20,9 @@
   <body>
     {% include "./partials/navbar.html" %}
 
-    {{ content | safe }}
+    <div class="mb-24">
+      {{ content | safe }}
+    </div>
 
     {% include "./partials/footer.html" %}
 

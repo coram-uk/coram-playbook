@@ -4,8 +4,8 @@ items:
     url: "/topics"
   - text: Projects
     url: "/projects"
-  - text: Menu Three
-    url: "#"
+  - text: About
+    url: "/about"
   - text: Search
     url: "/search"
     icon: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none"><title>Search</title><path stroke="#fff" stroke-linecap="round" stroke-width="2" d="m13 13.222-2.833-2.838L13 13.222ZM11.737 6.59a5.369 5.369 0 1 1-10.738 0 5.369 5.369 0 0 1 10.738 0v0Z"/></svg>'
