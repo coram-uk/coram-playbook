@@ -1,153 +1,155 @@
 authority:
-  - name: "Barking and Dagenham London Borough Council"
-  - name: "Barnet London Borough Council"
-  - name: "Barnsley Council"
-  - name: "Bath & North East Somerset Council"
-  - name: "Bedford Borough Council"
-  - name: "Bexley London Borough Council"
+  - name: Barking and Dagenham London Borough Council
+  - name: Barnet London Borough Council
+  - name: Barnsley Council
+  - name: Bath & North East Somerset Council
+  - name: Bedford Borough Council
+  - name: Bexley London Borough Council
   - name: "Birmingham Children's Trust "
-  - name: "Blackburn with Darwen Borough Council"
-  - name: "Blackpool Council"
-  - name: "Bolton Council"
-  - name: "Bournemouth, Christchurch and Poole Council"
-  - name: "Bracknell Forest Council"
-  - name: "Bradford Children and Families Trust"
-  - name: "Brent London Borough Council"
-  - name: "Brighton and Hove City Council"
-  - name: "Bristol City Council"
-  - name: "Bromley London Borough Council"
-  - name: "Buckinghamshire Council"
-  - name: "Bury Metropolitan Borough Council"
-  - name: "Calderdale Metropolitan Borough Council"
-  - name: "Cambridgeshire County Council"
-  - name: "Camden London Borough Council"
-  - name: "Central Bedfordshire Council"
-  - name: "Cheshire West and Chester Council"
-  - name: "Chesire East Council"
-  - name: "City of Doncaster Council"
-  - name: "City of London Corporation"
-  - name: "City of Wolverhampton Council"
-  - name: "City of York Council"
-  - name: "Cornwall Council"
-  - name: "Council of the Isles of Scilly"
-  - name: "Coventry City Council"
+  - name: Blackburn with Darwen Borough Council
+  - name: Blackpool Council
+  - name: Bolton Council
+  - name: Bournemouth, Christchurch and Poole Council
+  - name: Bracknell Forest Council
+  - name: Bradford Children and Families Trust
+  - name: Brent London Borough Council
+  - name: Brighton and Hove City Council
+  - name: Bristol City Council
+  - name: Bromley London Borough Council
+  - name: Buckinghamshire Council
+  - name: Bury Metropolitan Borough Council
+  - name: Calderdale Metropolitan Borough Council
+  - name: Cambridgeshire County Council
+  - name: Camden London Borough Council
+  - name: Central Bedfordshire Council
+  - name: Cheshire West and Chester Council
+  - name: Chesire East Council
+  - name: City of Doncaster Council
+  - name: City of London Corporation
+  - name: City of Wolverhampton Council
+  - name: City of York Council
+  - name: Cornwall Council
+  - name: Council of the Isles of Scilly
+  - name: Coventry City Council
   - name: "Croydon London Borough Council "
-  - name: "Cumberland Council"
-  - name: "Darlington Borough Council"
-  - name: "Derby City Council"
-  - name: "Derbyshire County Council"
-  - name: "Devon County Council"
-  - name: "Dorset Council"
-  - name: "Dudley Metropolitan Borough Council"
-  - name: "Durham County Council"
-  - name: "Ealing London Borough Council"
-  - name: "East Riding of Yorkshire Council"
-  - name: "East Sussex County Council"
-  - name: "Enfield London Borough Council"
-  - name: "Essex County Council"
-  - name: "Gateshead Council"
-  - name: "Gloucestershire County Council"
-  - name: "Hackney London Borough Council"
-  - name: "Halton Borough Council"
-  - name: "Hammersmith & Fulham London Borough Council"
-  - name: "Hampshire County Council"
-  - name: "Haringey London Borough Council"
-  - name: "Harrow London Borough Council"
-  - name: "Hartlepool Borough Council"
-  - name: "Havering London Borough Council"
-  - name: "Herefordshire Council"
-  - name: "Hertfordshire County Council"
-  - name: "Hillingdon London Borough Council"
-  - name: "Hounslow London Borough Council"
-  - name: "Hull City Council"
-  - name: "Isle of Wight Council"
-  - name: "Islington London Borough"
-  - name: "Kensington & Chelsea Royal Borough Council"
-  - name: "Kent County Council"
-  - name: "Kingston Upon Thames Royal Borough/Achieving for Children"
-  - name: "Kirklees Council"
-  - name: "Knowsley Metropolitan Borough Council"
-  - name: "Lambeth London Borough Council"
-  - name: "Lancashire County Council"
-  - name: "Leeds City Council"
-  - name: "Leicester City Council"
-  - name: "Leicestershire County Council"
-  - name: "Lewisham London Borough Council"
-  - name: "Lincolnshire County Council"
-  - name: "Liverpool City Council"
-  - name: "Luton Borough Council"
-  - name: "Manchester City Council"
-  - name: "Medway Council"
-  - name: "Merton London Borough Council"
-  - name: "Middlesbrough Council"
-  - name: "Milton Keynes Council"
-  - name: "Newcastle City Council"
-  - name: "Newham London Borough Council"
-  - name: "Norfolk County Council"
-  - name: "North East Lincolnshire Council"
-  - name: "North Lincolnshire Council"
-  - name: "North Somerset Council"
-  - name: "North Tyneside Council"
-  - name: "North Yorkshire Council"
-  - name: "Northamptonshire Children's Trust"
-  - name: "Northumberland County Council"
-  - name: "Nottingham City Council"
-  - name: "Nottinghamshire County Council"
-  - name: "Oldham Council"
-  - name: "Oxfordshire County Council"
-  - name: "Peterborough City Council"
-  - name: "Plymouth City Council"
-  - name: "Portsmouth City Council"
-  - name: "Reading Borough Council"
-  - name: "Redbridge London Borough Council"
-  - name: "Redcar & Cleveland Borough Council"
-  - name: "Richmond Upon Thames London Borough"
-  - name: "Rochdale Metropolitan Borough Council"
-  - name: "Rotherham Metropolitan Borough Council"
-  - name: "Royal Borough of Greenwich Council"
-  - name: "Royal Borough of Windsor & Maidenhead Council"
-  - name: "Rutland County Council"
-  - name: "Salford City Council"
-  - name: "Sandwell Children’s Trust"
-  - name: "Sefton Metropolitan Borough Council"
-  - name: "Sheffield City Council"
-  - name: "Shropshire Council"
-  - name: "Slough Borough Council and Slough Children First"
-  - name: "Solihull Metropolitan Borough Council"
-  - name: "Somerset County Council"
-  - name: "South Gloucestershire Council"
-  - name: "South Tyneside Metropolitan Borough Council"
-  - name: "Southampton City Council"
-  - name: "Southend-on-Sea Council"
-  - name: "Southwark Council"
-  - name: "St Helens Metropolitan Borough Council"
-  - name: "Staffordshire County Council"
-  - name: "Stockport Metropolitan Borough Council"
-  - name: "Stockton-on-Tees Borough Council"
-  - name: "Stoke-on-Trent City Council"
-  - name: "Suffolk County Council"
-  - name: "Sunderland City Council / Together for Children"
-  - name: "Surrey County Council"
-  - name: "Sutton London Borough Council"
-  - name: "Swindon Borough Council"
-  - name: "Tameside Metropolitan Borough Council"
-  - name: "Telford & Wrekin Council"
-  - name: "Thurrock Council"
-  - name: "Torbay Council"
-  - name: "Tower Hamlets London Borough Council"
-  - name: "Trafford Council"
-  - name: "Wakefield Metropolitan District Council"
-  - name: "Walsall Council"
-  - name: "Waltham Forest Borough Council"
-  - name: "Wandsworth Borough Council"
-  - name: "Warrington Borough Council"
-  - name: "Warwickshire County Council"
-  - name: "West Berkshire Council"
-  - name: "West Sussex County Council"
-  - name: "Westminster City Council"
-  - name: "Westmorland and Furness Council"
-  - name: "Wigan Council"
-  - name: "Wiltshire County Council"
-  - name: "Wirral Metropolitan Borough Council"
-  - name: "Wokingham Borough Council"
-  - name: "Worcestershire County Council"
+  - name: Cumberland Council
+  - name: Darlington Borough Council
+  - name: Derby City Council
+  - name: Derbyshire County Council
+  - name: Devon County Council
+  - name: Dorset Council
+  - name: Dudley Metropolitan Borough Council
+  - name: Durham County Council
+  - name: Ealing London Borough Council
+  - name: East Riding of Yorkshire Council
+  - name: East Sussex County Council
+  - name: Enfield London Borough Council
+  - name: Essex County Council
+  - name: Gateshead Council
+  - name: Gloucestershire County Council
+  - name: Hackney London Borough Council
+  - name: Halton Borough Council
+  - name: Hammersmith & Fulham London Borough Council
+  - name: Hampshire County Council
+  - name: Haringey London Borough Council
+  - name: Harrow London Borough Council
+  - name: Hartlepool Borough Council
+  - name: Havering London Borough Council
+  - name: Herefordshire Council
+  - name: Hertfordshire County Council
+  - name: Hillingdon London Borough Council
+  - name: Hounslow London Borough Council
+  - name: Hull City Council
+  - name: Isle of Wight Council
+  - name: Islington London Borough
+  - name: Kensington & Chelsea Royal Borough Council
+  - name: Kent County Council
+  - name: Kingston Upon Thames Royal Borough/Achieving for Children
+  - name: Kirklees Council
+  - name: Knowsley Metropolitan Borough Council
+  - name: Lambeth London Borough Council
+  - name: Lancashire County Council
+  - name: Leeds City Council
+  - name: Leicester City Council
+  - name: Leicestershire County Council
+  - name: Lewisham London Borough Council
+  - name: Lincolnshire County Council
+  - name: Liverpool City Council
+  - name: Luton Borough Council
+  - name: Manchester City Council
+  - name: Medway Council
+  - name: Merton London Borough Council
+  - name: Middlesbrough Council
+  - name: Milton Keynes Council
+  - name: Newcastle City Council
+  - name: Newham London Borough Council
+  - name: Norfolk County Council
+  - name: North East Lincolnshire Council
+  - name: North Lincolnshire Council
+  - name: North Somerset Council
+  - name: North Tyneside Council
+  - name: North Yorkshire Council
+  - name: Northamptonshire Children's Trust
+  - name: Northumberland County Council
+  - name: Nottingham City Council
+  - name: Nottinghamshire County Council
+  - name: Oldham Council
+  - name: Oxfordshire County Council
+  - name: Peterborough City Council
+  - name: Plymouth City Council
+  - name: Portsmouth City Council
+  - name: Reading Borough Council
+  - name: Redbridge London Borough Council
+  - name: Redcar & Cleveland Borough Council
+  - name: Richmond Upon Thames London Borough
+  - name: Rochdale Metropolitan Borough Council
+  - name: Rotherham Metropolitan Borough Council
+  - name: Royal Borough of Greenwich Council
+  - name: Royal Borough of Windsor & Maidenhead Council
+  - name: Rutland County Council
+  - name: Salford City Council
+  - name: Sandwell Children’s Trust
+  - name: Sefton Metropolitan Borough Council
+  - name: Sheffield City Council
+  - name: Shropshire Council
+  - name: Slough Borough Council and Slough Children First
+  - name: Solihull Metropolitan Borough Council
+  - name: Somerset County Council
+  - name: South Gloucestershire Council
+  - name: South Tyneside Metropolitan Borough Council
+  - name: Southampton City Council
+  - name: Southend-on-Sea Council
+  - name: Southwark Council
+  - name: St Helens Metropolitan Borough Council
+  - name: Staffordshire County Council
+  - name: Stockport Metropolitan Borough Council
+  - name: Stockton-on-Tees Borough Council
+  - name: Stoke-on-Trent City Council
+  - name: Suffolk County Council
+  - name: Sunderland City Council / Together for Children
+  - name: Surrey County Council
+  - name: Sutton London Borough Council
+  - name: Swindon Borough Council
+  - name: Tameside Metropolitan Borough Council
+  - name: Telford & Wrekin Council
+  - name: Thurrock Council
+  - name: Torbay Council
+  - name: Tower Hamlets London Borough Council
+  - name: Trafford Council
+  - name: Wakefield Metropolitan District Council
+  - name: Walsall Council
+  - name: Waltham Forest Borough Council
+  - name: Wandsworth Borough Council
+  - name: Warrington Borough Council
+  - name: Warwickshire County Council
+  - name: West Berkshire Council
+  - name: West Sussex County Council
+  - name: Westminster City Council
+  - name: Westmorland and Furness Council
+  - name: Wigan Council
+  - name: Wiltshire County Council
+  - name: Wirral Metropolitan Borough Council
+  - name: Wokingham Borough Council
+  - name: Worcestershire County Council
+authorities:
+  - Barking and Dagenham London Borough Council
