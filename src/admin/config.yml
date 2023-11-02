@@ -10,7 +10,7 @@ local_backend: false
 
 # publish_mode: editorial_workflow
 collections:
-  - label: 'Projects & Topics'
+  - label: 'Projects, Topics, Authorities'
     name: 'recommendationsTopicsTags'
     files:
       - label: 'Topics Collection'
@@ -176,6 +176,16 @@ collections:
                   widget: 'markdown',
                   required: false,
                 }
+      - label: 'Authorities'
+        name: 'authorityCollection'
+        file: 'src/_data/authority.yml'
+        fields:
+          - label: 'Authorities'
+            name: 'authorities'
+            widget: 'list'
+            summary: '{{fields.name}}'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
   - name: 'pages'
     label: 'Pages'
     files:
