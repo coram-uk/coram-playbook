@@ -23,3 +23,11 @@
 1. User publishes the content
 1. Static CMS saves the published content in the main branch
 1. Netlify sees the published content and deploys it to the hosting behind `<url>`
+
+## Future Notes
+
+### CMS Branching
+
+Right now, Static CMS does not create a branch as diagrammed and instead just stores changes on the editor's computer until publishing. However, this feature is coming soon and can be upgraded in the future to do this. This will better enable previewing content before publishing.
+
+When that time comes, the version number in `@staticcms/app@^3.3.0` can be updated in [`src/admin/index.html][/src/admin/index.html].
