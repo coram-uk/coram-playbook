@@ -16,18 +16,18 @@ topics:
       supportive relationships throughout their time in care. Testing 123
     why: Children in foster care deserve every support available, including rich
       relationships with their support network.
-    what: >-
-      
+    what: >
+      - **Document a youth's support network.** Whether with a heart map or a
+      genogram, capture all of a youth's relationships, their contact
+      information, and a next step for staying in touch. 
 
-      * **Document a youth's support network.** Whether with a heart map or a genogram, capture all of a youth's relationships, their contact information, and a next step for staying in touch. 
+      - **Make it policy to keep in touch.** A child's worker and foster family should have an active plan for staying in touch with every connection, whether that's through in person visits, video calls, summer trips, rides to school, or other interactions. It should be a formal responsibility for the worker and the foster family to adhere to this plan. 
 
-      * **Make it policy to keep in touch.** A child's worker and foster family should have an active plan for staying in touch with every connection, whether that's through in person visits, video calls, summer trips, rides to school, or other interactions. It should be a formal responsibility for the worker and the foster family to adhere to this plan. 
-
-      * **Support those supportive adults** An adult may love a child but not know exactly how to support them or to navigate the child welfare system. Offer resources, like training or even simply an occasional conversation, to the entire support network.
+      - **Support those supportive adults** An adult may love a child but not know exactly how to support them or to navigate the child welfare system. Offer resources, like training or even simply an occasional conversation, to the entire support network.
     recommendations: []
   - hero:
       backgroundColor: light
-      title: Emergency Placements
+      title: Early Intervention and Early Help
       image: /src/images/heros/hero-baby.png
       imgAlt: emergency-placements
     layout: topic
@@ -109,7 +109,7 @@ topics:
 
 
       But most youth enter foster care with more connections than they leave with.
-    what: >-
+    what: >
       **Ask young people.** Children often have more supportive people in their
       lives than you — or they — realize. And the ways you ask children about
       their networks can get different results. For example, try questions like,
