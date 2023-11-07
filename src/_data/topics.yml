@@ -572,3 +572,18 @@ topics:
       - find-awol-youth
       - protect-youth-privacy-on-social-media
       - foster-family-support-groups-on-social
+  - hero:
+      backgroundColor:
+        - light
+      title: Testing Content Manager
+      image: /src/images/heros/all-recs.jpg
+      imgAlt: testing-content
+    layout: topic
+    title: testing-content-manager
+    about: |
+      Testing out the content manager.
+    why: |
+      Testing this out.
+    what: |
+      Testing…
+    image: /src/images/topics/icon-benefits.svg
