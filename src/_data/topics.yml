@@ -576,7 +576,7 @@ topics:
       backgroundColor:
         - light
       title: Testing Content Manager
-      image: /src/images/heros/all-recs.jpg
+      image: /src/images/heros/hero-baby.png
       imgAlt: testing-content
     layout: topic
     title: testing-content-manager
