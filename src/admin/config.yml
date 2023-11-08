@@ -229,8 +229,9 @@ collections:
                     multiple: true
                     min: 1
                     max: 6
+                    display_fields: ['topics.*.hero.title']
                     value_field: 'topics.*.title'
-                    search_fields: ['topics.*.title']
+                    search_fields: ['topics.*.title', 'topics.*.hero.title']
                     file: 'topicsCollection'
               - label: 'Features'
                 name: 'features'

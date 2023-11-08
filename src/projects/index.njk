@@ -38,9 +38,11 @@ title: Projects
     <div>
       <template x-for="projectGroup in projectGroups">
         <div class="mb-12">
-          <h2 class="text-4xl font-bold mb-8 mt-0">
-              <span class="border-b-[6px] border-primary pb-2" x-text="projectGroup"></span>
-          </h2>
+          <template x-if="filteredProjects.some(project => project.heading.charAt(0) === projectGroup)">
+            <h2 class="text-4xl font-bold mb-8 mt-0">
+                <span class="border-b-[6px] border-primary pb-2" x-text="projectGroup"></span>
+            </h2>
+          </template>
           <ul>
             <template x-for="project in filteredProjects" :key="project.title">
               <li x-show="project.heading.charAt(0) === projectGroup">
