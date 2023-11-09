@@ -16,7 +16,7 @@ path: home
             <h1 class="text-7xl font-bold mb-24">{{ hero.title }}</h1>
             <form action="/search" method="GET" class="flex gap-2">
                 <input class="placeholder-primary text-primary border-b-2 border-primary w-full p-4" type="text" name="q" id="q" />
-                <input type="submit" class="cursor-pointer font-sans bg-primary text-white font-bold px-12" value="Search" />
+                <input type="submit" class="cursor-pointer font-sans bg-primary text-white font-bold px-12 border-2 border-primary hover:bg-white hover:border-primary hover:text-primary" value="Search" />
             </form>
         </div>
     </div>
@@ -30,7 +30,7 @@ path: home
                     <span class="border-b-[6px] border-primary pb-2">{{ topicSection.title }}</span>
                 </h2>
                 <p class="mb-8">{{ topicSection.content }}</p>
-                <a href="{{ topics.buttonurl }}" class="bg-primary text-white font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-primary hover:text-white">{{ topicSection.buttontext }}</a>
+                <a href="{{ topics.buttonurl }}" class="bg-primary text-white font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-white hover:text-primary hover:border-primary border-2 border-transparent">{{ topicSection.buttontext }}</a>
             </div>
             <div class="lg:col-span-2 w-full grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-4">
                 {% for topic in topicSection.topics %}
