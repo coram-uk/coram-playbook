@@ -36,9 +36,9 @@ path: home
                 {% for topic in topicSection.topics %}
                     {% for candidateTopic in topics.topics %}
                         {% if topic === candidateTopic.title %}
-                            <a class="text-[21px] text-navy hover:underline h-[220px] bg-[#F4B413] block p-8 pt-12 text-center font-bold flex flex-col" href="/topics/{{ candidateTopic.title }}">
+                            <a class="group hover:text-white hover:bg-primary text-[21px] text-navy hover:underline h-[220px] bg-[#F4B413] block p-8 pt-12 text-center font-bold flex flex-col" href="/topics/{{ candidateTopic.title }}">
                                 <span class="flex-grow">{{ candidateTopic.hero.title }}</span>
-                                <span class="mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="27" fill="none"><path fill="#000" stroke="#000" d="M1.32 22.326h-.001a2.353 2.353 0 0 0 0 3.306v.001a2.323 2.323 0 0 0 3.294 0l10.435-10.505a2.353 2.353 0 0 0 0-3.306L4.613 1.315a2.323 2.323 0 0 0-3.293 0h-.001a2.353 2.353 0 0 0 0 3.306l8.799 8.856-8.798 8.848Z"/></svg></span>
+                                <span class="mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="27" fill="none"><path class="group-hover:fill-white fill-navy" d="M1.32 22.326h-.001a2.353 2.353 0 0 0 0 3.306v.001a2.323 2.323 0 0 0 3.294 0l10.435-10.505a2.353 2.353 0 0 0 0-3.306L4.613 1.315a2.323 2.323 0 0 0-3.293 0h-.001a2.353 2.353 0 0 0 0 3.306l8.799 8.856-8.798 8.848Z"/></svg></span>
                             </a>
                         {% endif %}
                     {% endfor %}

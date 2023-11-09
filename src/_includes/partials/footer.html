@@ -21,8 +21,8 @@
                 <ul class="flex gap-2 flex-wrap">
                     {% for link in footer.socialLinks %}
                         <li>
-                            <a href="{{link.url}}" class="hover:underline">
-                                <img src="{{link.icon | replace('/src', '')}}" alt="{{link.title}}" class="w-[44px]" />
+                            <a href="{{link.url}}" class="hover:underline hover:bg-primary">
+                                {{ link.icon | safe }}
                             </a>
                         </li>
                     {% endfor %}
