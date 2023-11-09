@@ -45,17 +45,6 @@ collections:
                   widget: 'hidden',
                   default: 'topic',
                 }
-              - {
-                  label: 'Recommendations',
-                  name: 'recommendations',
-                  collection: 'recommendationsTopicsTags',
-                  widget: 'relation',
-                  multiple: true,
-                  value_field: 'recommendations.*.title',
-                  search_fields: ['recommendations.*.title'],
-                  file: 'recommendationsCollection',
-                  required: false,
-                }
       - name: 'projectsCollection'
         label: 'Projects Collection'
         file: 'src/_data/projects.yml'
@@ -89,11 +78,15 @@ collections:
                 required: false
                 fields:
                   - {
-                      label: 'Number of States & Territories',
-                      name: 'number',
-                      widget: 'number',
-                      value_type: 'int',
-                      max: 54,
+                      label: 'Authorities',
+                      name: 'authorities',
+                      collection: 'recommendationsTopicsTags',
+                      widget: 'relation',
+                      multiple: true,
+                      display_fields: ['authorities.*'],
+                      value_field: 'authorities.*',
+                      search_fields: ['authorities.*'],
+                      file: 'authorityCollection',
                       required: false,
                     }
                   - {
