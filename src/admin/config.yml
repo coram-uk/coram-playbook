@@ -33,11 +33,11 @@ collections:
                 widget: 'object'
                 fields:
                   - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: 'About Title', name: 'aboutTitle', widget: 'string' }
+              - { label: 'About Title', name: 'aboutTitle', widget: 'string', default: 'About this topic' }
               - { label: 'About Content', name: 'about', widget: 'markdown' }
-              - { label: 'Why Title', name: 'whyTitle', widget: 'string' }
+              - { label: 'Why Title', name: 'whyTitle', widget: 'string', default: 'Why it matters' }
               - { label: 'Why Content', name: 'why', widget: 'markdown' }
-              - { label: 'What Title', name: 'whatTitle', widget: 'string' }
+              - { label: 'What Title', name: 'whatTitle', widget: 'string', default: 'What can we do' }
               - { label: 'What Content', name: 'what', widget: 'markdown' }
               - {
                   label: 'layout',
