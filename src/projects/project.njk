@@ -40,11 +40,8 @@ permalink: "/projects/{{ project.title }}/"
         <div class="w-[210px]">
             <div class="font-bold text-3xl text-white mb-2">On this page</div>
             <ul class="flex flex-col gap-2">
-                <li><a class="text-lg underline text-white" href="#about">About this project</a></li>
-                <li><a class="text-lg underline text-white" href="#how">How to do this</a></li>
-                <li><a class="text-lg underline text-white" href="#costs">Anticipated costs and benefits</a></li>
-                <li><a class="text-lg underline text-white" href="#doing">Who's doing this</a></li>
-                <li><a class="text-lg underline text-white" href="#inspiration">Get Inspiration</a></li>
+                <li><a class="text-lg underline text-white" href="#about">{{ project.aboutTitle }}</a></li>
+                <li><a class="text-lg underline text-white" href="#doing">{{ project.whoTitle }}</a></li>
             </ul>
         </div>
     </div>
@@ -53,87 +50,17 @@ permalink: "/projects/{{ project.title }}/"
             {% if project.about %}
                 <div class="mb-12">
                     <h2 id="about" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">About this project</span>
+                        <span class="border-b-[6px] border-primary pb-2">{{ project.aboutTitle }}</span>
                     </h2>
                     {{ project.about | markdown | safe }}
-                </div>
-            {% endif %}
-            {% if project.how %}
-                <div class="mb-12">
-                    <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">How to do this</span>
-                    </h2>
-                    {{ project.how | markdown | safe }}
-                </div>
-            {% endif %}
-
-            {% if project.costs or project.benefits %}
-                <div class="mb-12">
-                    <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">Anticipated costs and benefits</span>
-                    </h2>
-                    <div class="flex flex-wrap">
-                        {% if project.costs %}
-                            <div class="w-full md:w-1/2 md:border-r-2 border-grey-600">
-                                <div class="flex gap-4 items-center py-4 border-b-2">
-                                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M13.0645 0.843994C9.81589 0.843994 6.70005 2.13463 4.40181 4.43135C2.10495 6.72931 0.814453 9.84544 0.814453 13.094C0.814453 16.3426 2.10509 19.4584 4.40181 21.7566C6.69977 24.0535 9.81589 25.344 13.0645 25.344C16.313 25.344 19.4289 24.0534 21.7271 21.7566C24.024 19.4587 25.3145 16.3426 25.3145 13.094C25.3145 9.84544 24.0238 6.72959 21.7271 4.43135C19.4291 2.13449 16.313 0.843994 13.0645 0.843994ZM13.0645 23.594C10.2798 23.594 7.60893 22.4882 5.63997 20.5185C3.67012 18.5497 2.56445 15.8789 2.56445 13.094C2.56445 10.3091 3.67023 7.63847 5.63997 5.66951C7.60871 3.69966 10.2796 2.59399 13.0645 2.59399C15.8493 2.59399 18.52 3.69977 20.4889 5.66951C22.4588 7.63825 23.5645 10.3091 23.5645 13.094C23.5645 15.8789 22.4587 18.5495 20.4889 20.5185C18.5202 22.4883 15.8493 23.594 13.0645 23.594Z" fill="#B50E1A"/>
-                                    <circle cx="12.8567" cy="12.9036" r="11.8743" fill="#B50E1A"/>
-                                    <path d="M16.5649 15.7189H12.0322C12.134 15.4378 12.1875 15.1425 12.1897 14.8439V13.9689H13.0647C13.5482 13.9689 13.9397 13.5773 13.9397 13.0939C13.9397 12.6104 13.5482 12.2189 13.0647 12.2189H12.1897V10.9064C12.1897 10.1812 12.7771 9.59389 13.5022 9.59389C14.2274 9.59389 14.8147 10.1812 14.8147 10.9064V11.3439C14.8147 11.8273 15.2063 12.2189 15.6897 12.2189C16.1732 12.2189 16.5647 11.8273 16.5647 11.3439V10.9064C16.5647 9.21544 15.1932 7.84375 13.5021 7.84375C11.811 7.84375 10.4395 9.2153 10.4395 10.9064V12.2189H9.56445C9.08101 12.2189 8.68945 12.6104 8.68945 13.0939C8.68945 13.5773 9.08101 13.9689 9.56445 13.9689H10.4395V14.8439C10.4395 15.0758 10.3476 15.2989 10.1835 15.4629C10.0195 15.627 9.79633 15.7189 9.56446 15.7189C9.08102 15.7189 8.68946 16.1104 8.68946 16.5939C8.68946 17.0773 9.08102 17.4689 9.56446 17.4689H16.5645C17.0479 17.4689 17.4395 17.0773 17.4395 16.5939C17.4395 16.1104 17.0479 15.7189 16.5645 15.7189L16.5649 15.7189Z" fill="white"/>
-                                    </svg>
-                                    <h3 class="my-0">Costs</h3>
-                                </div>
-                                <div>
-                                    <ul>
-                                        {% for cost in project.costs %}
-                                            <li>{{ cost }}</li>
-                                        {% endfor %}
-                                    </ul>
-                                </div>
-                            </div>
-                        {% endif %}
-                        {% if project.benefits %}
-                            <div class="w-full md:w-1/2">
-                                <div class="flex gap-4 items-center py-4 px-0 md:px-4 border-b-2 border-grey-600">
-                                    <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_631_447)">
-                                    <path d="M12.0891 0.0884504C10.5101 0.082997 8.94558 0.389702 7.4855 0.990905C6.02542 1.59211 4.69857 2.47596 3.58121 3.59167C2.46386 4.70738 1.57804 6.03292 0.974688 7.49211C0.371331 8.95131 0.0623293 10.5154 0.0654531 12.0944C0.0623386 13.6711 0.370598 15.233 0.972551 16.6903C1.5745 18.1476 2.4583 19.4717 3.57323 20.5866C4.68815 21.7015 6.01225 22.5853 7.46957 23.1873C8.92688 23.7892 10.4887 24.0975 12.0655 24.0944C13.6422 24.0975 15.204 23.7892 16.6613 23.1873C18.1187 22.5853 19.4428 21.7015 20.5577 20.5866C21.6726 19.4717 22.5564 18.1476 23.1584 16.6903C23.7603 15.233 24.0686 13.6711 24.0655 12.0944C24.0678 10.5198 23.7598 8.9603 23.159 7.50488C22.5583 6.04946 21.6765 4.72672 20.5643 3.61226C19.452 2.4978 18.131 1.61346 16.6768 1.00984C15.2226 0.406217 13.6636 0.0951392 12.0891 0.0943646V0.0884504Z" fill="#002C59"/>
-                                    <path d="M15.6459 8.57297L10.9842 13.2643L9.03437 11.3145C8.93273 11.2118 8.81173 11.1302 8.67837 11.0746C8.54501 11.0189 8.40193 10.9903 8.25743 10.9903C8.11292 10.9903 7.96983 11.0189 7.83647 11.0746C7.70311 11.1302 7.58211 11.2118 7.48047 11.3145C7.37775 11.4161 7.29621 11.5371 7.24055 11.6705C7.1849 11.8039 7.15625 11.9469 7.15625 12.0914C7.15625 12.236 7.1849 12.379 7.24055 12.5124C7.29621 12.6458 7.37775 12.7668 7.48047 12.8684L10.2042 15.5981C10.4116 15.8044 10.6917 15.9211 10.9842 15.923C11.2749 15.9208 11.553 15.804 11.7582 15.5981L17.1998 10.1387C17.3027 10.0366 17.3844 9.91505 17.4401 9.7812C17.4958 9.64734 17.5245 9.50379 17.5245 9.3588C17.5245 9.21381 17.4958 9.07026 17.4401 8.93641C17.3844 8.80255 17.3027 8.68104 17.1998 8.57889C16.9878 8.37731 16.7065 8.26489 16.414 8.26489C16.1215 8.26489 15.8401 8.37731 15.6282 8.57889L15.6459 8.57297Z" fill="white"/>
-                                    </g>
-                                    <defs>
-                                    <clipPath id="clip0_631_447">
-                                    <rect width="24" height="24" fill="white" transform="translate(0.0888672 0.0883789)"/>
-                                    </clipPath>
-                                    </defs>
-                                    </svg>
-                                    <h3 class="my-0">Benefits</h3>
-                                </div>
-                                <div>
-                                    <ul>
-                                        {% for benefit in project.benefits %}
-                                            <li>{{ benefit }}</li>
-                                        {% endfor %}
-                                    </ul>
-                                </div>
-                            </div>
-                        {% endif %}
-                    </div>
                 </div>
             {% endif %}
             {% if project.who %}
                 <div class="mb-12">
                     <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">Who's doing this</span>
+                        <span class="border-b-[6px] border-primary pb-2">{{ project.whoTitle }}</span>
                     </h2>
                     <img src="{{ project.who.image }}" />
-                </div>
-            {% endif %}
-            {% if project.inspiration %}
-                <div class="mb-12">
-                    <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">Get Inspiration</span>
-                    </h2>
-                    {{ project.inspiration | markdown | safe }}
                 </div>
             {% endif %}
         </div>

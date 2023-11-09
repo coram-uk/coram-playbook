@@ -76,36 +76,17 @@ collections:
                   name: 'heading',
                   widget: 'string',
                 }
+              - { label: 'About Title', name: 'aboutTitle', widget: 'string', default: 'About this project', required: false }
               - {
-                  label: 'About this recommendation',
+                  label: 'About this project',
                   name: 'about',
                   widget: 'markdown',
                 }
-              - { label: 'How to do this', name: 'how', widget: 'markdown' }
-              - {
-                  label: 'Costs',
-                  name: 'costs',
-                  widget: 'list',
-                  field: { label: 'Cost', name: 'cost', widget: 'string' },
-                  summary: '{{fields.cost}}',
-                }
-              - {
-                  label: 'Benefits',
-                  name: 'benefits',
-                  widget: 'list',
-                  field:
-                    { label: 'Benefit', name: 'benefit', widget: 'string' },
-                  summary: '{{fields.benefit}}',
-                }
-              - {
-                  label: 'Outcome Data',
-                  name: 'outcome',
-                  widget: 'markdown',
-                  required: false,
-                }
+              - { label: 'Who Title', name: 'whoTitle', widget: 'string', default: 'Who is doing this', required: false }
               - label: "Who's doing this"
                 name: 'who'
                 widget: 'object'
+                required: false
                 fields:
                   - {
                       label: 'Number of States & Territories',
@@ -128,24 +109,6 @@ collections:
                       widget: 'markdown',
                       required: false,
                     }
-              - {
-                  label: 'Get inspiration',
-                  name: 'inspiration',
-                  widget: 'markdown',
-                  required: false,
-                }
-              - {
-                  label: 'Summary for topic',
-                  name: 'summaryForTopic',
-                  widget: 'markdown',
-                  required: false,
-                }
-              - {
-                  label: "What's Needed",
-                  name: 'need',
-                  widget: 'markdown',
-                  required: false,
-                }
       - label: 'Local Authorities'
         name: 'authorityCollection'
         file: 'src/_data/authority.yml'
