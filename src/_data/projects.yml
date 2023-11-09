@@ -27,6 +27,10 @@ projects:
       number: 13
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Barking and Dagenham London Borough Council
+        - Barnet London Borough Council
+        - Barnsley Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Complete background check forms at orientation
