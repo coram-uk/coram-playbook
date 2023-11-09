@@ -55,14 +55,24 @@ permalink: "/projects/{{ project.title }}/"
                     {{ project.about | markdown | safe }}
                 </div>
             {% endif %}
-            {% if project.who %}
-                <div class="mb-12">
-                    <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">{{ project.whoTitle }}</span>
-                    </h2>
-                    <img src="{{ project.who.image }}" />
+            <div class="mb-12">
+                <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
+                    <span class="border-b-[6px] border-primary pb-2">{{ project.whoTitle }}</span>
+                </h2>
+                <img src="{{ project.who.image }}" />
+                <div>
+                    {% if project.who.authorities %}
+                        <ul>
+                            {% for authority in project.authorities %}
+                                <li>{{ authority }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
                 </div>
-            {% endif %}
+                <div>
+                    {{ project.who.what | markdown | safe }}
+                </div>
+            </div>
         </div>
     </div>
 </div>
