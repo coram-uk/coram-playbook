@@ -40,9 +40,15 @@ permalink: "/topics/{{ topic.title }}/"
         <div class="w-[210px]">
             <div class="font-bold text-3xl text-white mb-2">On this page</div>
             <ul class="flex flex-col gap-2">
-                <li><a class="text-lg underline text-white" href="#about">About this topic</a></li>
-                <li><a class="text-lg underline text-white" href="#why">Why this matters</a></li>
-                <li><a class="text-lg underline text-white" href="#what">What we can do</a></li>
+                {% if topic.about %}
+                    <li><a class="text-lg underline text-white" href="#about">{{ topic.aboutTitle }}</a></li>
+                {% endif %}
+                {% if topic.why %}
+                    <li><a class="text-lg underline text-white" href="#why">{{ topic.whyTitle }}</a></li>
+                {% endif %}
+                {% if topic.why %}
+                    <li><a class="text-lg underline text-white" href="#what">{{ topic.whatTitle }}</a></li>
+                {% endif %}
             </ul>
         </div>
     </div>
@@ -51,7 +57,7 @@ permalink: "/topics/{{ topic.title }}/"
             {% if topic.about %}
                 <div class="mb-12">
                     <h2 id="about" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">About this topic</span>
+                        <span class="border-b-[6px] border-primary pb-2">{{ topic.aboutTitle }}</span>
                     </h2>
                     {{ topic.about | markdown | safe }}
                 </div>
@@ -59,7 +65,7 @@ permalink: "/topics/{{ topic.title }}/"
             {% if topic.why %}
                 <div class="mb-12">
                     <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">Why this matters</span>
+                        <span class="border-b-[6px] border-primary pb-2">{{ topic.whyTitle }}</span>
                     </h2>
                     {{ topic.why | markdown | safe }}
                 </div>
@@ -67,7 +73,7 @@ permalink: "/topics/{{ topic.title }}/"
             {% if topic.what %}
                 <div class="mb-12">
                     <h2 id="why" class="text-4xl font-bold mb-8 mt-0">
-                        <span class="border-b-[6px] border-primary pb-2">Why this matters</span>
+                        <span class="border-b-[6px] border-primary pb-2">{{ topic.whatTitle }}</span>
                     </h2>
                     {{ topic.what | markdown | safe }}
                 </div>
