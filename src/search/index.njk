@@ -87,14 +87,14 @@ title: Search
                                 <li class="mb-12">
                                     <template x-if="result && result.type === 'PROJECT'">
                                         <div class="text-lg">
-                                            <h3 class="text-[26px] text-navy font-bold"><a :href="'/projects/' + result.title" class="flex-grow" x-text="result.heading"></a></h3>
+                                            <h3 class="text-[26px] text-navy font-bold hover:underline"><a :href="'/projects/' + result.title" class="flex-grow" x-text="result.heading"></a></h3>
                                             <div class="my-2 font-bold">Project</div>
                                             <div class="flex-grow" x-html="markdownToHtml(result.about)"></div>
                                         </div>
                                     </template>
                                     <template x-if="result && result.type === 'TOPIC'">
                                         <div class="text-lg">
-                                            <h3 class="text-[26px] text-navy font-bold"><a :href="'/topics/' + result.title" class="flex-grow" x-text="result.hero.title"></a></h3>
+                                            <h3 class="text-[26px] text-navy font-bold hover:underline"><a :href="'/topics/' + result.title" class="flex-grow" x-text="result.hero.title"></a></h3>
                                             <div class="my-2 font-bold">Topic</div>
                                             <div class="flex-grow" x-html="markdownToHtml(result.why)"></div>
                                         </div>
@@ -118,7 +118,7 @@ title: Search
                                 <li class="mb-12">
                                     <template x-if="result && result.type === 'PROJECT'">
                                         <div class="text-lg">
-                                            <h3 class="text-[26px] text-navy font-bold"><a :href="'/projects/' + result.title" class="flex-grow" x-text="result.heading"></a></h3>
+                                            <h3 class="text-[26px] text-navy font-bold hover:underline"><a :href="'/projects/' + result.title" class="flex-grow" x-text="result.heading"></a></h3>
                                             <div class="my-2 font-bold">Project</div>
                                             <div class="flex-grow" x-html="markdownToHtml(result.about)"></div>
                                         </div>
@@ -142,7 +142,7 @@ title: Search
                                 <li class="mb-12">
                                     <template x-if="result && result.type === 'TOPIC'">
                                         <div class="text-lg">
-                                            <h3 class="text-[26px] text-navy font-bold"><a :href="'/topics/' + result.title" class="flex-grow" x-text="result.hero.title"></a></h3>
+                                            <h3 class="text-[26px] text-navy font-bold hover:underline"><a :href="'/topics/' + result.title" class="flex-grow" x-text="result.hero.title"></a></h3>
                                             <div class="my-2 font-bold">Topic</div>
                                             <div class="flex-grow" x-html="markdownToHtml(result.about)"></div>
                                         </div>
