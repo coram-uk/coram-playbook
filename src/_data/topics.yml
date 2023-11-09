@@ -1,33 +1,35 @@
 topics:
   - hero:
       backgroundColor: light
-      title: Adolescent Mental Health
+      title: Connecting Youth to Their Supportive Adults Test
       image: /src/images/heros/hero-baby.png
       imgAlt: connecting-youth-to-their-supportive-adults
     layout: topic
-    title: adolescent-mental-health
+    title: connecting-youth-to-their-supportive-adults-test
     image: /src/images/topics/Topic-FPL.svg
-    about: >
-      Youth in foster care often leave with fewer connections than they entered
+    about: Youth in foster care often leave with fewer connections than they entered
       care with. Children can't be expected to maintain these relationships by
       themselves—they can't drive, may not have a phone while in care, and may
       not even have contact information. It should be the responsibility of
       every child welfare system to maintain and nurture all of a child's
-      supportive relationships throughout their time in care. Testing 123
+      supportive relationships throughout their time in care.
     why: Children in foster care deserve every support available, including rich
       relationships with their support network.
-    what: >
-      - **Document a youth's support network.** Whether with a heart map or a
-      genogram, capture all of a youth's relationships, their contact
-      information, and a next step for staying in touch. 
+    what: >-
+      
 
-      - **Make it policy to keep in touch.** A child's worker and foster family should have an active plan for staying in touch with every connection, whether that's through in person visits, video calls, summer trips, rides to school, or other interactions. It should be a formal responsibility for the worker and the foster family to adhere to this plan. 
+      * **Document a youth's support network.** Whether with a heart map or a genogram, capture all of a youth's relationships, their contact information, and a next step for staying in touch. 
 
-      - **Support those supportive adults** An adult may love a child but not know exactly how to support them or to navigate the child welfare system. Offer resources, like training or even simply an occasional conversation, to the entire support network.
+      * **Make it policy to keep in touch.** A child's worker and foster family should have an active plan for staying in touch with every connection, whether that's through in person visits, video calls, summer trips, rides to school, or other interactions. It should be a formal responsibility for the worker and the foster family to adhere to this plan. 
+
+      * **Support those supportive adults** An adult may love a child but not know exactly how to support them or to navigate the child welfare system. Offer resources, like training or even simply an occasional conversation, to the entire support network.
     recommendations: []
+    aboutTitle: About this topic
+    whyTitle: Why it's important
+    whatTitle: What it's about
   - hero:
       backgroundColor: light
-      title: Early Intervention and Early Help
+      title: Emergency Placements
       image: /src/images/heros/hero-baby.png
       imgAlt: emergency-placements
     layout: topic
@@ -43,17 +45,23 @@ topics:
     why: A strategic variety of emergency options can ultimately increase the number
       of youth initially placed with kin (by giving the system enough time to
       find them) and avoid institutional placements.
-    what: >-
-      
+    what: >
+      - **Dedicated emergency placements.** Sometimes called crisis nurseries or
+      receiving homes, facilities or dedicated foster homes that specialize in
+      very short-term (usually under 72 hours) emergency placements can give
+      taxed placement desks enough time to find and resource kinship placements,
+      or at worst, thoughtfully match the child with an available home in the
+      community that matches their needs. 
 
-      * **Dedicated emergency placements.** Sometimes called crisis nurseries or receiving homes, facilities or dedicated foster homes that specialize in very short-term (usually under 72 hours) emergency placements can give taxed placement desks enough time to find and resource kinship placements, or at worst, thoughtfully match the child with an available home in the community that matches their needs. 
-
-      * **Have families on call** A foster parent may be available to take a placement, but simply can't answer the phone right away. A schedule and/or compensation for families to be "on call" for possible placements can ensure children have placement options no matter what time of day.
+      - **Have families on call** A foster parent may be available to take a placement, but simply can't answer the phone right away. A schedule and/or compensation for families to be "on call" for possible placements can ensure children have placement options no matter what time of day.
     recommendations:
       - on-call-families
       - require-private-agency-emergency-beds
       - designated-emergency-homes
       - emergency-shelters
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: primary
       title: Extended Foster Care
@@ -84,6 +92,9 @@ topics:
       - give-cash-or-prepaid-cards-for-youth-stipends
       - use-specific-language-about-the-end-of-foster-care
       - hire-youth-with-lived-experience
+    aboutTitle: About this topic
+    whyTitle: Why it's important
+    whatTitle: What it's about
   - hero:
       backgroundColor: secondary
       title: Finding kin
@@ -109,7 +120,7 @@ topics:
 
 
       But most youth enter foster care with more connections than they leave with.
-    what: >
+    what: >-
       **Ask young people.** Children often have more supportive people in their
       lives than you — or they — realize. And the ways you ask children about
       their networks can get different results. For example, try questions like,
@@ -156,6 +167,9 @@ topics:
       - use-dna-to-find-more-family-connections
       - create-life-books
       - use-dna-to-find-more-family-connections
+    aboutTitle: About this topic
+    whyTitle: Why
+    whatTitle: What
   - hero:
       backgroundColor: light
       title: Foster Parent Compensation
@@ -195,6 +209,9 @@ topics:
       - pay-kinship-caregivers-until-they-get-licensed
       - provide-more-ways-for-foster-parents-to-earn-money
       - financial-bonuses-for-recruitment-referrals
+    aboutTitle: About
+    whyTitle: Why
+    whatTitle: What
   - hero:
       backgroundColor: light
       title: Foster Parent Licensing
@@ -230,6 +247,9 @@ topics:
       - accept-photos-to-resolve-minor-pending-inspection-items
       - send-appointment-reminders
       - use-bilingual-staff-members-instead-of-interpreters
+    aboutTitle: About
+    whyTitle: Why
+    whatTitle: What
   - hero:
       backgroundColor: primary
       title: Inquiry Management
@@ -261,6 +281,9 @@ topics:
       - respond-quickly-to-inquiries-with-information
       - reminders-to-stay-in-touch-with-families-who-submit-inquiries
       - use-inquiry-data-to-identify-recruitment-gaps
+    aboutTitle: About
+    whyTitle: Why
+    whatTitle: What
   - hero:
       backgroundColor: primary
       title: License Renewal
@@ -286,6 +309,9 @@ topics:
       - email-renewal-requirements
       - high-value-training-for-renewals
       - track-renewal-dates-on-calendar
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: light
       title: Out of State Child Abuse and Neglect Checks
@@ -367,6 +393,9 @@ topics:
     recommendations:
       - electronic-background-check
       - background-check-form
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: primary
       title: Recruitment
@@ -425,6 +454,9 @@ topics:
       - recruit-relative-caregivers-to-become-general-caregivers
       - reflect-community-in-recruitment
       - digital-marketing-for-recruitment
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: light
       title: Relative Licensing Exceptions
@@ -465,6 +497,9 @@ topics:
       - license-undocumented-kin
       - empower-line-level-exceptions
       - flexible-licensing-wording
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: light
       title: Retention
@@ -510,6 +545,9 @@ topics:
       - identify-natural-supports-for-caregivers
       - proactively-avoid-resource-family-burnout
       - create-a-resource-parent-handbook
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: light
       title: Sibling Connections
@@ -539,6 +577,9 @@ topics:
       - reimburse-for-sibling-visit-transportation
       - make-sibling-visits-fun
       - train-resource-parents-about-sibling-connections
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
   - hero:
       backgroundColor: light
       title: Social Media
@@ -572,3 +613,6 @@ topics:
       - find-awol-youth
       - protect-youth-privacy-on-social-media
       - foster-family-support-groups-on-social
+    aboutTitle: About this topic
+    whyTitle: About this topic
+    whatTitle: About this topic
