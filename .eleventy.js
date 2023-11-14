@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require("path");
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -50,6 +51,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addNunjucksFilter("markdown", function(markdownString) {
     const md = new markdownIt(markdownItOptions);
     return md.render(markdownString);
+  });
+
+  eleventyConfig.addShortcode("svg", function(iconPath) {
+    iconPath = String(iconPath);
+    return fs.readFileSync(path.join(__dirname, iconPath));
   });
 
   // Minify HTML
