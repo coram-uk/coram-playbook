@@ -58,7 +58,7 @@ home:
     content: Lorem ipsum dolor sit amet consectetur. Blandit nec vel enim in odio
       bibendum in. Lectus a orci amet tristique gravida egestas. Vulputate
       tincidunt non mauris at pellentesque sollicitudin diam risus.
-    buttontext: Button
+    buttontext: Click here to see more topics
     buttonurl: "#"
     topics:
       - emergency-placements
