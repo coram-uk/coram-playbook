@@ -66,7 +66,7 @@ projects:
     who:
       number: ""
       image: ""
-      what: Frederick County, MD
+      what: "\n\n\n"
       authorities:
         - Bolton Council
     aboutTitle: About this project
