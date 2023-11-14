@@ -38,10 +38,11 @@ projects:
     costs:
       - Staff time at orientation
     inspiration: ""
-    about: The process and timeframe for out-of-state abuse and neglect registry
+    about: >
+      The process and timeframe for out-of-state abuse and neglect registry
       checks — commonly called Adam Walsh checks — vary quite a bit from state
       to state. To get foster families approved faster, start out-of-state
-      background checks early.
+      background checks early. AND TEST
     how: >-
       * Ask prospective foster families if they’ve lived out-of-state during
       your initial meeting with them — or even before, when you can.
@@ -66,6 +67,8 @@ projects:
       number: ""
       image: ""
       what: Frederick County, MD
+      authorities:
+        - Bolton Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Use social media to find family members
