@@ -60,8 +60,8 @@ topics:
       - designated-emergency-homes
       - emergency-shelters
     aboutTitle: About this topic
-    whyTitle: About this topic
-    whatTitle: About this topic
+    whyTitle: Why it matters.
+    whatTitle: What are organisations doing to address this?
   - hero:
       backgroundColor: primary
       title: Extended Foster Care
