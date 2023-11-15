@@ -59,7 +59,7 @@ home:
       bibendum in. Lectus a orci amet tristique gravida egestas. Vulputate
       tincidunt non mauris at pellentesque sollicitudin diam risus.
     buttontext: Click here to see more topics
-    buttonurl: "#"
+    buttonurl: /topics
     topics:
       - emergency-placements
       - extended-foster-care
