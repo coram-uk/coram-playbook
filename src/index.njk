@@ -30,7 +30,7 @@ path: home
                     <span class="border-b-[6px] border-primary pb-2">{{ topicSection.title }}</span>
                 </h2>
                 <p class="mb-8">{{ topicSection.content }}</p>
-                <a href="{{ topics.buttonurl }}" class="bg-primary text-white font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-white hover:text-primary hover:border-primary border-2 border-transparent">{{ topicSection.buttontext }}</a>
+                <a href="{{ topicSection.buttonurl }}" class="bg-primary text-white font-bold min-w-[150px] inline-block px-6 py-4 text-center hover:bg-white hover:text-primary hover:border-primary border-2 border-transparent">{{ topicSection.buttontext }}</a>
             </div>
             <div class="lg:col-span-2 w-full grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-4">
                 {% for topic in topicSection.topics %}
