@@ -69,11 +69,9 @@ title: Projects
           if (!this.search) {
             return this.projects.sort((a, b) => a.heading.localeCompare(b.heading));
           }
-          return this.projects.filter(project =>
-            Object.values(project).some(value =>
-              String(value).toLowerCase().includes(this.search.toLowerCase())
-            )
-          ).sort((a, b) => a.heading.localeCompare(b.heading));
+          return this.projects.filter((project) => {
+            return String(project.heading).toLowerCase().includes(this.search.toLowerCase())
+          }).sort((a, b) => a.heading.localeCompare(b.heading));
         },
         get projectGroups() {
           return Array.from(new Set(this.projects.map(project => project.heading.charAt(0)))).sort();

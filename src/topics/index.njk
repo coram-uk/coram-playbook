@@ -5,7 +5,7 @@ title: Topics
 
 {% set topics = topics.topics %}
 
-<div x-data="topics" x-init="init">
+<div x-data="topicsData" x-init="init">
     <div class="min-h-[750px] flex items-end" style="background: url({{ topicsIndex.hero | replace('/src', '') }}); background-size: cover; background-position: center;">
         <div class="mx-auto w-full">
             <div class="max-w-screen-lg py-24 bg-[rgba(181,14,26,0.8)] pl-[10%]">
@@ -50,7 +50,7 @@ title: Topics
     </div>
     <script>
     document.addEventListener('alpine:init', () => {
-        Alpine.data('topics', () => ({
+        Alpine.data('topicsData', () => ({
         search: '',
         Topics: [],
         init() {
@@ -61,15 +61,13 @@ title: Topics
         },
         get filteredTopics() {
             if (!this.search) {
-            return this.topics.sort((a, b) => a.hero.title.localeCompare(b.hero.title));
+                return this.topics.sort((a, b) => a.hero.title.localeCompare(b.hero.title));
             }
 
-            console.log(this.search)
-            return this.topics.filter(project =>
-            Object.values(project).some(value =>
-                String(value).toLowerCase().includes(this.search.toLowerCase())
-            )
-            ).sort((a, b) => a.hero.title.localeCompare(b.hero.title));
+            return this.topics.filter((topic) => {
+                console.log(topic.hero.title)
+                return String(topic.hero.title).toLowerCase().includes(this.search.toLowerCase())
+            }).sort((a, b) => a.hero.title.localeCompare(b.hero.title));
         }
         }));
     });
