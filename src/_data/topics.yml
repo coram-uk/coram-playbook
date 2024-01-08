@@ -1,18 +1,14 @@
 topics:
   - hero:
       backgroundColor: light
-      title: Connecting Youth to Their Supportive Adults Test
+      title: Early Intervention and Early Help Models
       image: /src/images/heros/hero-baby.png
       imgAlt: connecting-youth-to-their-supportive-adults
     layout: topic
-    title: connecting-youth-to-their-supportive-adults-test
+    title: early-intervention-early-help-models-
     image: /src/images/topics/Topic-FPL.svg
-    about: Youth in foster care often leave with fewer connections than they entered
-      care with. Children can't be expected to maintain these relationships by
-      themselves—they can't drive, may not have a phone while in care, and may
-      not even have contact information. It should be the responsibility of
-      every child welfare system to maintain and nurture all of a child's
-      supportive relationships throughout their time in care.
+    about: |
+      EDIT
     why: Children in foster care deserve every support available, including rich
       relationships with their support network.
     what: >-
