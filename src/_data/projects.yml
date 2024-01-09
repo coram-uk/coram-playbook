@@ -46,15 +46,32 @@ projects:
       authorities: []
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Complete background check forms at orientation
+  - heading: "Bringing Baby Home – Key Assets "
     costs:
       - Staff time at orientation
     inspiration: ""
     about: >
-      The process and timeframe for out-of-state abuse and neglect registry
-      checks — commonly called Adam Walsh checks — vary quite a bit from state
-      to state. To get foster families approved faster, start out-of-state
-      background checks early. AND TEST
+      Developed and funded by the Tasmanian government, **Bringing Baby Home**
+      is an early intervention pilot programme providing intensive support to
+      parents of infants classified as ‘at-risk’ to help prevent entry into the
+      care system. As part of the programme, not-for-profit organisations like
+      Key Assets Australia in Tasmania deliver a range of bespoke services with
+      the aim of increasing parents’ capacity to parent safely. As part of an
+      intensive, time-limited programme, parents are afforded the opportunity to
+      develop their childcare skills while actively parenting full time within a
+      supervised and supportive environment. 
+
+
+       
+
+
+      In Tasmania, Key**** Assets Australia work with parents in their homes across a 12-week period. During the first four weeks, monitoring, support and coaching is provided 24/7 in the home by a small team of Key Assets practitioners and key members of the family’s personal support network. The model includes a range of elements; from comprehensive assessment to familial network development, counselling, targeted parenting education, emotional and practical support, advocacy and a respite care service. In some cases where the baby cannot be cared for in the home, parents and infant may be accommodated by a residential service.  Key Assets Australia’s **Bringing Baby Home Service** will partner with the residential service to provide Parenting Education and support transition and in-home support where suitable. 
+
+
+       
+
+
+      Although a formal evaluation of the pilot is yet to take place, there are indications that the programme helps to reduce risk through stabilising mental health, the implementation of harm minimisation practices, new knowledge and skills, safety plans and better support networks. There is also evidence that the programme allows babies to remain in their homes, with the support of wider networks.  An external pilot evaluation is expected and Key Assets are exploring potential opportunities to work with parents prior to birth. 
     how: >-
       * Ask prospective foster families if they’ve lived out-of-state during
       your initial meeting with them — or even before, when you can.
@@ -69,7 +86,7 @@ projects:
     outcome: We’re still collecting concrete data. But we believe that this will
       shorten the time it takes to approve foster families who’ve lived out of
       state.
-    title: background-check-form
+    title: bringing-baby-home
     benefits:
       - Higher completion rates and greater caregiver satisfaction if they can
         discuss the form with a case worker before submitting
@@ -79,8 +96,7 @@ projects:
       number: ""
       image: ""
       what: "\n\n\n"
-      authorities:
-        - Bolton Council
+      authorities: []
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Use social media to find family members
