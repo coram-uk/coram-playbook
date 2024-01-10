@@ -232,14 +232,22 @@ projects:
         * In **Washington State**, every Family Team Decision Meeting includes asking participants to identify supportive connections.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - title: ask-about-supportive-adults
-    heading: Ask youth about supportive adults
-    about: >-
-      Youth are often placed in general foster care or in group homes when they
-      have placement options with adults they already know and trust.
+  - title: Family-Group-Conference
+    heading: Family Group Conferences at Pre-Proceedings Stage
+    about: >
+      Family Group Conferences (FGCs) involve the family leading a meeting of a
+      child’s family, friends and network to come up with a plan to keep a child
+      safe. A long-established and widespread practice deriving from New
+      Zealand, it acknowledges the value of the family being central to the
+      decision-making process for a child. Children may play a part in their own
+      family group conference and the process is coordinated and supported by an
+      independent coordinator.
 
 
-      Ask youth, both at initial removal and at regular intervals afterwards, about the supportive adults in their lives. Even young children may be able to tell you about the important people in their lives.
+      A recent large-scale evaluation led by Coram and Foundations- the first of its kind- has demonstrated the impact of FGCs at the pre-proceedings stage. Supported by the charity Daybreak, the evaluation involved a randomised controlled trial, process evaluation and cost analysis, and considered the key factors in successfully delivering the approach and the impact on outcomes for children and families. A total of 2,500 children and almost 1,500 families took part across 21 local authorities, with half of the families receiving this intervention and the other half continuing to receive the standard local authority service. The evaluation found that in the twelve months after the pre-proceedings letter was issued, children whose families were referred for an FGC were less likely to enter care, with just over a third (36.2%) going into care after being referred to an FGC, compared to almost half (44.8%) of those who were not referred for an FGC. They were also less likely to have care proceedings issued and 6 months later, they had been in care for less time than those who were not referred for an FGC. There were no statistically significant differences in factors such as how included parents felt in their child’s care planning or whether children’s living arrangements had changed, however.
+
+
+      The evaluation also indicated that cost savings of using FGC, with £960 being saved per child referred in the first year. The analysis found that if the approach was implemented across England, over 2,000 fewer children would enter care every year, with estimated savings of over £150 million in two years. The evaluation recommended the use of this approach more widely across the country, especially where it is delivered to a high-quality and complemented by other longer-term intervention. This evidences the value of adopting an early intervention approach to FGCs in helping to keep families together. https://foundations.org.uk/our-work/reports/family-group-conferencing/
     how: >-
       * Require workers to talk to youth about their connections, no matter how
       young. Supervisors can encourage this practice by regularly asking, “What
@@ -282,15 +290,28 @@ projects:
         * Fairfax County, Virginia conducts family finding for youth annually, and at every placement change.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Ask family members for more family members
-    title: ask-family-members-for-more-family-members
-    about: >-
-      When you connect with a youth’s kin, make it a point to always ask them if
-      they know of other potential kin, whether they may be current connections
-      to the child or family members that they haven’t yet met.
+  - heading: Focused Deterrence – Home Office and Youth Endowment Fund
+    title: Focused-Deterrence
+    about: >
+      When you connect with a youth’s kin, make it a point to The Focused
+      Deterrence programme is being trialled across five English cities
+      following a £7 million investment by the Home Office and Youth Endowment
+      Fund. The project is aimed at deterring young people from violence. The
+      programme originated in Boston in the USA where it was developed in
+      response to growing gun violence, with suggestions that it can lead to a
+      33% decrease in crime. It has been adopted successfully across the UK.
 
 
-      Children can’t have too many adults who care about them. Most youth enter foster care with more connections than they leave with. Making sure to ask kin you know about to help identify additional kin, especially if children are too young to share on their own, can create a broader supportive network.
+      The approach involves police, local councils, community organisations, health services, schools, colleges and probation services working together to identify those aged 14 and over involved in or at risk of becoming involved in serious violence. Tailored support is then delivered, including
+
+
+      mentoring, facilitation of education, employment and training opportunities, mental health and housing support.
+
+
+      The programme aims to reduce violence by identifying and addressing the underlying causes of violence and working together with communities to prevent it. It is being led by Violence Reduction Units or Networks in Coventry and Wolverhampton, Nottingham, Leicester and Manchester.
+
+
+      The programme began in May 2023 and will run until August 2025, with the University of Hull conducting an evaluation of the programme across the five cities. https://youthendowmentfund.org.uk/news/the-home-office-and-youth-endowment-fund-invest-7-million-in-focused-deterrence/
     how: >-
       * Require team members to ask kin about other kin during initial and
       ongoing kin contacts.
@@ -324,7 +345,7 @@ projects:
       Forms](https://www.michigan.gov/mdhhs/0,5885,7-339-71551_7199_54039---,00.html).
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Establish a dedicated family-finding team
+  - heading: For Baby’s Sake – Blackpool Better Start
     costs:
       - FTE salaries (which may be able to be repurposed from other areas)
     inspiration: >-
@@ -340,24 +361,27 @@ projects:
       * [Find a Grave](https://www.findagrave.com/): This tool can be helpful for completing genograms. 
 
       * **[Facebook](https://www.facebook.com/):** Look at public photos, posts, and friend lists to find family members.
-    about: >-
-      Effective family-finding requires a specialized skill set, from being
-      savvy with social media to engaging newfound kin without scaring them. Not
-      every case worker has these skills, and most already have demanding
-      workloads. 
+    about: >
+      For Baby’s Sake is a programme working therapeutically with families to
+      break the cycle of domestic abuse and give babies the best start in life.
+      Both parents join For Baby’s Sake during pregnancy, whether together as a
+      couple or not, and are supported individually (each by their own
+      Practitioner) up until the baby’s second birthday. The programme’s
+      trauma-informed and attachment focused approach provides parents with what
+      they want and need to make changes for themselves and their baby. They are
+      empowered not to be defined by their past, and to become the parent and
+      person they want to be. The therapeutic content and trusting relationship
+      each parent builds with their practitioner, underpinned by robust
+      multi-agency safeguarding, are key change mechanisms for achieving
+      positive outcomes for all family members. Parents testify that the ‘inner
+      child’ therapeutic core supports them ‘make peace with the past’ while the
+      attachment-focused parenting content, including Video Interaction
+      Guidance, supports parents to provide attuned, sensitive parenting and
+      support their baby’s social, emotional and cognitive development, building
+      foundations for learning, school readiness and life-long resilience.
 
 
-      A small team dedicated to finding family will help:
-
-
-      * Free up case workers for other tasks
-
-      * Test out promising new strategies and standardize effective practices 
-
-      * Save money on subscription-based family-finding tools
-
-
-      Form a dedicated family-finding team for your child welfare system, instead of relying on individual case workers to find kin for the children on their caseload.
+      Babies develop well, emotionally, socially and cognitively, in line with low risk groups. Other outcomes include reduced domestic abuse, improvements in parents’ emotional regulation and wellbeing, improved engagement with children’s services and other agencies and reduced safeguarding needs. A major evaluation by King’s College London, published in 2020, found For Baby’s Sake to be the first programme to address key limitations in whole-family responses to domestic abuse. For Baby’s Sake is influencing national understanding of what works. It won the 2021 Centre for Justice Innovation award for Family Justice. The programme won the CYPNow Safeguarding award for the partnership in Blackpool. Other areas where the programme operates include Hertfordshire, Bedfordshire, Westminster and Kensington & Chelsea. For Baby’s Sake featured in two National Safeguarding Practice Panel reports (notably for engaging fathers) and in Foundations (What Works for Children and Families) reports as one of few particularly promising programmes for children and families affected by DA. https://www.forbabyssake.org.uk/the-programme/
     how: >-
       * Create a new team or department for family finding.
 
@@ -371,7 +395,7 @@ projects:
       * Put processes in place to ensure regular communication and collaboration across teams. Even with a dedicated team, finding kin is still everyone’s responsibility. Other case workers, planning meeting attendees, and young people are all resources for identifying and locating more kin.
     outcome: Member systems with dedicated family-finding teams report
       higher-than-average rates of kin placement.
-    title: establish-a-dedicated-family-finding-team
+    title: For-Baby’s-Sake
     benefits:
       - Find more kin who can take placement and/or serve as lifelong support
         for vulnerable youth
@@ -383,12 +407,26 @@ projects:
       image: ""
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - title: make-a-genogram
-    heading: Make a genogram
-    about: Keeping track of a youth’s connections can get complicated, and a
-      genogram offers a helpful, visual solution. By organizing existing
-      contacts using a genogram, you can see key relationships easily and start
-      identifying possible additions.
+  - title: Grosvenor-Hart-Homes
+    heading: Grosvenor Hart Homes
+    about: >
+      Building on its established history in the social housing space, Grosvenor
+      has established Grosvenor Hart Homes (GHH). GHH is a new social enterprise
+      seeking to improve the life chances of vulnerable children, young people
+      and families by providing high-quality, affordable homes alongside
+      bespoke,
+
+
+      wrap-around support services, focusing on employment and wellbeing support. The initiative is premised on the understanding that a safe and secure home is fundamental to stability and that from this foundation, holistic support can boost individual and familial wellbeing, economic security and longer term prospects. A key feature of the model is the role of a ‘Family Assistant’, helping to coordinate access to the GHH service model and services offered by external partners, building strong, trusted relationship with tenants.
+
+
+      GHH is developing a 3-year proof of concept in the Chester area, with a small number of newly renovated homes. It is specifically aimed at supporting cohorts including care leavers, young people at risk of NEET and ‘vulnerable’ families, including those affected by mental health, trauma and domestic violence. In addition, a number of properties are available as affordable housing to those on the council’s housing register and as market rent properties, contributing to the development of a balanced community.
+
+
+      GHH has worked closely with the local authority to ensure the model aligns with and complements existing council priorities and processes. This has included the local authority helping to shape the suite of services designed locally and the GHH housing allocation process, supporting the identification of and assessment of suitable tenants via an innovative multi-agency matching panel. GHH has appointed specialist service design agencies, Dartington Service Design Lab and Engine Service Design, to design the range of evidence-based services offered, with continued input from both potential service users and national and local experts from the public, private and third sector. With the Family Assistant acting as a navigator, other services being developed include mental health and wellbeing support and life skills training, as well as a jobs brokerage and employment support service, which includes a business incubator. There is also an on-site flexible workspace, the Grosvenor Hart Hub, which is accessible both to tenants and the wider community. All of these services have been designed to integrate with and adapt to the local context.
+
+
+      The model will undergo continued iteration and improvement over the proof-of-concept period, informed by service users, best practice and capitalising on emerging technology, to ensure it is delivering on its ambition to provide high-quality services that enhance the life chances of children, young people and families. Over the next 10 years, GHH is looking to provide more than 750 homes in the north-west as well as in central London, aiming to create a model which can be scaled for wider benefit. https://www.grosvenor.com/social-enterprise-7c340789406fcc48b14e0b99aff29a81
     how: >-
       You can use a genogram tool like the ones we list below or simply a blank
       piece of paper or dry-erase board. Here are some tips:
@@ -438,15 +476,27 @@ projects:
       * [Michigan Genogram Templates](https://www.childwelfareplaybook.com/assets/Genogram_MI.pdf)
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Make sure supportive adults have a robust presence at planning meetings
-    title: supportive-adults-have-robust-presence
-    about: Most youth leave foster care with fewer connections than they entered
-      with. However, most supportive adults want to be more involved in
-      supporting the youth in their lives. Keeping these adults engaged and
-      involved in case planning can help keep youth from exiting care without
-      connections. Invite at least three times as many supportive adults as paid
-      staff members to planning meetings to maximize the benefits of this
-      support network.
+  - heading: Lullaby Project – Live Music Now
+    title: Lullaby-Project
+    about: >
+      MAiming to support maternal mental health, early childhood development and
+      family wellbeing, Lullaby Project involves new mothers working with
+      professional musicians to write a personal lullaby for their baby. The
+      Lullaby model was originally introduced in New York’s Carnegie Hall to
+      support mothers in healthcare settings, homeless shelters, high schools
+      and in prisons. Musicians are trained by a Teaching Artist from Carnegie
+      Hall. Linked to a wider social prescribing programme, during the project,
+      the parent is supported to write a letter to their baby, which forms the
+      basis for a song which is co-developed with a musician and which harnesses
+      the creativity of the parent. The songs is then recorded and given to the
+      parent for their baby. Songs have been written in a number of languages,
+      with a diverse range of parents taking part. The key objectives are to
+      develop parental self-confidence and wellbeing, enhance child development,
+      bring together communities and address health inequalities. The project
+      now works acros
+
+
+      Liverpool and South West Yorkshire, as well as at sites in Wales. Live Music Now is working with the Institute of Cultural Capital in Liverpool to develop an evaluation framework. The findings from the New York project indicate an impact in terms of reaching families in need, building connections between caregivers and babies, enhancing the child’s language, social and communication skills. https://www.livemusicnow.org.uk/lullaby-project/
     how: >-
       * Redesign your planning meeting invitation - The invitation should serve
       as a prompt and remind staff to invite as many supportive adults as they
@@ -483,19 +533,42 @@ projects:
         * **New Hampshire** identifies up to 45 of a youth's supports through Permanency Pact through Foster Club, and involves them in meetings to accomplish specific goals, such as buying a first car, attending holiday celebrations after aging out of care, etc. As adults are identified, the agency sends those adults invites and supportive materials to support these goals.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Use an expansive legal definition of kin
-    title: Use-expansive-legal-definition-of-kin
-    about: >-
+  - heading: Speech, Language and Communication (SLC) Triage Panel – Blackpool
+      Better Start
+    title: Speech-Language-and-Communication-(SLC)-Triage-Panel
+    about: >
       Being placed in kinship care can often be a more stable placement for
       youth when compared to placement in a group home or foster home with other
-      unrelated youth. By staying in a familiar setting, youth will experience
-      fewer disruptions and will be able to better maintain their existing
-      relationships. Using an expansive legal definition of kin will allow staff
-      to find more placement options for youth more quickly, and can mean more
-      adults qualify to be emergency placements. 
+      unrelated youth. By staying Blackpool Better Start have implemented a
+      Speech, Language and Communication (SLC) Triage Panel to improve early
+      identification of and support for children with speech, language and
+      communication needs. It was formed in 2020 in order to identify local
+      children who were not accessing language assessments and interventions.
+      This panel comprises of a multi-agency team, including an NHS SLC
+      therapist, an SLC Therapist from the commissioned service ‘Communicate’,
+      the local authority Early Years Team Manager, a literacy advisory teacher,
+      a Community Connector from Blackpool Better Start and is Chaired by The
+      Early Years Senior Manager. Meeting every two weeks, the panel considers
+      new referrals and discusses the next steps for children as they approach
+      the end of their interventions. Referrals come from both health and
+      pre-schools, usually after a child’s WellComm Assessment. Following
+      referral, a Community Connector is assigned to each family and as part of
+      an informal phone conversation, they help them to understand what the
+      panel will involve, as well as finding out more about the child, family
+      and any challenges accessing services. This can include factors such as
+      digital poverty or complex needs of children and other family members.
+      This information is then fed back to the panel, allowing them to
+      understand the type of interventions that would be helpful and accessible
+      to the family considering their individual circumstances, to maximise the
+      chance of successful engagement. After the panel, families receive a
+      letter proposing the next steps and the Community Connector briefs the
+      family on what will happen next. Across the intervention period, the
+      Community Connector will stay in touch with the family. Following the
+      intervention, the panel discuss the child’s case again and propose next
+      steps based on the child’s individual circumstances.
 
 
-      Even if a connection cannot serve as a placement, youth need as many supportive adults around them as possible. Maintaining an expansive legal definition of kin will allow you to create a broader support system for youth.
+      Between April 2022 and March 2023, this multi-agency approach has received 631 referrals with 461 families (73%) receiving Community Connector Support. Every child referred into the panel receives a Speech, Language and Communication support Pack out together by the Community Connectors which contains bespoke information and advice and a book donated by either The National Literacy Trust, The Book Trust or The Centre for Early Child Development.
     how: >-
       * When asking youth or supportive connections about placement options,
       remove any requirements that kin needs to be a blood or legal  relation.
@@ -517,16 +590,25 @@ projects:
       number: 1
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Make keeping in touch with kin a formal foster family responsibility
-    title: keeping-in-touch-with-kin-formal-responsibility
-    about: >-
-      Foster parents may not be aware of their foster child’s previous
-      connections. Set the expectation with potential and current foster parents
-      that part of their formal responsibility is to help the youth in their
-      care keep in touch with the supportive connections in their lives. 
+  - heading: Raising Rochdale SEND Team – Rochdale Council
+    title: Raising-Rochdale-SEND-Team
+    about: >
+      The Raising Rochdale SEND Team is a multi-agency alliance that aims to
+      improve support and outcomes for children and young people with Special
+      Educational Needs and Disabilities (SEND) in Rochdale, United Kingdom. The
+      project was initiated in January 2021, with the support of the Council for
+      Disabled Children (CDC), to create an integrated service for children and
+      young people with SEND. This was a departure from the previous system,
+      which worked in siloes.
 
 
-      Foster parents may be reluctant to maintain a child’s previous connections, if they think doing so will harm their chances for adoption. However, even if the child is adopted, they deserve to have a strong support network. Making this a formal responsibility of foster parents can help keep a youth’s connections intact throughout their time in care.
+      Prioritising the outcomes of children and young people and in collaboration with families, the alliance has scoped out early intervention offers to identify gaps and patterns and put in place a robust information sharing system, as well as establishing clear outcomes and measures. As a result, the number of children receiving early intervention and support has grown, and more professionals
+
+
+      are accessing training. The waiting times for an autism diagnosis and support have also reduced, and three new peer-led projects are in development.
+
+
+      The Raising Rochdale SEND Team won the Public Sector Children’s Team Award at the Children and Young People Now Awards 2022, recognising the work to implement an Outcomes-Based Accountability (OBA) approach to commissioning and enhance support and outcomes for 5,913 children and young people who require SEND support.
     how: Revise your foster parent training to include the formal expectation that
       foster parents will help maintain a youth’s connections. For example, you
       may require that foster parents participate in the development of kinship
@@ -543,15 +625,24 @@ projects:
         Training (CCT) module."
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Make a plan to keep youth connected to their supportive adults
-    title: plan-for-youth-to-keep-connected-supportive-adults
-    about: >-
-      Most youth enter foster care with more connections than they leave with.
-      Often, if a connection cannot serve as a placement resource, child welfare
-      systems will not actively work to maintain that connection. 
+  - heading: Reducing Parental Conflict - Coram
+    title: Reducing-Parental-Conflict
+    about: >
+      The UK government has allocated £2.8 million to fund eight new projects
+      across England aimed at reducing parental conflict and supporting families
+      in need. The projects will target families at risk of conflict and provide
+      face-to-face and digital support to promote healthier relationships
+      between parents, helping families lead more fulfilling lives. The projects
+      will also help parents in early stages of conflict to deal with their
+      difficulties, improve their lives and ensure a stable and healthy
+      environment for the children. The projects will support a diverse range of
+      parents across England to manage their relationship difficulties,
+      including those with children who have special educational needs, those in
+      rural areas, young parents, LGBTQ+ parents, black, Asian, minority ethnic
+      families, and parents at risk of unemployment.
 
 
-      However, supportive connections are critical to a youth’s well-being. When a formal plan is in place to maintain connections, youth will have more people that they can count on for emotional support, rides, tutoring, advice, and everyday connections. test
+      Coram was successful in securing funding for their project – using relational therapy solutions with families facing adversity. Coram’s Creative Parenting Services will combine practice to offer couples under 30 at risk of family conflict a new schools programme. Coram’s three tier offer provides Child and Family Interventions, evaluation and analysis with insight into what works with disadvantaged families to pre-empt and reduce conflict, and training and dissemination of materials and tools for use as self-help or facilitated interventions. This initiative will focus on several disadvantaged families with stressors in the Camden and Lambeth area.
     how: >-
       As soon as the youth enters care, make a list of all the supportive
       connections in their lives, including family members, teachers, friends,
@@ -595,14 +686,33 @@ projects:
         * [**California** State Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=16501.1) requires that the child welfare system make a plan for maintaining supportive connections for foster youth 10 and older.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Use a red team to prevent placements in group homes
-    title: red-team-to-prevent-group-home-placements
-    about: Fewer youth will enter group homes if there is a team dedicated to
-      finding alternative placements. A red team should be a diverse group of
-      agency staff, who conduct kin research, construct a genogram, and ask
-      youth directly about possible placements. The team should be empowered to
-      rapidly brainstorm, make decisions, and pursue alternatives to group home
-      placements.
+  - heading: Talking Transitions – A Better Start Southend
+    title: Talking-Transitions
+    about: >
+      Fewer youth will enter group homes if there is a team dedicated to finding
+      alternative placements. A red team should be a diverse group of agency
+      staff, who conduct kin research, construct a genogram, and ask youth
+      directly about possible placements. The team should be empowered to
+      rapidly brainstorm, make decisions, and Talking Transitions focuses on
+      improving speech and language skills, aiming to ease the transition to
+      primary school for children. The programme is in its fifth year, having
+      expanded across the Southend region. With the intention of building
+      relationships between providers, the scheme involves the creation of a
+      number of ‘satellites’ combining local schools and early years settings
+      (pre-school, day nurseries and childminders), each with expertise in early
+      communication and language. The providers in each satellite collaborate
+      closely to develop and deliver a range of fun experiences and activities
+      for children, designed to support their emotional wellbeing, speech,
+      language and communication.
+
+
+      Key parts of the model include the ‘Learning Together’ component, involving a 10-week accredited Elklan speech and language course for feeder settings and schools focused on 3-5 year olds facilitated jointly by health and education teams. The ‘Working Together’ element provides a chance for those in each satellite to have a detailed discussion about children transitioning from early years to schools, both in terms of their personalities and overall strengths and difficulties, informed by findings from the child’s WellComm assessment. Following this session, strategies are devised for both parents and schools to follow, underpinned by a shared language. Lastly, as part of ‘Being together’ activities where primary schools and early years settings come together to create a programme of summer events at the child’s new school, which focus on communication and language. At these events, children come together with their parents, carers and families and simple
+
+
+      strategies and themed activities to support language and communication are modelled. In addition, as part of the transition, teachers visit early years settings and the model integrates with the Family Centres over the summer holidays, offering Stay and Play sessions to keep the families engaged in the programme. The school SENDCO may also attend the Family Centre to get to know the child prior to them starting school.
+
+
+      Talking Transitions won the CYPN Early Years award in 2022, with judges commending the manner in which it enhanced relationships between schools and early years providers, equipped professionals through specialist training and boosted knowledge among parents. Feedback from participants has also been positive, with headteachers remarking on the value of transition events and the increase in attendance from parents as a result of the activity-based approach to building speech and language skills. It has reached over 1,000 families to date and Talking Transitions hopes to broaden its reach so more children are able to receive speech and language support and benefit from a smoother, more coordinated transition to school. https://abetterstartsouthend.co.uk/talking-transitions/
     how: >-
       * **Assemble a diverse team.** Strong team members will have a reputation
       for problem solving. Appoint a senior leader for the team. 
