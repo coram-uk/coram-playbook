@@ -3167,20 +3167,47 @@ projects:
         with a parent for 12 consecutive months."
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Pay to Keep Homes Open
+  - heading: Mind of My Own
     costs:
       - Modest increase in maintenance payments
       - Ultimately saves costs in avoided group home placements
-    about: When children experience a disruption, such as running away or requiring
-      an inpatient treatment, their foster home bed is generally "closed."
-      Paying the home to not only keep their bed open, but remain involved
-      (e.g., visiting the hospital daily) can reduce placement disruption.
+    about: >
+      Recognising the importance of centring the child’s voice in their records,
+      Mind Of My Own has created a range of digital tools which enable children
+      to share their views, wishes and feelings with people who are there to
+      support them. Mind Of My Own develops co-produced, fully accessible
+      digital products for capturing voice of children. These include the Mind
+      Of My Own One App, which creates a safe digital space for young people
+      aged 8 and over to communicate their views and needs to those they are
+      working with, and Mind Of My Own Express, which focuses on ensuring
+      children with additional needs have their voices heard.
+
+
+      They are driving change in child centred practice:
+
+
+      · by creating accessible user centred products that fit into children and young people’s lives.
+
+
+      · providing excellent customer service while always keeping the end user in mind
+
+
+      · facilitating a strong community of support where practitioners come together to share and learn in the quest to develop truly child centred communities.
+
+
+      In the UK their apps are used across over 450 education, social care, youth justice and health services. The apps give children and young people agency in shaping how their story is reflected, providing an authenticity and supporting life story work. One young person reflected that ‘Mind Of My Own has really helped me to be able to share my voice and to feel heard... I find it really useful especially in difficult times as I can access it at 8 in the morning or 3am and write down all my worries and I can then talk about this at my next meeting or with my worker.’
+
+
+      They also have the additional benefit of saving practitioner administration time- an estimated eight days per social worker per year- as it reduces the need for notes to be transcribed. An OFSTED report in Sunderland reflected that the tool was effective in terms of supporting return home interviews after children go missing, as well as involving younger children in care planning. In addition, Mind Of My Own have a number of other apps designed to boost engagement with young people and their families. 
+
+
+      https://mindofmyown.org.uk/
     how: >-
       * Don't close a bed when a child runs away or is hospitalized.
 
       * Review contracts with private agencies for criteria for closing out a bed.
     outcome: ""
-    title: pay-to-keep-homes-open
+    title: Mind-of-My-Own
     benefits:
       - Placement stability
     who:
@@ -3190,22 +3217,33 @@ projects:
         Excellence grant."
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Pay Kinship Caregivers Until They Get Licensed
+  - heading: "Modern Data Platform: Single Front Door for Children and Young Persons
+      Information and SEND Cost Insights - Suffolk County Council"
     costs:
       - Significant state funds
-    about: Kinship caregivers are not eligible for receiving foster care stipends
-      until they complete a licensing process. In most states, the can take 100s
-      of days; and many states allow for kinship caregivers to remain unlicensed
-      (unpaid) indefinitely. This lack of financial support can severely
-      negatively impact the ability for a kinship caregiver to provide a stable
-      placement.
+    about: >
+      Suffolk County Council has been working with Simpson Associates, a data
+      analytics company, to develop a new Modern Data Platform which is single
+      front door system for children and young people, focused on supporting
+      Suffolk’s SEND strategy. Based on a Microsoft Azure Synapse data platform,
+      the system enables the council to track costs relating to children with
+      SEND and scope future costs. Previously, staff at the council were
+      required to navigate various disparate systems to find the information
+      they needed about a child, which was time consuming. Their Modern Data
+      Platform provides a single view of the child which integrates their
+      engagement across services and joins up and merges data across various
+      council systems. This means an accurate and comprehensive version of a
+      child’s records can be easily and efficiently accessed. It is linked to
+      the Multi-Agency Safeguarding Hub. The aim is to use the insights from
+      this to enhance service delivery and safeguarding practices as well as
+      improving sufficiency planning.
     how: >-
       * Pay kinship caregivers from the first day they receive placement. This
       generally requires state funds.
 
       * Streamlining your kinship licensing process, including maximizing non-safety exemptions, can get kinship caregivers licensed (and therefore paid) much faster.
     outcome: ""
-    title: pay-kinship-caregivers-until-they-get-licensed
+    title: Modern-Data-Platform-Single-Front-Door-for-Children-and-Young-Persons-Information-and-SEND-Cost-Insights
     benefits:
       - Kinship caregivers can financially support their children
     who:
@@ -3275,11 +3313,46 @@ projects:
         * Some counties in **Ohio** and **California**, but it's not done state-wide at this time.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Provide More Ways for Foster Parents to Earn Money
+  - heading: Reimagining Case Management Systems - The North Yorkshire Approach
     costs:
       - Varies
-    about: Additional financial opportunities, even if modest, can help foster
-      parents feel appreciated and recognize their time and effort fairly.
+    about: >
+      North Yorkshire Council are pursuing an innovative pilot project exploring
+      how a new technology solution could help to improve children’s services
+      case management to support social workers to keep children safe. The
+      project is being funded by the Department for Education’s Children’s
+      Social Care Digital and Data Solutions Fund and supported by the CII and
+      partners at Microsoft.
+
+
+      Local authorities have to navigate a mass of data and information as they seek to ensure the children in their care are able to receive the best possible support. This can be complex and time-consuming, taking social workers away from vital time spent with children and families. North Yorkshire’s case management solution seeks to address these challenges.
+
+
+      Using analytics tools, the system will be able to efficiently search and analyse data and information across different sources and systems so that children’s services providers have immediate and easy access to the key information about a child or family at the click of a button. The semantic search function can importantly operate across both structured data sources and unstructured data, for example written case notes or written assessments, and extract the key elements for the user.
+
+
+      The team at North Yorkshire have also been keen to target the tool towards creating comprehensive genograms and ecomaps, which will provide a map of the important people and places in a child’s life, and help identify those who can help to keep a child safe and those who may pose a risk. This will assist social workers to take better, more proactive decisions to protect local children, and also help to keep children connected to their local, community networks. This could have a transformative impact for children going into the care system, for example, by making social workers aware of a neighbour or a family friend who the child knows and trusts and who could provide care to the child for a period of time.
+
+
+      In addition, North Yorkshire is looking at how it can utilise existing smart technology to create fit-for-purpose systems designed for the social workers of today and the future, for examples exploring the potential for voice notes to become a key part of how practitioners record information about a child.
+
+
+      In order to create a tool that works for children, families and practitioners, the Council has conducted extensive user research work to inform development, including garnering an understanding of difficulties with existing case management systems, the key features local authorities would welcome in a case management system and exploring potential use cases for the tool both within and beyond children’s social care. The team have also shared key learning from the project along the way, especially to support other teams to negotiate complexities around data and information sharing.
+
+
+      The team are aiming for a prototype tool to be available in early 2024, which will be piloted with service users and tweaked according to feedback. The aim is for a revised product to be produced by spring 2024, alongside a guidance framework, evaluation and recommendations paper.
+
+
+      The potential of this tool is vast, with opportunities identified including supporting those children and young people at transition points in the sector, enabling a comprehensive single view of the child and helping services to better understand trends and patterns and translate these into service improvements.
+
+
+      Pioneered in North Yorkshire, the intention is for the project to contribute to wider policy improvements and for the tool to become something that can be readily adopted by other local authorities and services to scale the transformative impact for children, young people and families.
+
+
+      You can watch the CII webinar series with North Yorkshire council following the development of this exciting project here: 
+
+
+      https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/
     how: >-
       * Hire current foster parents as co-trainers at foster parent trainings
       and orientation.
@@ -3290,7 +3363,7 @@ projects:
 
       * Prioritize foster parents when hiring for ad hoc, part-time, and full-time roles at your agency.
     outcome: ""
-    title: provide-more-ways-for-foster-parents-to-earn-money
+    title: Reimagining-Case-Management-Systems
     benefits:
       - Foster parents experience greater levels of appreciation
       - Foster parents earn more money
@@ -3310,11 +3383,31 @@ projects:
         * **Fairfax County, VA** pays foster parents for co-leading foster parent trainings and being on panels.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Use social media to find missing children
+  - heading: SageSurfer
     costs:
       - None
-    about: It's scary when youth run away or go missing while in care. Social media
-      can be an effective way to find and communicate with AWOL youth.
+    about: >
+      SageSurfer is a digital care coordination platform, focused on behavioural
+      and mental health care. This patient-centred, team-based model aims to
+      make it easier for patients, families, healthcare providers and community
+      support providers to communicate and ensure that necessary actions are
+      taken to support the patient’s care plan. Creating a unique care team
+      involving healthcare providers, the patient and the patient’s own
+      community of peers, family and friends, this AI-driven tool is integrated
+      with health records and supports professionals to monitor progress between
+      visits and identify and manage risk. Patients receive an assessment and
+      can be directed towards self-care activities and local support via the
+      tool. They can also communicate directly with their health care team via
+      video, audio or a chat function. Personalised to the patient, it is able
+      to support patients with complex mental health issues but Sagesurfer also
+      work closely with schools and universities to build care teams from an
+      early stage in a patient’s journey. The app is currently being used with
+      around 4000 patients and SageSurfer estimates that the tool reduces
+      emergency department visits by 35%, with patient engagement rates between
+      85-90%. 
+
+
+      https://www.sagesurfer.com/
     how: >-
       * Search popular social media sites for the youth by name. Also review
       friends, posts, and comments on any known friend or family member
@@ -3324,7 +3417,7 @@ projects:
 
       * Stay calm. An open line of communication can help encourage youth to return, but it might not happen immediately. A line of communication can at least let you know if a youth is safe.
     outcome: ""
-    title: find-awol-youth
+    title: SageSurfer
     benefits:
       - Another method for finding and communicating with missing children
     who:
@@ -3374,12 +3467,33 @@ projects:
         * **Ohio** uses the [Our Family Wizard](https://www.ourfamilywizard.com/) tool to encourage secure photo and information sharing between families. Normally a tool for divorced parents, this company offers free licenses to child welfare agencies.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Encourage foster family support groups on social media
+  - heading: SCARF Live Online – Coram Life Education
     costs:
       - None
-    about: Support groups exist on social media for every topic you can think of,
-      including foster care. Families in your system should have access to a
-      social media based support group.
+    about: >+
+      Delivered by Coram Life Education (CLE), SCARF Live Online provides
+      online, live workshops to children aged between 3-11 years old. These
+      interactive, engaging workshops, which are streamed into classrooms using
+      Zoom, help children to understand how they can keep their body healthy and
+      look after their emotional wellbeing and mental health. They can be
+      tailored according to the needs of the school but may include education on
+      healthy foods, the importance of physical activity, understanding how to
+      deal with feelings and how to be aware of and check their emotional needs
+      to support mental wellbeing.
+
+
+      SCARF Live Online complements CLE’s wider SCARF programme and resource bank, which is used by over 50,000 teachers across the country and supports PSHE and wellbeing education in primary schools in line with DfE requirements. By pivoting to online delivery through these innovative workshops, schools were able to continue to benefit from SCARF resources during the pandemic, with SCARF Live Online reaching 763 schools between September 2020 and June 2023 and working with over 132,000 children.
+
+
+      SCARF Live Online has been nominated in the CYPN Awards Digital Innovation category 2023, which recognises projects that use digital platforms and technologies to deliver effective interventions and strengthen relationships with service users.
+
+
+      For more information and if you’d like to explore what SCARF can offer in your local area, please contact cle@coram.org.uk [https://www.coramlifeeducation.org.uk/live-workshops-delivered-online-to-your-class-for-3-11-year-olds](https://www.coramlifeeducation.org.uk/live-workshops-delivered-online-to-your-class-for-3-11-year-olds)
+
+
+
+
+
     how: >-
       * Appoint an outside group or agency to run the group. Families aren't
       comfortable in agency-run groups.
@@ -3388,7 +3502,7 @@ projects:
 
       * Agency employees should not join these groups.
     outcome: ""
-    title: foster-family-support-groups-on-social
+    title: SCARF-Live-Online
     benefits:
       - Increased sense of community among foster parents
       - Indirect source of recruitment and retention
@@ -3400,20 +3514,50 @@ projects:
         help build community when people could not get together face to face.  "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Describe foster parent licensing requirements with flexible wording
+  - heading: SilverCloud - Amwell
     costs:
       - None
-    about: Child welfare systems can box themselves into a corner by being overly
-      specific when describing foster parent licensing requirements. Flexible
-      language around certain requirements means more caregivers, especially kin
-      caregivers, can get licensed.
+    about: >+
+      SilverCloud by Amwell is a digital platform offering evidence-based mental
+      health, wellbeing and behavioural support to children and young people and
+      their families. With the content aligned to NICE guidelines and
+      co-produced with children, the platform encompasses the prevention,
+      assessment and treatment phases of the mental health experience and has
+      been used as part of a wider CAMHS offer. The platform has tailored
+      programmes for children aged between 5 and 18, with a number of modules,
+      each with interactive content providing advice, exercises and hints and
+      tips for managing anxiety and low mood. SilverCloud report that up to 65%
+      of its users have achieved a clinically significant improvement in their
+      symptoms. In 2023, there was an evaluation of the use of a digital CBT
+      service in Ireland and one component of the service was the use of
+      SilverCloud. The study reported that the digital CBT tool was associated
+      with reductions in symptoms related to anxiety and depression, albeit
+      across a wider age group above age 18. SilverCloud was also delivered to
+      children and young people across Cumbria charity Carlisle Eden Mind, with
+      findings that the use of platform has helped the service to reach three
+      times as many children and young people. In this service, SilverCloud is
+      used in addition to face-to-face support where it is appropriate for the
+      child or young person, and the platform has enabled them to support around
+      90 children, whereas through previous methods it was around 30.
+
+
+      Amid lengthy CAMHS waiting lists, SilverCloud offers important interim support to help young people manage their symptoms and enable services to access and help a larger number of young people.
+
+
+
+      [https://www.silvercloudhealth.com/](https://www.silvercloudhealth.com/)
+
+
+
+
+
     how: >-
       * Review your current language for overly-specific requirements. For
       example, don't try to define a bedroom.
 
       * Solicit feedback from licensing workers about which of your licensing requirements trip them up, whether because the verbiage is confusing, or too specific. In particular, seek stories about times when specific requirements meant that an otherwise qualified kinship caregiver couldn't get licensed.
     outcome: ""
-    title: flexible-licensing-wording
+    title: SilverCloud
     benefits:
       - More kinship caregivers
       - Simpler licensing process
@@ -3430,16 +3574,29 @@ projects:
         * **Rhode Island** created a kinship licensing "playbook" that encourages conversations and collaboration over a specific list of very detailed requirements.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Empower licensing workers to approve relative licensing exceptions
+  - heading: Teams Youth App – State of Illinois, Department of Children and Family
+      Services
     costs:
       - None
-    about: When the licensing workers who interact with and really know a family get
-      to make decisions about how to approve or mitigaten non-safety exceptions
-      for relatives, everyone benefits. A supervisor or area administrator who
-      has never met a family is often not the best person to make a judgement
-      call, and that can lead to denials that lack nuance — which ultimately
-      means fewer kids in kinship care. Localized decision making means faster
-      and higher licensing rates for relatives.
+    about: >
+      The Teams Youth App was created by Microsoft in collaboration with the
+      Department of Children and Family Services in the Illinois. The App helps
+      children, young people, families, caseworkers and other partners involved
+      in the case to better communicate with each other. By creating a trusted
+      platform where all the relevant parties can be contacted at once, the App
+      helps each party to coordinate services and support for children and young
+      people more efficiently and reliably. Families can post questions on the
+      app that the social worker can respond to on the go, even if they’re not
+      in the office. On a practical level, social workers can save
+      administrative time by coordinating meetings in one place, meaning they
+      can focus on different areas of their practice. Importantly, the app can
+      also empower young people to communicate to their team in a more
+      accessible and less threatening way. Feedback from all stakeholders has
+      been positive and demonstrates the value of rethinking how we can apply
+      existing technology for a greater benefit. 
+
+
+      https://www.youtube.com/watch?v=fiIa0If4FMI
     how: >-
       * Review your exception approval process. Consider removing some or all
       higher approval steps. If this is too drastic a shift, start with making a
@@ -3449,7 +3606,7 @@ projects:
 
       * Don't have an exception approval process at all. Instead, [move mitigation and alternate plans within the normal process](/recommendation/normalize-relative-licensing-exceptions) (e.g., the home study template).
     outcome: ""
-    title: empower-line-level-exceptions
+    title: Teams-Youth-App
     benefits:
       - Clear and faster decision making
       - Fairer decisions for kinship caregivers
@@ -3463,12 +3620,25 @@ projects:
         * **Indiana** has a weekly meeting focused on how **TO** license every family. This attitude generates solutions, not denials.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: License undocumented family members
+  - heading: TRACS
     costs:
       - None
-    about: It's _not_ a federal requirement for kinship caregivers to be in the
-      country legally in order to get licensed — this is a pervasive myth. These
-      caregivers should also be eligible for licensing and financial support.
+    about: >
+      TRACS- or the Timeline Route and Certification System- is a digital
+      solution which aims to improve care planning for looked after children and
+      enhance longer term outcomes. The tool was developed by children’s
+      services professionals and technology experts in 2020, focused on
+      supporting local authorities to better meet their obligations to those in
+      care and care leavers around preparing for successful independence. Hosted
+      on a secure cloud platform, TRACS helps professionals and young people to
+      schedule, track and prioritise key activities for completion. This
+      co-produced approach
+
+
+      between young people and their worker empowers young people to play an active role in their care and skills development. The tool creates a visual timeline demonstrating a young person’s status and progress, which can be viewed by professionals, management, parents/carers and young people, creating transparency and accountability in the process. Automated email reminders also notify professionals of upcoming activities they need to complete for a young person. It aims to enhance joint working procedures by streamlining the process for updating other stakeholders, meaning young people can be supported to access relevant services or interventions in a more timely manner. On a wider level, the insights derived can inform broader service improvements and highlight key areas of focus for the service as a whole. TRACS is currently being piloted in Southampton over a 6-month period. It is a promising model for using simple technology to improve the experience and efficiency of services for young people at a critical juncture in their journey towards independence. 
+
+
+      https://www.tracsuk.org/
     how: >-
       * Build trust with caregivers. If they think you'll report them to
       authorities for their immigration status, they won't work with you. Make
@@ -3483,7 +3653,7 @@ projects:
 
       * Look for other household members to license. As a workaround, you can license a household member who does have a documented immigration status.
     outcome: ""
-    title: license-undocumented-kin
+    title: TRACS
     benefits:
       - Kinship caregivers without documentation can get financial support
       - More kinship caregivers
@@ -3495,15 +3665,25 @@ projects:
         with immigration status concerns. "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Maximize use of relative licensing exceptions
+  - heading: Woebot
     costs:
       - None
-    about: Title IV-E of the Social Security Act, which governs foster care
-      maintenance payments and licensing, specifically says that states can make
-      exceptions to any "non-safety" licensing requirements for relatives. Most
-      states have artificially limited their flexibility around exceptions — but
-      you can fix this by following in the footsteps of states that have maximum
-      flexibility.
+    about: >
+      Woebot is a digital platform used to support people with their mental
+      health. Described as a ‘personal mental health ally’ and based on CBT
+      theory, Woebot uses AI natural language processing to provide a space to
+      talk about mental health and wellbeing at the click of a button, whenever
+      it suits the user. It was developed by clinical research psychologist
+      Alison Darcy.
+
+
+      With regular conversations and check-ins, Woebot is able to gain an insight into the person and their challenges, and provide personalised advice and guiding them towards suitable clinically tested tools and tactics. This advanced chat bot acknowledges the sentiment and provides encouraging, empathetic and personalised responses and shares practical tips and techniques, for example, around mother and baby bonding. The app is currently only available in the USA but data on its impact is promising. A Stanford University study indicated that the app supported a reduction in anxiety and depression among those aged 18-65 years old compared to the control group. The company has also devised treatments specifically designed for teenagers with a diagnosis of mild to moderate depression and new mothers facing post-partum mental health challenges. A recent study suggested that Woebot contributed to a reduction in symptoms of depression that were similar to those associated with clinician-led telehealth CBT.
+
+
+      Woebot won the Best Overall Mental Health Solution award at the MedTech Breakthrough Awards programme. Amid growing pressures on mental health services and notwithstanding the importance of in-person therapeutic care, it is clear that technology can play a role in providing timely access to support for those struggling. 
+
+
+      https://woebothealth.com/
     how: >-
       * Borrow policy verbiage from states with maximum flexibility to grant
       exceptions to relatives. The only licensing requirements that are "safety"
@@ -3522,7 +3702,7 @@ projects:
 
       * Acknowledge there will be a small handful of exceptions. You may have a kinship caregiver with a disqualifying federal criminal history but is a court-ordered placement. In this case, the caregiver won't be eligible for IV-E reimbursement. But this should be an extremely rare situation.
     outcome: ""
-    title: maximize-relative-exceptions
+    title: Woebot
     benefits:
       - All kinship caregivers will get financial support
       - More kinship caregivers in systems that do not currently have exceptions
@@ -3540,22 +3720,46 @@ projects:
         * **New Hampshire** can waive any requirement upon request (though the caregiver has to request the waiver).
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Normalize making licensing exceptions for relatives
+  - heading: Microsoft 365 Co Pilot in Social Care - Microsoft
     costs:
       - None
-    about: Exceptions to licensing requirements for relatives don't have to be
-      entirely separate forms or processes. Many systems incorporate this
-      mitigation and decision making within the standard process, such as the
-      home study template. In systems that allow relative nonsafety exceptions,
-      these exceptions happen _more often than not_ — so instead of treating it
-      as an exceptional circumstance, treat it as a routine one.
+    about: >
+      2 ways technology can help reduce the admin burden for social care
+      professionals by Kenya McKenzie-Jones, Senior Digital Strategist,
+      Microsoft.
+
+
+      Imagine if you could spend more time in direct work with children and young people? In a recent survey, more than half of Social Workers felt they didn’t have enough time to spend with service users, with high administrative loads cited as a major source of stress1. How can you harness the power of technology to reduce your admin burden?
+
+
+      Microsoft 365 Copilot is integrated into the apps you already use every day, freeing you to focus on the most important work and less on the busy work. Agencies like the Illinois Department of Children and Family Services are already using Microsoft Teams to better collaborate with children, families and case workers. Taking this one step further, Microsoft 365 Copilot can work alongside care professionals to unlock productivity. Here’s 2 ways Copilot can free up time and effort for social care professionals:
+
+
+      1. Report writing. Get help drafting your supervision notes and inspection reports – no need to start from scratch. Copilot in Word writes, edits, summarises, and creates right alongside you. With only a brief prompt, Copilot in Word will create a first draft for you, bringing in information from across your organisation as needed. Copilot can add content to existing documents, summarise text, and rewrite paragraphs to make it more concise.
+
+
+
+
+
+
+      2. Multi-agency collaboration. Need help keeping track of emails across your multi-disciplinary teams? Copilot in Outlook works with you in your inbox and messages so that you can spend less time on email triage and more time on communicating – better, faster, and more easily. Summarise lengthy, convoluted email threads with multiple people, and quickly find open questions that have yet to be answered. Respond to an existing email with a simple prompt, or turn quick notes into crisp professional messages.
+
+
+      The responsible use of AI technology can free up time and effort for Social Care teams, creating more capacity for direct work. Microsoft 365 Copilot is guided by AI principles and Responsible AI Standard, designed to put the human user in control.
+
+
+
+
+
+
+      Find out more today: Microsoft 365 Copilot.
     how: >-
       * Move existing exception forms into your standard forms. This can largely
       be handled in the narrative sections of a home study.
 
       * Find opportunities to [reduce the number and/or level of decision-makers for relative exceptions](/recommendation/empower-line-level-exceptions).
     outcome: ""
-    title: normalize-relative-licensing-exceptions
+    title: Microsoft-365-Co-Pilot-in-Social-Care
     benefits:
       - Faster relative licensing
       - Streamlined process for employees
@@ -3571,14 +3775,29 @@ projects:
         * **Rhode Island** and **Ohio ** do not have a separate form to request exceptions, and instead incorporate mitigations throughout the home study. 
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Designate certain families to be on call after hours
+  - heading: Bank of England roundtable - Barnado's
     costs:
       - None, unless you provide incentive payments for this
-    about: There's a difference between the number of available beds the placement
-      desk can see in its database, and the number of placements who answer the
-      phone — especially during off-hours. Having specific "shifts" during which
-      current foster families know they might receive an emergency placement
-      call can help ensure every child has options at every hour.
+    about: >
+      November 2023 saw the culmination of a partnership with the Bank of
+      England as the CEO of Barnardo’s Lynn Perry MBE chaired a roundtable
+      alongside the Governor of the Bank of England Andrew Bailey about the
+      impact of the cost-of-living crisis on care experienced young people. The
+      roundtable was attended by care experienced young people and senior
+      representatives from key organisations including Department for Work and
+      Pensions, Department for Education and the Financial Conduct Authority.
+      The event gave care experienced young people the opportunity to discuss
+      how systems worked against them and the ways in which this was compounded
+      further by the cost-of-living crisis. Barnardo’s report ‘No Bank of Mum
+      and Dad,’ published in Care Leavers Week in November, confirmed that care
+      leavers continue to struggle to afford food, heating, accommodation,
+      transport, and to stay digitally connected. These are all essentials for
+      building an independent adult life by securing and engaging with education
+      and employment as well as enjoying good mental and health. This report was
+      shared at the Bank of England event and further cemented the realities for
+      care experienced young people alongside a range of ways to help bring
+      about change. It is envisaged that the roundtable will be a catalyst for
+      brokering further discussions.
     how: >-
       * Ask foster families to sign up to be on call. They might have times they
       can easily commit to already, or you might ask them to sign up for
@@ -3589,7 +3808,7 @@ projects:
 
       * Provide incentive payments for being on call and accepting any child during off-hours. This can incentivize more families to sign up.
     outcome: ""
-    title: on-call-families
+    title: Bank-of-England-roundtable
     benefits:
       - Higher likelihood of family-based emergency placements
     who:
@@ -3611,12 +3830,31 @@ projects:
         * **Frederick County, MD** asks every family if they are available to answer phones in the middle of the night, and keeps track of this preference.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Designate some homes specifically for emergency placements
+  - heading: Freedom for Transport Campaign - Barnado's
     costs:
       - None unless you pay emergency homes a higher rate
-    about: Some foster homes are particularly well-suited to supporting emergency
-      placement for short stays, which can give overtaxed placement desks enough
-      time to find kinship placements or a well-matched general licensed family.
+    about: >
+      Barnardo’s Care Journeys worked with Carefree, an organisation based in
+      Cornwall which helps and supports care experiences young people.
+      Barnardo’s Freedom for Transport was part of the charity's Triangles
+      programme, which works with children and young people with lived
+      experience of the Care system to identify problems they have encountered
+      and explore and test solutions which could then be scaled up to help
+      others. The care experienced young people identified the high costs of
+      public transport across Cornwall and Devon as a significant problem. It
+      prevented them from seeing friends and family, accessing leisure
+      facilities, which contributed to loneliness and isolation, and made it
+      difficult to maintain employment and/or education, which impacted their
+      life opportunities.
+
+
+      In early 2022 Barnardo’s launched a national campaign calling on the Government to introduce a national concessionary bus travel scheme for care leavers aged 18-25.
+
+
+      The campaign has been hugely successful in raising awareness of the need for free bus travel for care leavers and securing local offers of support. In addition, Cornwall council recently passed a motion agreeing to give all care leavers free bus travel anytime up to the age of 25. Free bus travel
+
+
+      for care leavers was specifically mentioned in the Government’s consultation document on implementing findings from the Independent Review of Children’s social care. In addition, Birmingham City Council recently passed a motion aimed at ensuring all care leavers in the city had access to free public transport, for travel to work, apprenticeships or interviews until they are 25. This motion specifically cited Barnardo’s Freedom for Transport campaign.
     how: >-
       * Create a specific license or license designation for emergency homes.
       Set clear expectations for these homes, such as when they need to answer
@@ -3628,7 +3866,7 @@ projects:
 
       * Limit emergency placement lengths. An emergency placement should not last more than 7 days, and ideally not more than 2-3 days. The goal is to have just enough time to be able to identify and reach kin, or a well-matched foster family, _not_ to serve as a real placement.
     outcome: ""
-    title: designated-emergency-homes
+    title: Freedom-for-Transport-Campaign
     benefits:
       - Designating crisis homes keeps these beds open for emergencies, instead
         of for general care.
@@ -3655,16 +3893,40 @@ projects:
         * **Indiana** provides a higher per diem rate to certain homes in exchange for the following: you can only say “no” twice every quarter, you’re open to taking ages 0-18, you will answer the phone in the middle of the night, and you will and maintain placement up to 7 days. The state can sometimes provide this higher stipend for longer than the 7 days if necessary.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Require private agency capacity for emergency placements
+  - heading: Double Discrimination - Barnado's
     costs:
       - None
-    about: Systems that contract beds from private agencies can ensure some
-      emergency capacity by requiring some percentage of emergency beds in these
-      contracts.
+    about: >
+      Double Discrimination: Black care experienced young people navigating the
+      criminal justice system, was commissioned by Barnardo’s Care Journeys and,
+      conducted by Listen Up, to hear from Black care experienced young people
+      in prisons about their experiences navigating the criminal justice system.
+      The report presents a challenge, that ‘we cannot hide the obvious and nor
+      should you’, with a key finding being that racism was the major
+      determinant in the lives of 20 out of the 22 Black care experienced young
+      people who contributed to the research. The findings outline that Black
+      care experienced young people are subject to a double whammy of
+      discrimination linked to the colour of their skin and their time in care.
+      This intersection was rarely factored into their support and not
+      recognised. This results in Black care experienced young people facing
+      greater hardship than their White peers when navigating life, care and
+      importantly, the criminal justice system.
+
+
+      Recommendations from the report are; (1) improve the experiences of Black children in foster care; (2) improve access to mental health support for Black children in care; (3) take action to reduce the over-criminalisation of children in the care system; (4) improve understanding across agencies of the needs of children in care and care-experienced young people as well as providing training on how to
+
+
+      better address these need and (5) ensure a renewed emphasis on implementing reform aimed at tackling institutional racism within the criminal justice system.
+
+
+      The Barnardo’s report was launched in partnership with Manchester Metropolitan Universities, who had produced a unique quantitative report ‘Care Experience, Ethnicity and Youth Justice Involvement: Key Trends and Policy Implications, each supported respective findings. Following this, a parliamentary roundtable was held chaired by Barnardo’s Vice President Baroness Floella Benjamin to discuss the report’s findings and put forward recommendations to politicians and key decision makers. 
+
+
+      Double Discrimination - Black care-experienced young adults navigating the criminal justice system report.pdf (barnardos.org.uk)
     how: "* Include a requirement for a percentage / number of emergency beds from
       your private agencies."
     outcome: ""
-    title: require-private-agency-emergency-beds
+    title: Double-Discrimination
     benefits:
       - Guaranteed emergency placement options in family settings
     who:
@@ -3674,19 +3936,29 @@ projects:
         agencies. "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Emergency shelter homes
+  - heading: Care Crates - Barnado's
     costs:
       - Significant
-    about: When used strategically, short-term emergency homes for children who are
-      new to foster care can provide the time (hours or days) necessary to find
-      and resource kinship caregivers, while tackling basics like clothing,
-      hygiene, medical exams, and other assessments. As long as these placements
-      are always brief, and explicitly used in support of ultimately placing
-      that child in the best possible placement as soon as posible, emergency
-      homes can be a valuable tool.
+    about: >
+      Care Crates is an initiative driven by care experienced young people with
+      an aim to put the ‘care back into the care system’. It focussed on the key
+      issue that young people did not have the right resources to hand when
+      leaving the care system. The initiative attracted the attention from Ikea,
+      a Barnardo’s corporate partner at the time, who invested £50,000 to enable
+      Care Crates to be disseminated across all four nations to Barnardo’s
+      services that support those leaving care. The Care Crates provide some key
+      essentials when setting up a home, but also some more sentimental items,
+      like a personalised card, a book that someone has personally recommended
+      and a phone card to allow the young person to keep in touch with those
+      important to them. Over 200 Care Crates have been sent to services and an
+      evaluation is planned in early 2024 to measure impact. Initial feedback
+      from young people is that they are making a difference during what many
+      experience as a difficult transition in their lives when leaving care. The
+      initiative was nominated and shortlisted for a Better Society Award, which
+      evidenced the future potential and relevance of this initiative.
     how: ""
     outcome: ""
-    title: emergency-shelters
+    title: Care-Crates
     benefits:
       - Provides enough time to find kin
       - Can specialize in emergent needs and assessments
@@ -3706,15 +3978,26 @@ projects:
         * **Ohio** has two licensed crisis nurseries.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Check in frequently on first placements
+  - heading: Defying the odds - Barnado's
     costs:
       - Staff time
-    about: No matter how many hours of training they've had, it's a different
-      experience once a child is placed in your home. This is particularly the
-      case for kinship caregivers who may have had no notice their life was
-      about to change. A little extra support during this transition period can
-      go a long way towards making a placement successful and retaining foster
-      homes for the long term.
+    about: >
+      Defying the Odds is a training package designed and delivered by a care
+      experienced young person alongside training professionals and Care
+      Journeys professionals. The premise is to provide a ‘real’ insight into
+      the care system from the perspective of people who have first-hand
+      experience and are therefore best placed to do so. The training aims to
+      raise awareness and inform practice for all professionals across the care
+      system regardless of job role. The training, which is delivered to those
+      who work directly with those living in and leaving care and other relevant
+      professionals, covers areas that are often ignored. This includes for
+      example, the impact of language and how to care for Afro Caribbean hair
+      and skin. It has already changed professionals thinking and practice
+      within Barnardo’s, and it is currently being scaled up to be delivered to
+      externally stakeholders too. With 193 professionals attending the training
+      to date, we hope to fundamentally change the ways professionals think,
+      behave and perform when supporting children and young people in and
+      leaving the Care system.
     how: >-
       * Update your practices to include regular check-ins with resource
       families after they take their first placement. The specific person who
@@ -3726,7 +4009,7 @@ projects:
 
       * Ask open-ended questions. How's it going? Do they need anything? Do they have any questions? This is a great opportunity to identify any additional supports that may be needed and get them in place proactively.
     outcome: ""
-    title: check-in-frequently-on-first-placements
+    title: Defying-the-odds
     benefits:
       - Initial placements can be more stable
       - Increased retention of new resource families
@@ -3739,12 +4022,21 @@ projects:
         hearings, to help them get comfortable and familiar with the process. "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Give new resource parents a welcome bag
+  - heading: Dear Social Services - Barnado's
     costs:
       - Small
-    about: Retention starts at the start! Drop off a welcome bag to new resource
-      parents with a note that welcomes them to fostering and includes a
-      combination of useful items and fun treats for the whole family.
+    about: >
+      Brent Care Journeys (BCJ) worked with a newly formed Company of care
+      experienced young people and the Kiln Theatre to produce creative and
+      expressive works to express home some key messages cleaned from their life
+      experiences. ‘Dear Social Services’ was a collection of photography, art
+      installations, poetry (Poem) and performances presented in an unfiltered
+      manner so young people could illustrate their own words, feelings and
+      emotions. Those invited to the exhibition included care experienced young
+      people, Barnardo’s officers, Brent Council officers and other key decision
+      makers in the region. The excellent exhibition encouraged, professionals
+      to question their own practice and affirmed the experiences of those with
+      lived experience.
     how: >-
       * Include a mix of contents, some practical and some just fun. Consider
       the whole family (the parents, the youth in care, and any children or
@@ -3754,7 +4046,7 @@ projects:
 
       * Kinship caregivers should get bags, too, although you might adjust the tone and message (and possibly the contents) of the delivery accordingly. You can still thank them for their sacrifices and include family activities like a game, craft project, or treats.
     outcome: ""
-    title: welcome-bag-for-new-resource-parents
+    title: Dear-Social-Services
     benefits:
       - Makes new resource parents feel supported at a key milestone.
     who:
@@ -3768,12 +4060,19 @@ projects:
         (The Invisible String). "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Provide childcare at resource family events and trainings
+  - heading: Walk a day in my shoes - Barnado's
     costs:
       - Can be free or paid
-    about: Childcare can be an insurmountable barrier to adults completing necessary
-      licensing steps or to attending regular training and/or recognition
-      events. You can fix this by providing childcare on-site.
+    about: >
+      Walk a day in my shoes is a creative art installation which depicts the
+      real lives of care experienced young people. Care experienced young people
+      taking part in the initiative were asked to design a
+
+
+      shoe, which was then placed on a display board with a QR code next to it. By scanning the QR code the person can find out more about that person’s story and their authentic view of their care journey, as told by them. It captures how unique each person’s journey is to highlight why every child and young person should be treated as an individual and not simply a ‘looked-after’ child. This installation has the potential to raise levels of awareness and change practice as well as give care experienced young people a platform to challenge the misconceptions that can often surround them. 
+
+
+      https://plymouth.carejourneys.org.uk/walk-in-our-shoes-not-one-size-fits-all
     how: >-
       * Prioritize childcare options for kinship caregivers who need to complete
       required agency steps to maintain their kinship placeent, such as a
@@ -3787,7 +4086,7 @@ projects:
 
       * Make sure that kinship caregivers are eligible for this childcare, too.
     outcome: ""
-    title: provide-childcare-at-resource-parent-events
+    title: Walk-a-day-in-my-shoes
     benefits:
       - More families can navigate your licensing process, and faster
       - Higher attendance at training and events
@@ -3806,20 +4105,35 @@ projects:
         * **Montgomery County, MD** provides free childcare and pizza dinner at monthly resource family trainings. 
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Identify natural supports for caregivers
+  - heading: Parenthood research and Parent focused pre-birth assessments - Barnado's
     costs:
       - None
-    about: Caregivers, whether kinship caregivers or general resource families, need
-      support too, and they won't be able to get 100 percent of that support
-      from your agency. Identifying natural supports early on can help activate
-      those supports when they're needed.
+    about: >
+      Future Pathways, which is part of Care Journeys, conducted research into
+      understanding the experiences of young care experienced parents, from the
+      pre to post birth stages. The research found that care experienced parents
+      were poorly supported during pregnancy, often judged and stigmatised by
+      professionals, they struggled to access support akin to that provided an
+      extended family, and they also found it difficult to get mental health
+      support. The findings illustrate a harsh reality for care experienced
+      parents where they face discrimination which differs from non-care
+      experienced parents. The report which followed the research presented a
+      range of recommendations including the creation of family hubs; enabling
+      care experienced parents to create their own ‘villages’ of support; local
+      authorities to develop policies on how they support care-experienced
+      parents as part of their local leaving care offer; extending corporate
+      parenting to more public bodies such as the NHS and Police and finally
+      greater access to mental health support.
+
+
+      Barnardo’s Brent Care Journeys has worked with care experienced young people as well as NHS and local authority staff to create a pre-birth assessment that focussed on the unique strengths of care experienced parents and removed the negative stigma which can impact on their experiences. This work captured the frustrations of young parents, who wanted to have their dreams and aims and ambitions for their families heard. The assessment tool has been adopted by Brent Council’s Social Care Team.
     how: "* Update your home study process to include identifying natural supports.
       Home study specialists should talk through different hypothetical
       scenarios with the caregiver to prompt brainstorming of what supports they
       would need and who they would reach out to. Families can write these plans
       down."
     outcome: ""
-    title: identify-natural-supports-for-caregivers
+    title: Parenthood-research-and-Parent-focused-pre-birth-assessments
     benefits:
       - Increased resource family retention
       - More supported caregivers
@@ -3830,15 +4144,31 @@ projects:
         part of its home study form. "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Check in with your resource families on a regular basis
+  - heading: "Child Exploitation Collaboration: Bristol Strategic Partnership -
+      Barnado's"
     costs:
       - Staff time
-    about: There is so much to do and there are so many emergencies to handle that
-      it can be easy to assume that no news is good news in the case of your
-      existing resource families, but this is not alway the case. Regular
-      check-ins can surface issues of all sizes proactively, so you have enough
-      time to fix individual or systemic issues before they cause you to lose
-      families altogether.
+    about: >
+      Bristol Child Exploitation Collaboration is a partnership with Bristol
+      City Council to co-design specialist services for children who have been
+      exploited or affected by community violence. In 2022, we conducted
+      research with children who have been exploited and their families, along
+      with the professionals who support them. This research, which forms the
+      foundation for the co-design of a new exploitation service, focused on
+      children’s lived experiences of services and how they think the services
+      and systems can improve to keep them safe and support them into adulthood.
+      98 children, families and professionals shared their experiences of
+      navigating multiple systems and services focussing how this negatively
+      affects them and, importantly, where practice was getting this right.
+
+
+      The Institute of Public Care at Oxford Brookes University completed an insightful and supportive evaluation of our partnership. It highlights our work in gaining the voices of young people as ‘gold standard’ and including the voices of a wide range of stakeholders underpinning the value, power and credibility of the process. Our work identified 11 opportunities for change which are the basis for the new service.
+
+
+      Based on the children’s experiences we created the ‘Here I am’ an immersive 360-degree film. It is aimed at commissioners and decision makers to ensure the child’s voices and experiences are central to decision making. 
+
+
+      You can watch the film here: Here I Am - YouTube
     how: >-
       * Try to make check-ins a human interaction, instead of relying on a paper
       or electronic survey. This takes more time but gets much richer
@@ -3856,7 +4186,7 @@ projects:
 
       * Provide caregivers an anonymous way to share more feedback.
     outcome: ""
-    title: check-in-with-your-resource-families-regularly
+    title: Child-Exploitation-Collaboration-Bristol-Strategic-Partnership
     benefits:
       - Increased retention by being able to spot and get ahead of issues
       - More families feeling heard
@@ -3870,19 +4200,21 @@ projects:
         * **Rhode Island** surveys caregivers with a survey after they complete training, and after their initial placement.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Measure retention carefully
+  - heading: Exploited and Criminalised comic - Barnado's
     costs:
       - None
-    about: The percentage of families that your system retains as resource parents
-      can be a misleading number if not tracked carefully. There are plenty of
-      good, or at least neutral, reasons for a family closing its beds, such as
-      adopting their current placement, moving out of state, or perhaps reaching
-      a certain age. There are also some families for whom fostering is just not
-      a good fit, and it's best for them and for children in care that they part
-      ways with your agency. Retention goals should focus on families willing
-      and able to meet the needs of children in care, but who drop out due to
-      frustration or burnout—and this starts by being able to measure and
-      differentiate how you're performing with those families.
+    about: >
+      In collaboration with Penificent, a social enterprise that creates comic
+      books and workshops that tackle social issues by taking inspiration from
+      their lived experience growing up in London, we created Exploited and
+      Criminalised. The story is based on Barnardo’s experiences of witnessing
+      how young men who experience exploitation are regularly criminalised
+      rather than identified as victims of exploitation. Therefore, they do not
+      receive the support they need to recover. The idea was prompted by
+      Barnardo’s 2019 Policy report of the same name and supports our calls for
+      a statutory definition and consistent data collection on criminally
+      exploited children. The comic is aimed at young people to open
+      conversations and to amplify the issues of exploitation.
     how: >-
       * Formally capture when a family stops serving as a resource family. This
       might be when their license expires, when they submit a letter of
@@ -3894,7 +4226,7 @@ projects:
 
       * Differentiate between reasons that could have been avoided with agency action, and those that could not. Focus your efforts only on the former.
     outcome: ""
-    title: measure-retention-carefully
+    title: Exploited-and-Criminalised-comic
     benefits:
       - More actionable retention data
       - Ability to retain more homes (if data is acted upon)
@@ -3940,13 +4272,27 @@ projects:
           * Specific child placement no longer needed
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Provide training for supportive adults
+  - heading: Child Sexual Abuse Centre of Expertise Practice Leads Programme Pilot -
+      Barnado's
     costs:
       - None
-    about: Adults who care about children in care want to be helpful, but they may
-      not know how. Offering training and supports to supportive adults (who do
-      not have placement) can help them be a more active and supportive presence
-      in the lives of our children.
+    about: >
+      In collaboration with the Centre of expertise on child sexual abuse (CSA
+      Centre), Barnardo’s has piloted the delivery of the CSA Centre’s Child
+      Sexual Abuse Practice Leads Programme to their non- CSA specialist
+      children’s workforce. This intensive training course builds the confidence
+      and competence of safeguarding professionals in managing child sexual
+      abuse cases. On completion of the training, the participants become
+      practice leads on child sexual abuse for their service or locality.
+      Barnardo’s believes that all professionals working with children and
+      families require the knowledge, skills and confidence to be able to spot
+      the signs of sexual abuse
+
+
+      to test solutions to the training and development challenge across our local, regional and national teams. The first 44 staff to complete the course and the evaluation to date have shown excellent engagement and satisfaction. Attendance was over 70% on a 10-day course and participants reported that the programme enabled them to feel more “empowered” “confident”, able to “promote consistent child focused practice” and to “ensure all staff have the confidence and knowledge to hold all aspects of child safety”. A further 66 participants are due to complete the programme before 2025. 
+
+
+      Find out more here: https://www.csacentre.org.uk/training-events/
     how: >-
       * Talk to supportive adults to find out what they need. Some might benefit
       from trauma-informed trainings, but others may simply need encouragement
@@ -3955,7 +4301,7 @@ projects:
 
       * Make existing trainings available to supportive adults. This shouldn't cost your system extra money, but provides extra resources to a broader array of supports. Send emails or share pamphlets about upcoming trainings with all the [supportive adults you have captured](/recommendation/ask-about-supportive-adults).
     outcome: ""
-    title: provide-training-for-supportive-adults
+    title: Child-Sexual-Abuse-Centre-of-Expertise-Practice-Leads-Programme-Pilot
     benefits:
       - More supports for our youth
     who:
@@ -3966,14 +4312,34 @@ projects:
         trauma-informed training. "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Provide transportation to visits with supportive adults
+  - heading: Care Friends
     costs:
       - Costs money, but can be mitigated through some volunteer labor
-    about: Making a plan to keep youth connected with their entire network of
-      supportive adults is critical, but generally requires reliable
-      transportation to work. Case workers and resource parents can sometimes
-      provide this transportation, but your system should make sure a robust
-      array of transportation options are available for youth.
+    about: >
+      Care Friends is an employee referral app that aims to support finding and
+      retaining high-quality care staff in the social care sector. The app was
+      launched in partnership with Skills for Care and is available on both web
+      and mobile platforms. The app allows staff to refer their friends for job
+      opportunities at the tap of a button, share job roles directly with their
+      contacts or on social media, and recognize and reward staff. The app also
+      provides a leaderboard feature that makes collecting points fun and
+      competitive. Each point converts to £1, which is paid through payroll.
+      Investing in Care Friends can save money in other areas; employees
+      recruited through Care Friends have a higher conversion and retention rate
+      than other methods. The streamlined process also saves time on
+      administration compared to traditional recruitment schemes.
+
+
+      The app has been successful in attracting and retaining high-quality care staff. Care Friends referrals see 50% less year one attrition compared to the sector average. Many of the candidates referred so far have been new to care. The app is a promising solution to the social care crisis across social care. The Care Friends platform includes a web-based portal for recruiters and managers and a mobile app that care employees use to refer contacts from their existing social networks to job vacancies in an organisation.
+
+
+      Care Friends is also working on a project to look at how the app can be applied in children’s social care in Wales around boosting foster carer recruitment.
+
+
+      You can find out more about Care Friends by watching our CII webinar, Bolstering the Children’s Social Care Workforce here: https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/ 
+
+
+      https://carefriends.co.uk/
     how: >-
       * Provide transit passes or ride-hailing app stipends for older youth.
       These youth can often navigate to their supportive adults on their own if
@@ -3981,7 +4347,7 @@ projects:
 
       * Ask supportive adults to provide transportation. This can be a great way to keep youth connected with their supportive adults, and is often an activity adults are happy to provide and simply do not know is needed.
     outcome: ""
-    title: provide-transportation-to-visits-with-supportive-adults
+    title: Care-Friends
     benefits:
       - More access to supportive adults
     who:
@@ -3997,11 +4363,23 @@ projects:
         * **CASA programs** in some systems allow CASAs to provide transportation for youth to visit their supportive adults.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Create life books for youth in care
+  - heading: Career progression support – London Borough of Newham
     costs:
       - None
-    about: A life book captures a child's key milestones and relationshps, and it
-      should follow them throughout (and after) their time in care.
+    about: >
+      The London Borough of Newham is investing in its social workers by
+      providing career progression support. The council offers excellent
+      opportunities to develop skills, knowledge, and experience of working in a
+      dynamic and progressive setting. The support includes membership of Making
+      Research Count and CareKnowledge, which provides a wide range of
+      evidence-informed practice and resources, access to a number of courses to
+      apply for via the Apprenticeship route for all staff, and
+
+
+      opportunities to work in a wide range of roles where one can develop knowledge and expertise alongside the provision of mandatory and non-mandatory training days and mentoring/shadowing arrangements. The council also offers Best Interest Assessor and Approved Mental Health Professional training opportunities for Social Workers, peer supervision sessions, and reflective practice. Newly Qualified Social Workers (NQSWs) receive consistent support in their first year of employment through the Assessed and Supported Year in Employment (ASYE) programme, which aims to ensure that NQSWs become confident, competent social work professionals. All new social workers also have access to a five-day training course in systemic practice. Newham’s overall work is underpinned by a Circles of Support practice framework, based on relational and anti-racist practice which focuses on providing a circle of support to both children and families, but also to social workers.
+
+
+      The project aims to provide social workers with a structured programme of induction into professional social work, offering many benefits, including a personalized training and development plan, 1:1 support from trained and experienced ASYE assessors, reduced caseload, protected development time, training opportunities, internal moderation panel, clear appeals process, and career conversation at the end of the programme. The programme also provides opportunities to work alongside academics to deliver teaching sessions in their area of expertise, attend and participate in academic activities such as attending an accredited module relevant to social care, an admission day, participating in Skills Development Days and Practice Education Panels, and regular updates on various opportunities and recorded webinars.
     how: >-
       * Print a lifebook template.  
 
@@ -4011,7 +4389,7 @@ projects:
 
       * Make sure a child's lifebook follows them by including it in any move checklists, as well as in any permanency (e.g., aging out, adoption) checklists.
     outcome: ""
-    title: create-life-books
+    title: Career-progression-support
     benefits:
       - Captures memories for youth in care
       - Can find more kin
@@ -4024,13 +4402,61 @@ projects:
         [Triangles](/assets/Lifebook-triangles.pdf). "
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Use DNA to find more family connections
+  - heading: The Coram Innovation Inset - Coram-i
     costs:
       - Usually under $100 per child
-    about: This idea is more controversial, and it's important to consider a youth's
-      privacy and wishes. However, ancestry DNA tools that can uncover more
-      family members can be a useful tool for children in care with no or
-      limited kinship placement options or supportive adults.
+    about: >
+      The Coram Innovation Incubator (CII) runs the Coram Innovation Inset, a
+      five-session course offered to our members annually to support them to
+      develop and implement an innovation pilot in their organisation. The Inset
+      brings together a Design Thinking approach, social work theory and a focus
+      on evaluation to help immerse participants in a problem, identify their
+      end user, and think creatively about solutions. We then work together to
+      support them to put this into practice and measure outcomes. The Inset
+      course is offered as part of membership of the Incubator, with three staff
+      from member organisations eligible to join at no extra cost each year.
+
+
+      The Inset provides participants with a collaborative and supportive space to discuss challenges with like-minded people, confidence and tools to develop a pilot project, skills and expertise in evaluation, and two coaching sessions with an experienced, external coach, who is a tutor at the
+
+
+      London Business School and Director of an independent innovation agency. CII member organisations benefit from staff time to explore practice challenges, upskilling colleagues, space for auditing and reflection, and a scalable project to address challenges.
+
+
+      In 2023, we ran our second cohort of the Inset and worked with teams across our member organisations – many had a focus on staff wellbeing and retention, but we also worked with local authorities looking at improving supervision for foster carers, expanding edge of care services, and developing a new apprenticeship programme for young people interested in working in children’s social care. We also continued to work with participants from the first cohort in developing and scaling their projects over the course of the year, and look forward to building on this success and running the Inset for the third time in 2024.
+
+
+      You can find a case study from Aneesa and Margaret from the London Borough of Bromley on their experience of the Coram Innovation Inset here:
+
+
+      When Aneesa and Margaret, who work for Bromley Council, joined Coram-i's Inset programme, they were facing a common problem amongst local authorities. Social workers in children’s services were leaving and becoming increasingly difficult to recruit.
+
+
+      Aneesa, Head of MASH, Referral & Assessment and EDT for Bromley, was unsure of how the Inset programme would help, but six months later they finished with a pilot scheme idea that has proved very successful.
+
+
+      Aneesa explains “We went in with an open mind but didn’t realise how beneficial the Inset programme would be. We had a problem that needed to be solved. Social worker turnover was huge, constantly doing interviews was exhausting. We thought the problem lay with our recruitment practices. The sessions helped us to think about the issue in different ways.
+
+
+      “We really benefited from being in a room with other local authorities and the coaching we received helped us to think innovatively. We started looking at staff welfare and what we could do to make the lives of our social workers better. We know the job is very stressful and involves countless appointments and house visits, which are traditionally conducted between 9-5. This can be difficult for social workers and the people they are visiting who may have work and childcare commitments.
+
+
+      Margaret, Practice Manager, explains how they introduced flexibility to the service.
+
+
+      “We put out a survey asking our social workers if they would benefit from working their hours flexibly. We learnt a lot about what would make their lives better and the idea was well received. They were excited to have a better work-life balance and they felt better listened to and appreciated.
+
+
+      “We piloted the scheme with one team and it has been really successful so we’re introducing it to another. Our social workers are more motivated and their wellbeing has really improved. Other teams are keen to get on board too! There is a real appetite for it.”
+
+
+      The Bromley team are also working with CII partners at Microsoft to look at how simple technology solutions can also support their workforce in their work with children and families.
+
+
+      The Inset programme has given Aneesa and Margaret a clear solution to a problem but they have benefited in other ways too as Aneesa explains.
+
+
+      “Taking part in the programme gave us the time and space to step back and think outside the box. It has given us a new network of other local authorities who we can share best-practice with. We really enjoyed the one-to-one coaching too. We have even been introduced to some tech partners like Microsoft who are helping with other aspects of our work. I would really recommend the programme to other local authorities. You learn so much about your organisation, yourselves, and the joy of innovation.”
     how: >-
       * Develop a policy for when and how to use DNA services. You may want to
       limit this to youth with no viable kinship placements, or only older youth
@@ -4039,7 +4465,7 @@ projects:
 
       * Couple counseling with the results. A DNA test might reveal unknown (or unexpected) parents, siblings, and other relatives. Strong supports need to be in place before a test so a youth can process the results.
     outcome: ""
-    title: use-dna-to-find-more-family-connections
+    title: The-Coram-Innovation-Inset
     benefits:
       - Can reveal kinship placement and support options that could not
         otherwise be found.
@@ -4050,7 +4476,7 @@ projects:
         office."
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Host events and camps to bring together separated siblings
+  - heading: Children’s Services Learning Academy – Torbay Council
     costs:
       - varies
     inspiration: >-
@@ -4063,8 +4489,17 @@ projects:
       attend, including siblings who have been adopted.
 
       * [Camp to Belong](https://camptobelong.org) in Colorado
-    about: Create regular events and camps where separated siblings can come
-      together and have fun.
+    about: >
+      Torbay Council’s in house Children’s Services Learning Academy is working
+      with South Devon College to support its Community Care workers to complete
+      the Level 4 apprenticeship in ‘Working with Children, Young People and
+      Families’. The Level 4 apprenticeship course will help learners to
+      recognise and assess the complex needs of children, young people, and
+      families and support qualified staff to deliver any specific interventions
+      or referrals.
+
+
+      The course is part of the Council’s ‘grow your own’ initiative, to boost the social work workforce via a number of routes. Once this 2-year course is completed, participants will be able to apply for a social work degree. The course seeks to equip learners with an understanding of the importance of early intervention and safeguarding work and key knowledge to help them manage risk across the spectrum of needs for children, young people, and families. It builds on previous work Torbay council have pioneered as part of their ‘grow your own initiative’, which includes a ‘Step Up’ progamme which enables graduates from professions such as teaching to fast track their social work qualification, as well as wider work the council have undertaken in collaboration with local universities.
     how: >-
       * Host a monthly (at least) event for separated siblings. Make it fun and
       seasonal. It could be as simple as meeting at a playground or petting zoo,
@@ -4078,7 +4513,7 @@ projects:
 
       * Create a summer camp for separated siblings. This can be challenging to start, but you can collaborate with local non-profits, existing summer camps, and models from other states with existing sibling camps to create a pilot program for next summer. It could be an afternoon in the park with agency employees running activities at first; it doesn't have to be a week-long sleepaway camp.
     outcome: ""
-    title: host-events-and-camps-to-bring-together-separated-siblings
+    title: Children’s-Services-Learning-Academy
     benefits:
       - More opportunities for separated siblings to spend time together and
         make memories
@@ -4101,18 +4536,27 @@ projects:
         * **Colorado** has Camp to Belong.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Never stop looking for a placement that can take an entire separated
-      sibling group
+  - heading: Every Child - The Contingent
     costs:
       - Time
     inspiration: Oklahoma tracks separated siblings in a dedicated part of its
       monthly Recruitment Report.
-    about: While almost every state officially keeps looking for placements that can
-      reunite separated sibling groups, this practice can easily fall by the
-      wayside over time. Systems need to put measures in place to continue this
-      search. Note that if a sibling group is separated but all siblings are
-      with kin, it is likely not necessary to continue searching for a
-      placement, unless specific circumstances warrant it.
+    about: >
+      The Contingent is a project developed in partnership with Microsoft that
+      aims to create a more diverse and inclusive workforce by leveraging
+      location-based matching. The project is taking place in the United States,
+      and its goal is to help companies find the right candidates for their job
+      openings while also promoting diversity and inclusion. The Every Child
+      initiative is a case study within the Contingent project that focuses on
+      recruiting and hiring for child welfare agencies. The initiative aims to
+      help these agencies find and hire the best candidates for their open
+      positions, with a focus on diversity and inclusion.
+
+
+      The Every Child initiative uses a location-based matching system to connect child welfare agencies with qualified candidates in their area. This system helps to ensure that candidates are familiar with the local community and can provide culturally sensitive care to the children they serve and in a range of ways. Part of the drive has been focused on supporting foster children. The initiative has already seen positive outcomes, with participating agencies reporting increased diversity in their
+
+
+      workforce and improved outcomes for the children they serve. In 2022, the Every Child initiative engaged 2,341 community members to support their local child welfare system. By leveraging technology to promote diversity and inclusion, the Every Child initiative is helping to create a more equitable and just society for all. https://thecontingent.org/initiatives/every-child/
     how: >-
       * Confirm that you can generate a report of children in foster care who
       are separated from at least one sibling, distinguishing by kinship and
@@ -4122,7 +4566,7 @@ projects:
 
       * Confirm that regular case check-ins (which may be called Family Team Decision Meetings, Child and Family Team meetings, or something else in your jurisdiction) include updates on recruitment efforts for separated sibling groups who are not all placed with kin.
     outcome: ""
-    title: never-stop-looking-for-placements-for-sibling-groups
+    title: Every-Child
     benefits:
       - Ultimately reconnects some separated siblings
     who:
@@ -4139,11 +4583,31 @@ projects:
         * Every state in our working group has an official policy to continue searching for placements for sibling groups that are separated in general (non-kin) foster care.
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Use parent visits as another opportunity for bringing siblings together
+  - heading: Framework for London in Permanent Children’s Social Work Recruitment -
+      London Innovation and Improvement Alliance
     costs:
       - None
-    about: Court-ordered visits for parents are another opportunity to bring
-      separated sibling groups together.
+    about: >
+      Following on from the London Pledge to address recruitment challenges, a
+      £20m social worker recruitment initiative has been launched in London in
+      the context of increasing costs in children’s social care. The Framework
+      for London in Permanent Children’s Social Work Recruitment (FLiP) is a
+      partnership between Yorkshire Purchasing Organisation (YPO), London
+      Councils and the London Innovation & Improvement Alliance (LIIA) and seeks
+      to improve compliant access to permanent children’s social workers for all
+      London local authorities. The partnership will provide both “full” and
+      “reduced” service offerings for London local authorities and define 16
+      specialist children’s social care service providers both locally and
+      regionally. The FLiP is a novel regional framework and guarantees
+      uniformity in price structure, stable costs, a single point of contact for
+      recruitment, and a standard of service through pre-agreed terms and
+      conditions.
+
+
+      The initiative is expected to increase councils’ access to permanent staff and help them save money on agency fees. The partnership will also help to address the shortage of social workers in London. The initiative was launched in August 2023 and is expected to have a positive impact on children’s social care in London. 
+
+
+      https://www.liia.london/flip-childrens-social-work-recruitment/
     how: >-
       * Make it normal practice for parent/child visits to include an entire
       sibling group, unless specific circumstances warrant a different
@@ -4151,7 +4615,7 @@ projects:
 
       * Do not count visits with parents as sibling visits; these should be in addition.
     outcome: ""
-    title: use-parent-visits-to-bring-siblings-together
+    title: Framework-for-London-in-Permanent-Children’s-Social-Work-Recruitment
     benefits:
       - More sibling visits
     who:
@@ -4163,16 +4627,26 @@ projects:
         * **Oklahoma**
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Encourage resource parents of separated siblings to connect directly
+  - heading: Juno
     costs:
       - None
     inspiration: Fairfax County, VA's [policy](LINK TO COLLEEN).
-    about: Sibling connection is about much more than a monthly in-person visit. It
-      can be invites to school events, birthday calls and cards, and regular
-      everyday connections like playing in the park on a nice day. Resource
-      parents of separated sibling groups should collaborate to help keep them
-      connected in large and small ways; this is not a responsibility of the
-      system or social worker alone.
+    about: >
+      Juno is an all-in-one employee benefits platform that provides flexible,
+      inclusive, and socially conscious workplace benefits designed for remote
+      teams. The platform is available worldwide and offers hundreds of
+      experiences to choose from, ranging from mental health support and
+      childcare services to fitness classes and food delivery boxes. Juno Points
+      is the global wellbeing currency that allows employees to set a monthly
+      Juno allowance per employee, giving them the freedom to choose how they
+      spend it. The platform aims to democratize the process of choosing
+      employee benefits by empowering workers to choose experiences and services
+      they actually want, using credits allocated by their employer. Juno’s
+      mission is to end top-down decision-making around the benefits staff
+      receive.
+
+
+      Juno is based in London and has received €3.7 million in funding to transform and personalise work perk schemes. Juno’s gives employees the opportunity to choose what benefits they receive after their workplace provide them with credits. Benefits include mental health support, childcare, fitness, and food delivery boxes. The platform has an average utilization rate of 91%. The platform is available for a monthly fee per employee and can be cancelled anytime. https://www.withjuno.com/
     how: >-
       * When siblings are separated in care, their respective resource parents
       should be connected right away, unless there are case-specific reasons not
@@ -4182,7 +4656,7 @@ projects:
 
       * General foster parents (non-kin) should be expected to faciliate sibling connections through phone calls, video chats, and in-person visits. They should not have the option to opt-out of this responsibility.
     outcome: ""
-    title: encourage-resource-parents-to-collaborate-on-sibling-connections
+    title: Juno
     benefits:
       - If one sibling placement disrupts in the future, an established
         relationship with other siblings' foster parents may open the door to
