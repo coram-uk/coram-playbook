@@ -45,7 +45,7 @@ projects:
       what: "\n\n\n"
       authorities: []
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: "Bringing Baby Home – Key Assets "
     costs:
       - Staff time at orientation
