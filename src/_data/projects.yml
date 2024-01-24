@@ -93,7 +93,8 @@ projects:
       number: ""
       image: ""
       what: "\n\n\n"
-      authorities: []
+      authorities:
+        - Key Assets
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Dream, Believe, Succeed – Edmonton Community Partnership
