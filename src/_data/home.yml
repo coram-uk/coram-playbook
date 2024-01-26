@@ -52,11 +52,9 @@ home:
       layout: md
   mission:
     content: >
-      Lorem ipsum dolor sit amet consectetur. Fermentum mattis massa at risus
-      euismod mauris. Sed pharetra nulla sed sit tempus. Iaculis amet fringilla
-      mattis eget a egestas placerat. Nulla cum faucibus phasellus quis in
-      adipiscing morbi in.
-    title: Lorem ipsum
+      Coram changes lives, laws and systems to create better chances for
+      children, now and forever.
+    title: We are Coram
     image: /src/images/heros/background-checks.jpg
     imgAlt: This is alt text
     link: "#"
