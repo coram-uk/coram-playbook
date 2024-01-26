@@ -11,20 +11,20 @@ navLinks:
 socialtitle: Fund us on social
 socialLinks:
   - title: X
-    url: https://twitter.com
+    url: https://twitter.com/Coram
     icon: /src/images/social-icons/icon-twitter.svg
   - title: Instagram
-    url: "#"
+    url: https://www.instagram.com/coram.uk/
     icon: /src/images/social-icons/icon-instagram.svg
   - icon: /src/images/social-icons/icon-threads.svg
     title: Threads
-    url: "#"
+    url: https://www.threads.net/@coram.uk
   - icon: /src/images/social-icons/icon-facebook.svg
     title: Facebook
-    url: "#"
+    url: https://www.linkedin.com/company/coram/mycompany/
   - icon: /src/images/social-icons/icon-linkedin.svg
     title: LinkedIn
     url: "#"
   - icon: /src/images/social-icons/icon-youtube.svg
     title: Youtube
-    url: "#"
+    url: https://www.youtube.com/@CoramSince1739
