@@ -7,10 +7,14 @@ home:
   features:
     largeFeature:
       layout: lg
-      title: Lorem ipsum dolor sit amet consectetur.
+      title: Coram Innovation Incubator
       content: >
-        Lorem ipsum dolor sit amet consectetur. Fermentum mattis massa at risus
-        euismod mauris. Sed pharetra nulla sed sit tempus.
+        The **Coram Innovation Incubator (CII)** is a
+
+        specialist vehicle for children’s services providers to generate, test and scale innovative solutions to shared challenges facing the children’s social care sector. 
+
+
+        Bringing together a diverse coalition of passionate minds from across the public, private and third sectors, we are committed to helping the sector to unlock the solutions which will lead to transformative change for children, young people and their families.
       image: /src/images/features/kid.jpg
       imgAlt: This is alt text
       link: "#"
