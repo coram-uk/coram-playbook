@@ -27,8 +27,7 @@ home:
           and initiatives from across the sector and beyond.
         image: /src/images/features/kid.jpg
         imgAlt: This is alt text
-        link: "#https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incu\
-          bator-webinars/"
+        link: https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/
       - title: Lorem ipsum dolor sit amet consectetur.
         content: >
           Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
