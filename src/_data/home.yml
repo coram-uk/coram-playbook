@@ -47,7 +47,7 @@ home:
           and families.
         image: /src/images/features/kid.jpg
         imgAlt: This is alt text
-        link: "#"
+        link: https://coram-i.org.uk/coram-innovation-incubator/the-cii-collective/
     mediumFeature:
       layout: md
   mission:
