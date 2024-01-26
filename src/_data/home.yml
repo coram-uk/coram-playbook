@@ -7,7 +7,7 @@ home:
   features:
     largeFeature:
       layout: lg
-      title: Coram Innovation Incubator
+      title: What do we do?
       content: >
         Bringing together a diverse coalition of passionate minds from across
         the public, private and third sectors, the Coram Innovation Incubator
@@ -19,7 +19,7 @@ home:
       link: https://coram-i.org.uk/coram-innovation-incubator/
       linkText: Find out more about what we do here.
     whatsNew: |
-      Lorem ipsum
+      Coram Innovation Incubator
     smallFeature:
       - title: Lorem ipsum dolor sit amet consectetur.
         content: >
