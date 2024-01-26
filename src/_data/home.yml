@@ -21,13 +21,14 @@ home:
     whatsNew: |
       Coram Innovation Incubator
     smallFeature:
-      - title: Lorem ipsum dolor sit amet consectetur.
+      - title: Watch our webinar series
         content: >
-          Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
-          diam volutpat nibh in.
+          The CII hosts regular webinars to showcase new and exciting projects
+          and initiatives from across the sector and beyond.
         image: /src/images/features/kid.jpg
         imgAlt: This is alt text
-        link: "#"
+        link: "#https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incu\
+          bator-webinars/"
       - title: Lorem ipsum dolor sit amet consectetur.
         content: >
           Lorem ipsum dolor sit amet consectetur. At tempor dui viverra viverra
