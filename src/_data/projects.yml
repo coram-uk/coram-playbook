@@ -158,21 +158,9 @@ projects:
     who:
       number: 6
       image: ""
-      what: >-
-        ### What they're doing
-
-
-        * **Rhode Island**’s family finding team uses “DCYF” in place of worker last names on social media to protect worker privacy.
-
-        * **Michigan** includes social media sites listed on its [Diligent Search checklist](http://www.michigan.gov/documents/dhs/DHS-0991_480683_7.dot).
-
-        * **New Mexico** encourages workers to create second, separate social media accounts under their name that they use exclusively for work.
-
-        * **Virginia**’s central family-finding social media accounts are called “Virginia Family Finding 1” (and 2, and 3) to protect worker privacy.
-
-        * Some counties in **Ohio** and **California**, but it's not done state-wide at this time.
+      what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Early Intervention and Prevention Model – Birmingham City Council
     title: Early-Intervention-and-Prevention-Model
     about: >
