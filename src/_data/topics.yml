@@ -9,7 +9,8 @@ topics:
     image: /src/images/topics/Topic-FPL.svg
     about: |
       EDIT
-    why: Children in foster care deserve every support available, including rich
+    why: >
+      Children in foster care deserve every support available, including rich
       relationships with their support network.
     what: >+
       - 
@@ -56,7 +57,7 @@ topics:
     recommendations: []
     aboutTitle: About this topic
     whyTitle: Why it's important
-    whatTitle: What it's about
+    whatTitle: Who is doing what?
   - hero:
       backgroundColor: light
       title: Cultural Competence, Diversity and Inclusion
