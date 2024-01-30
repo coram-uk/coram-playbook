@@ -7,11 +7,16 @@ topics:
     layout: topic
     title: early-intervention-early-help-models-
     image: /src/images/topics/Topic-FPL.svg
-    about: |
+    about: >
+      Early Intervention and Early Help models are designed to identify
+      children, young people and families who may be at risk of poor outcomes
+      early and offer proactive and effective support to prevent needs from
+      escalating. 
+
+
+      These are sometimes referred to as preventative approaches and improve the life chances of children, young people and families.
+    why: |
       EDIT
-    why: >
-      Children in foster care deserve every support available, including rich
-      relationships with their support network.
     what: >+
       
       [
