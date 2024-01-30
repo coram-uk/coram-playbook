@@ -1186,7 +1186,7 @@ projects:
   - heading: Involved Programme – Positive Youth Foundation
     title: Involved-Programme
     about: >
-      The Involved Programme offers support to newly arrived refugee and
+      The **Involved Programme** offers support to newly arrived refugee and
       asylum-seeking children and young people. The project, which is based in
       the Midlands, works with young migrants and offers a range of education,
       training and community opportunities to help them feel comfortable and
@@ -1197,11 +1197,11 @@ projects:
       migration, offering a unique understanding from first arrival and through
       their journey. Positive Youth Foundation also runs a 10-week summer
       programme called Boost. The programme allows children to develop their
-      confidence, learn new things and make new friends and integrate into their
-      community.   
+      confidence, learn new things, make new friends and integrate into their
+      community.
 
 
-      https://www.positiveyouthfoundation.org/involved
+      [https://www.positiveyouthfoundation.org/involved](https://www.positiveyouthfoundation.org/involved)
     how: >-
       * Use an existing online foster parent training. The Caregiver Core
       Training (CCT) is an online system developed by the Alliance for Child
@@ -1242,17 +1242,9 @@ projects:
       * In addition to being convenient for families and vital during COVID-19, Los Angeles County found that online orientations reduce staff workloads and free up staff time for other priorities.
     who:
       number: 4
-      what: >-
-        * Washington State offers the Caregiver Core Training, developed in
-        partnership with the Alliance for Child Welfare Excellence. 
-
-        * Washington, D.C. developed an approach to conduct orientation sessions over the telephone.
-
-        * Michigan offers online training. 
-
-        * Los Angeles County conducts most of its orientation sessions online.
+      what: "\n\n\n\n\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: KIJIJI
     title: KIJIJI
     about: >
