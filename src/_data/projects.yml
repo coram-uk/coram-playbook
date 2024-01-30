@@ -663,14 +663,14 @@ projects:
     title: Reducing-Parental-Conflict
     about: >
       The UK government has allocated £2.8 million to fund eight new projects
-      across England aimed at reducing parental conflict and supporting families
-      in need. The projects will target families at risk of conflict and provide
-      face-to-face and digital support to promote healthier relationships
-      between parents, helping families lead more fulfilling lives. The projects
-      will also help parents in early stages of conflict to deal with their
-      difficulties, improve their lives and ensure a stable and healthy
-      environment for the children. The projects will support a diverse range of
-      parents across England to manage their relationship difficulties,
+      across England aimed at **reducing parental conflict** and supporting
+      families in need. The projects will target families at risk of conflict
+      and provide face-to-face and digital support to promote healthier
+      relationships between parents, helping families lead more fulfilling
+      lives. The projects will also help parents in early stages of conflict to
+      deal with their difficulties, improve their lives and ensure a stable and
+      healthy environment for the children. The projects will support a diverse
+      range of parents across England to manage their relationship difficulties,
       including those with children who have special educational needs, those in
       rural areas, young parents, LGBTQ+ parents, black, Asian, minority ethnic
       families, and parents at risk of unemployment.
@@ -718,8 +718,11 @@ projects:
         * **Michigan** has a [“Maintaining Contact when Placement is Not an Option” policy](https://dhhs.michigan.gov/OLMWEB/EX/FO/Public/FOM/722-03B.pdf): Kinship connections who are not considered for placement are encouraged to maintain contact in other ways, which include but are not limited to: supervising family visitation, transporting the child to appointments, attending school programs or athletic events, and visits, phone calls, and letters.
 
         * [**California** State Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=16501.1) requires that the child welfare system make a plan for maintaining supportive connections for foster youth 10 and older.
+      authorities:
+        - Camden London Borough Council
+        - Lambeth London Borough Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Talking Transitions – A Better Start Southend
     title: Talking-Transitions
     about: >
