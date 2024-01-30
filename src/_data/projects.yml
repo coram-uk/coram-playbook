@@ -1106,9 +1106,7 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 2
-      what: |-
-        * Indiana
-        * Washington State
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: ""
   - heading: Improving Understanding of Traveller Communities - National Youth
