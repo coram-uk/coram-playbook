@@ -625,10 +625,11 @@ projects:
         - Blackpool Council
     aboutTitle: About this project
     whoTitle: Where are they doing this?
-  - heading: Raising Rochdale SEND Team – Rochdale Council
+  - heading: Raising Rochdale SEND Team – Rochdale Council with the Council for
+      Disabled Children
     title: Raising-Rochdale-SEND-Team
     about: >
-      The Raising Rochdale SEND Team is a multi-agency alliance that aims to
+      The **Raising Rochdale SEND Team** is a multi-agency alliance that aims to
       improve support and outcomes for children and young people with Special
       Educational Needs and Disabilities (SEND) in Rochdale, United Kingdom. The
       project was initiated in January 2021, with the support of the Council for
@@ -637,13 +638,10 @@ projects:
       which worked in siloes.
 
 
-      Prioritising the outcomes of children and young people and in collaboration with families, the alliance has scoped out early intervention offers to identify gaps and patterns and put in place a robust information sharing system, as well as establishing clear outcomes and measures. As a result, the number of children receiving early intervention and support has grown, and more professionals
+      Prioritising the outcomes of children and young people and in collaboration with families, the alliance has scoped out early intervention offers to identify gaps and patterns and put in place a robust information sharing system, as well as establishing clear outcomes and measures. As a result, the number of children receiving early intervention and support has grown, and more professionals are accessing training. The waiting times for an autism diagnosis and support have also reduced, and three new peer-led projects are in development.
 
 
-      are accessing training. The waiting times for an autism diagnosis and support have also reduced, and three new peer-led projects are in development.
-
-
-      The Raising Rochdale SEND Team won the Public Sector Children’s Team Award at the Children and Young People Now Awards 2022, recognising the work to implement an Outcomes-Based Accountability (OBA) approach to commissioning and enhance support and outcomes for 5,913 children and young people who require SEND support.
+      The **Raising Rochdale SEND** Team won the Public Sector Children’s Team Award at the Children and Young People Now Awards 2022, recognising the work to implement an Outcomes-Based Accountability (OBA) approach to commissioning and enhance support and outcomes for 5,913 children and young people who require SEND support.
     how: Revise your foster parent training to include the formal expectation that
       foster parents will help maintain a youth’s connections. For example, you
       may require that foster parents participate in the development of kinship
@@ -656,10 +654,11 @@ projects:
       - Supportive adults remain engaged and involved with youth
     who:
       number: 1
-      what: "**Washington State** includes these expectations in their Caregiver Core
-        Training (CCT) module."
+      what: "\n\n\n"
+      authorities:
+        - Rochdale Metropolitan Borough Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Reducing Parental Conflict - Coram
     title: Reducing-Parental-Conflict
     about: >
