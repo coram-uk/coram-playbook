@@ -7,21 +7,14 @@ topics:
     layout: topic
     title: early-intervention-early-help-models-
     image: /src/images/topics/Topic-FPL.svg
-    about: >
-      Early Intervention and Early Help models are designed to identify
-      children, young people and families who may be at risk of poor outcomes
-      early and offer proactive and effective support to prevent needs from
-      escalating. 
-
-
-      These are sometimes referred to as preventative approaches and improve the life chances of children, young people and families.
-    why: |
+    about: |
       EDIT
-    what: >+
+    why: >
+      Children in foster care deserve every support available, including rich
+      relationships with their support network.
+    what: >
       
-      [
-
-      [VSEND - Hertfordshire County Council](https://coram-playbook.netlify.app/projects/vsend/)right Beginnings - No Limits](https://coram-playbook.netlify.app/projects/bright-beginnings/)
+      [Bright Beginnings - No Limits](https://coram-playbook.netlify.app/projects/bright-beginnings/)
 
 
 
@@ -61,29 +54,19 @@ topics:
       [Reducing Parental Conflict - Coram](https://coram-playbook.netlify.app/projects/reducing-parental-conflict/)
 
 
-
       [Talking Transitions - A Better Start Southend](https://coram-playbook.netlify.app/projects/talking-transitions/)
-
-
 
 
       [Therapeutic Intervention for Peace – Power The Fight](https://coram-playbook.netlify.app/projects/therapeutic-intervention-for-peace/)
 
 
-
-
       [Transitions and Preparation for Adulthood Service – Birmingham City Council](https://coram-playbook.netlify.app/projects/transitions-and-preparation-for-adulthood-service/)
-
-
 
 
       [YOLO Programme - Newcastle United Foundation](https://coram-playbook.netlify.app/projects/yolo-programme/)
 
 
-
-
       [VSEND - Hertfordshire County Council](https://coram-playbook.netlify.app/projects/vsend/)
-
     recommendations: []
     aboutTitle: About this topic
     whyTitle: Why it's important
@@ -96,25 +79,26 @@ topics:
     layout: topic
     title: cultural-competence-diversity-and-inclusion
     image: /src/images/topics/Topic-FPL.svg
-    about: While some entries in foster care are planned in advance, many others are
-      sudden, perhaps in the middle of the night or on a weekend. Placement
-      desks are under great duress to find family or a matching foster home
-      immediately, even in the face of dwindling resources and homes. Worse,
-      when unsuitable placements are made under duress, they might work out for
-      days or weeks, but eventually disrupt and start the emergency all over
-      again.
-    why: A strategic variety of emergency options can ultimately increase the number
-      of youth initially placed with kin (by giving the system enough time to
-      find them) and avoid institutional placements.
-    what: >
-      - **Dedicated emergency placements.** Sometimes called crisis nurseries or
-      receiving homes, facilities or dedicated foster homes that specialize in
-      very short-term (usually under 72 hours) emergency placements can give
-      taxed placement desks enough time to find and resource kinship placements,
-      or at worst, thoughtfully match the child with an available home in the
-      community that matches their needs. 
+    about: |
+      EDIT.
+    why: >
+      A strategic variety of emergency options can ultimately increase the
+      number of youth initially placed with kin (by giving the system enough
+      time to find them) and avoid institutional placements.
+    what: >+
+      
+      [Anti-Racist Practice Lead – London Borough of Sutton](https://coram-playbook.netlify.app/projects/anti-racist-practice-lead/)
 
-      - **Have families on call** A foster parent may be available to take a placement, but simply can't answer the phone right away. A schedule and/or compensation for families to be "on call" for possible placements can ensure children have placement options no matter what time of day.
+
+
+
+      [Beyond the Banter - Safer London](https://coram-playbook.netlify.app/projects/beyond-the-banter/)
+
+
+
+
+      [Embedding Inclusion, Equity and Anti-Racism in Children’s Services - Laurelle Brown Training & Consultancy](https://coram-playbook.netlify.app/projects/embedding-inclusion-equity-and-anti-racism-in-children%E2%80%99s-services/)
+
     recommendations:
       - on-call-families
       - require-private-agency-emergency-beds
@@ -122,7 +106,7 @@ topics:
       - emergency-shelters
     aboutTitle: About this topic
     whyTitle: Why it matters.
-    whatTitle: What are organisations doing to address this?
+    whatTitle: Who is doing what?
   - hero:
       backgroundColor: primary
       title: Achieving Stability for Children In Care
