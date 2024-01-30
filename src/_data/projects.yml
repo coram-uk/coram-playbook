@@ -861,20 +861,21 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 1
-      what: Washington State’s [statute aligned
-        checklist](https://www.childwelfareplaybook.com/assets/10-183%20Foster%20Inspection%20Checklist.docx)
+      what: "\n\n\n"
       image: ""
+      authorities:
+        - Birmingham City Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: YOLO Programme – Newcastle United Foundation
     title: YOLO-Programme
     about: >
-      The YOLO Programme is a grassroots early intervention programme working
-      with young people aged 10 to 16 at risk of criminality or anti-social
-      behaviour, including those who have already come under the radar of police
-      for carrying a weapon. The 20-week programme is run by the Newcastle
-      United Foundation in close collaboration with the Northumbria Police and
-      Crime Commissioner’s Violence Reduction Unit, offering targeted
+      The **YOLO Programme** is a grassroots early intervention programme
+      working with young people aged 10 to 16 at risk of criminality or
+      anti-social behaviour, including those who have already come under the
+      radar of police for carrying a weapon. The 20-week programme is run by the
+      Newcastle United Foundation in close collaboration with the Northumbria
+      Police and Crime Commissioner’s Violence Reduction Unit, offering targeted
       interventions including mentoring, one-to-one support in schools and
       communities and education sessions around the law, drugs and alcohol. The
       Foundation seeks to offer an alternative to young people from involvement
@@ -885,7 +886,7 @@ projects:
       sessions.
 
 
-      The results of the programme have been promising, with 87% of YOLO participants reporting that the programme has helped them grow in confidence, feel able to achieve their goals and feel greater optimism about the future.
+      The results of the programme have been promising, with 87% of **YOLO** participants reporting that the programme has helped them grow in confidence, feel able to achieve their goals and feel greater optimism about the future.
     how: >-
       Hire one or more clerical workers (depending on the size of your office).
       You may be able to leverage clerical staff in another department or
@@ -901,35 +902,26 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 2
-      what: >-
-        * Washington State’s [position description for a clerical
-        worker](https://www.childwelfareplaybook.com/assets/WA%20PD%20for%20Clerical%20Support.doc)
-
-        * California
+      what: "\n\n\n\n\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: VSEND – Hertfordshire County Council
     title: VSEND
     about: >
-      VSEND is a tool and training programme designed to support professionals
-      working with children and young people in Hertfordshire. The programme
-      aims to standardize the approach to identifying needs earlier and
-      improving outcomes for children and young people. It is part of the SEND
-      Transformation in Hertfordshire. The tool and training are available to
-      professionals including education, health, and social care teams, and any
-      other professionals who may come into contact with VSEND through the
-      course of their usual work. The VSEND tool and approach establish a common
-      language when describing levels of need and enable planning of how to meet
-      needs. It supports the work of professionals and promotes collaboration
-      between staff and parents. It also supports the child by enabling tracking
-      of progress made and supporting annual review and transition planning. The
-      tool enables settings and professionals to build a peer support network
-      and share best practice and support strategies. It supports settings to
-      identify gaps and areas for further development (resource / budget
-      allocation, training, and recruitment).
+      VSEND – Hertfordshire County Council 
 
 
-      The VSEND training programme provides professionals with a better understanding of what the VSEND tool and approach is, how and when they might come across VSEND in their role, and how VSEND can support their role. The programme also offers a range of resources such as VSEND prompts and assessment statements, guidance slides for navigating the tool, and a printable sheet for parents. The programme has several key benefits, including establishing a common language when describing levels of need, enabling planning of how to meet needs, supporting the work of professionals, promoting collaboration between staff and parents, and supporting the child by enabling tracking of progress made and supporting annual review and transition planning. The programme also enables settings and professionals to build a peer support network and share best practice and support strategies. It supports settings to identify gaps and areas for further development (resource / budget allocation, training, and recruitment).
+      **VSEND** is a tool designed to support professionals working with children and young people in Hertfordshire. Access to the **VSEND** tool follows a comprehensive training session. 
+
+
+      The tool aims to standardise the approach to identifying needs earlier and improving outcomes for children and young people. It is part of the SEND Transformation in Hertfordshire. The tool and training are available to professionals including education, health, and social care teams, and any other professionals who may come into contact with **VSEND** through the course of their usual work. The **VSEND** tool and approach have a number of key benefits, establishing a common language when describing levels of need, analysing provision, and enabling planning of how to meet needs. It aids the work of professionals and promotes collaboration between staff and parents. It also supports the child by enabling robust tracking of progress made and supporting annual review and transition planning. The tool allows settings and professionals to build a peer support network and share best practice and support strategies. It supports settings to identify gaps and areas for further development (resource / budget allocation, training, and recruitment). 
+
+
+      The **VSEND** training programme comprises of an initial training session, which is bespoke to the professionals’ sector (education, health, social care etc). Education settings then have a programme of refresher sessions and focused workshops provided through their DSPL Manager and SEND Lead. These all provide professionals with a better understanding of what the **VSEND** tool and approach is, how and when they might come across **VSEND** in their role, and how **VSEND** can support their role. The programme also offers a range of resources such as **VSEND** prompts and assessment statements, guidance slides for navigating the tool, and a printable sheet for parents. 
+
+
+
+      [https://thegrid.org.uk/send-andadditional-needs/hertfordshirevaluing-send-training-vsend](https://thegrid.org.uk/send-andadditional-needs/hertfordshirevaluing-send-training-vsend) 
     how: >-
       * Dedicating a single case worker to licensing will only add value if
       there are no more than 2-3 families per case worker. Look across your
@@ -951,8 +943,10 @@ projects:
     who:
       number: 1
       what: Frederick County, MD
+      authorities:
+        - Hertfordshire County Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Anti-Racist Practice Lead – London Borough of Sutton
     title: Anti-Racist-Practice-Lead
     about: >
