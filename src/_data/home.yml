@@ -62,7 +62,7 @@ home:
     backgroundColor: light
   topicSection:
     title: Topics
-    content: INSERT TEXT
+    content: Browse our topic collection to find out what other organisations are doing.
     buttontext: Click here to see more topics
     buttonurl: /topics
     topics:
