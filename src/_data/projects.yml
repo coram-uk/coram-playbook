@@ -569,8 +569,8 @@ projects:
       Better Start
     title: Speech-Language-and-Communication-(SLC)-Triage-Panel
     about: >
-      Blackpool Better Start have implemented a Speech, Language and
-      Communication (SLC) Triage Panel to improve early identification of and
+      Blackpool Better Start have implemented a **Speech, Language and
+      Communication (SLC) Triage Panel** to improve early identification of and
       support for children with speech, language and communication needs. It was
       formed in 2020 in order to identify local children who were not accessing
       language assessments and interventions. This panel comprises of a
@@ -599,6 +599,9 @@ projects:
 
 
       Between April 2022 and March 2023, this multi-agency approach has received 631 referrals with 461 families (73%) receiving Community Connector Support. Every child referred into the panel receives a Speech, Language and Communication support Pack out together by the Community Connectors which contains bespoke information and advice and a book donated by either The National Literacy Trust, The Book Trust or The Centre for Early Child Development.
+
+
+      tnlcommunityfund.org.uk/funding/publications/a-better-start/earlyyears-speech-and-language-apathway-to-support
     how: >-
       * When asking youth or supportive connections about placement options,
       remove any requirements that kin needs to be a blood or legal  relation.
@@ -618,8 +621,10 @@ projects:
         youth
     who:
       number: 1
+      authorities:
+        - Blackpool Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Raising Rochdale SEND Team – Rochdale Council
     title: Raising-Rochdale-SEND-Team
     about: >
