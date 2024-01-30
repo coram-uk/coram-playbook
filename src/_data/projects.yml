@@ -1335,6 +1335,8 @@ projects:
         * Indiana
         * Rhode Island
       image: ""
+      authorities:
+        - Sandwell Metropolitan Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Anti-Discriminatory Practice Training and Support for Young Black and
