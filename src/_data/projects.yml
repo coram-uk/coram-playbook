@@ -949,16 +949,16 @@ projects:
     title: Anti-Racist-Practice-Lead
     about: >
       Seeking to deliver on its ambitions to become an anti-racist service,
-      Sutton Council have pioneered a role for an Anti-Racist Practice Lead
-      (APRL) within its children’s services department. The role was appointed
+      Sutton Council have pioneered a role for an **Anti-Racist Practice Lead
+      (APRL)** within its children’s services department. The role was appointed
       in January 2021 to signify a strategic commitment to do more around
-      tackling racism and the impact it has on local communities. The APPL is
-      supervised by the Principal Social Worker and seeks to provide dedicated
-      capacity to address the council’s key strategic priority around racial
-      equality, driving the Council’s Anti-Racism Action Plan, which focuses on
-      children’s social care and safeguarding. An Anti-Racism Working Group
-      supports the delivery, with the team gathering supplementary input from
-      other means like surveys, consultation and team meetings. The key
+      tackling racism and the impact it has on local communities. The **APPL**
+      is supervised by the Principal Social Worker and seeks to provide
+      dedicated capacity to address the council’s key strategic priority around
+      racial equality, driving the Council’s Anti-Racism Action Plan, which
+      focuses on children’s social care and safeguarding. An Anti-Racism Working
+      Group supports the delivery, with the team gathering supplementary input
+      from other means like surveys, consultation and team meetings. The key
       ambitions of the Plan are to improve representation of global majority
       employees among senior leadership, create a work culture where staff feel
       they can be themselves, embed cultural competence, anti-racism and
@@ -979,27 +979,44 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 1
-      what: Clinton County MDHHS, Michigan
+      what: |
+        Clinton County MDHHS, Michiga
+      authorities:
+        - Sutton London Borough Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Beyond the Banter – Safer London
     title: Beyond-the-Banter
     about: >
       Awarded the prize for Early Intervention at the CYPN awards in 2022,
-      Beyond the Banter was a peer-led project, seeking to empower Black men and
-      boys to have important conversations with peers across communities about
-      mental health. Recognising the value of peer support to boost engagement,
-      the programme trained Peer Educators and equipped them with the skills to
-      open up
+      **Beyond the Banter** was a peer-led project, seeking to empower Black men
+      and boys to have important conversations with peers across communities
+      about mental health. Recognising the value of peer support to boost
+      engagement, the programme trained Peer Educators and equipped them with
+      the skills to open up conversations about emotional and mental wellbeing
+      and encourage boys to get help if they need it. Although they received
+      Mental Health First Aid training, Peer Educators are not experts in mental
+      health but were guided and supported to safely and meaningfully share
+      their experiences and stories to aid better understanding of wellbeing and
+      the help available, and build resilience among a cohort who are
+      statistically more likely to have had experiences impacting their
+      wellbeing due to many factors, especially those related to racism and
+      racial trauma. A key first step of the training programme for Peer
+      Educators was for them to receive psychologist coaching to help them
+      understand their own experiences to better help others. Across the
+      community, Peer Educators planned and hosted workshops, as well as working
+      alongside community partner organisations. Among the cohort receiving the
+      intervention, 75% said they would start having more conversations about
+      mental health and wellbeing with their family and friends.
 
 
-      conversations about emotional and mental wellbeing and encourage boys to get help if they need it. Although they received Mental Health First Aid training, Peer Educators are not experts in mental health but were guided and supported to safely and meaningfully share their experiences and stories to aid better understanding of wellbeing and the help available, and build resilience among a cohort who are statistically more likely to have had experiences impacting their wellbeing due to many factors, especially those related to racism and racial trauma. A key first step of the training programme for Peer Educators was for them to receive psychologist coaching to help them understand their own experiences to better help others. Across the community, Peer Educators planned and hosted workshops, as well as working alongside community partner organisations. Among the cohort receiving the intervention, 75% said they would start having more conversations about mental health and wellbeing with their family and friends.
+      The peer-led approach was piloted between September 2021 and March 2022 in London. It was developed by Safer London on the background of extensive experience working with young Black men and boys and acknowledging the specific challenges this cohort faces. The Peer Educators, who referred to themselves as the ‘Mind the Mandem’ cohort, had lived experience of the challenges faced by young Black men and boys, and were recruited through an innovative recruitment process, which made use of video applications to get a feel for the potential Peer Educator as a person. The Peer Educators were also later provided with support to consider and pursue their future employment. 
 
 
-      The peer-led approach was piloted between September 2021 and March 2022 in London. It was developed by Safer London on the background of extensive experience working with young Black men and boys and acknowledging the specific challenges this cohort faces. The Peer Educators, who referred to themselves as the ‘Mind the Mandem’ cohort, had lived experience of the challenges faced by young Black men and boys, and were recruited through an innovative recruitment process, which made use of video applications to get a feel for the potential Peer Educator as a person. The Peer Educators were also later provided with support to consider and pursue their future employment. A helpful professional’s guide has been developed to share the process, learning and encourage the approach to be adopted more widely. 
+      A helpful [professional’s guide](https://saferlondon.org.uk/wp-content/uploads/2022/11/Beyond_the_BanterNOV2022_SMALL.pdf) has been developed to share the process, learning and encourage the approach to be adopted more widely.
 
 
-      https://saferlondon.org.uk/beyond-the-banter/
+      [https://saferlondon.org.uk/beyond-the-banter/](https://saferlondon.org.uk/beyond-the-banter/)
     how: Use a template like [this
       one](https://www.childwelfareplaybook.com/assets/Emergency%20Fridge%20Decoration.pdf)
       to print and laminate your own magnets.
@@ -1011,46 +1028,59 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 1
-      what: Clinton County MDHHS, Michigan
+      what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Embedding Inclusion, Equity and Anti-Racism in Children’s Services -
       Laurelle Brown Training & Consultancy
     title: Embedding-Inclusion-Equity-and-Anti-Racism-in-Children’s-Services
-    about: >
-      Laurelle Brown Training and Consultancy (LBTC) collaborates with
+    about: "**Laurelle Brown Training and Consultancy (LBTC)** has worked with
       children’s services to develop and embed equity and inclusion across
       systems by developing practice, equipping leaders and enhancing system
-      capacities through change. Founder, Laurelle, has a long background
-      working in and alongside children’s services and completed a Churchill
-      Fellowship exploring foster carer for adolescents with ‘complex needs’.
+      capacities through change to find solutions to complex inequalities. All
+      work is underpinned by the fundamental frameworks of anti-racism,
+      intersectionality and systems thinking. Founder, Laurelle, has a long
+      background working in and alongside children’s services and completed a
+      Churchill Fellowship exploring foster carer for adolescents with ‘complex
+      needs’. \r
 
+      \r
 
-      The team co-create sustainable solutions to complex inequalities challenges faced by local authorities, and other organisations, by providing four core services:
+      One local authority project included a comprehensive Anti-Racism
+      audit of children’s social care to support the identification of
+      opportunities to improve systems and practice and children and familial
+      outcomes. Key recommendations included improvements to the commissioning
+      and quality assurance frameworks, establishing clear metrics and goals for
+      equity, inclusion and anti-racism, integrating these into audit,
+      commissioning and staff training materials and processes; as well as
+      review and development of the Resilience practice model to ensure
+      anti-racist principles and approaches and the impact of structural
+      inequalities for minoritised children, families and staff were referenced
+      and supporting inclusive practice. There was also a range of learning and
+      development activity delivered, including a bespoke training programme for
+      the senior leadership team, a new ‘Confident conversations on race’
+      induction course for all staff and a train the trainer course for staff to
+      facilitate listening circles to support racialised staff. \r
 
+      \r
 
-      (1) Learning and development activities to enhance knowledge and understanding of barriers and enablers to equity and inclusion change, and capacity to mobilise progress - Training, coaching, mentoring, train the trainer programmes and leadership development.
+      In another local authority, **LBTC** co-developed a tailored
+      learning and development programme for children’s social care managers and
+      senior leaders to support implementation of a newly published Tackling
+      Inequalities Strategy. **LBTC** developed and facilitated training
+      sessions to build knowledge and understanding of managers around key
+      concepts, and strategies they can implement to tackle inequalities, a
+      practitioner service day to support continuity and buy-in, and reflective
+      workshops to advise, guide and support the senior leadership team in
+      driving and embedding a complex change programme of this nature. The
+      collaboration has led to new recruitment approaches being implemented with
+      positive representation and diversity results, the introduction of new
+      programmes to engage staff and hold Heads of Service to account for
+      equalities change and improved outcomes for minoritised children. \r
 
+      \r
 
-      (2) Facilitation of opportunities, processes, and events to listen, inspire, and reflect for the planning and delivery of equity and inclusion change - Stakeholder participation and engagement, away days, consultations, equality impact assessments and reflective and listening spaces.
-
-
-      (3) Change and transformation to embed equity and inclusion across systems, leadership and practice - Change projects and programmes, reviews, audits, strategies, service design and governance.
-
-
-      (4) Evidence and insight collation, generation and dissemination as a lever for wider systems impact and learning - Evaluations, research and reports.
-
-
-      All work is underpinned by the fundamental frameworks of anti-racism, intersectionality and systems thinking.
-
-
-      One local authority project included a comprehensive Anti-Racism audit children’s social care to support the identification of opportunities to improve systems, practice and children and family outcomes and embed equity, inclusion and anti-racism. The audit included stakeholder focus groups and a survey, workforce data analysis and a review of children’s files, service and organisational strategies, policies and plans, and evidence and research. Key recommendations included improvements to the commissioning and quality assurance frameworks, establishing clear metrics and goals for equity, inclusion and anti-racism, integrating these into audit, commissioning and staff training materials and processes; as well as review and development of the Resilience practice model to ensure anti-racist principles and approaches and the impact of structural inequalities for minoritised children, families and staff were referenced and supporting inclusive practice. There was also a range of learning and development activity delivered, including a bespoke training programme to enhance knowledge and confidence of the senior leadership team, a new ‘Confident conversations on race’ induction course for all staff and a train the trainer course for staff to facilitate listening circles to support racialised staff.
-
-
-      In another local authority, LBTC co-developed a tailored learning and development programme for children’s social care managers and senior leaders to support implementation of a newly published Tackling Inequalities Strategy. LBTC developed and facilitated training sessions to build knowledge and understanding of managers of key concepts, and strategies they can implement to tackle inequalities, a practitioner service day to support continuity and buy-in, and a reflective workshops to advise, guide and support the senior leadership team in driving and embedding a complex change programme of this nature. The collaboration has led to new recruitment approaches being implemented with positive representation and diversity results, the introduction of new programmes to engage staff and hold Heads of Service to account for equalities change and improved outcomes for minoritised children. 
-
-
-      https://laurellebrown.co.uk/
+       https://laurellebrown.co.uk/ \ \n"
     how: >-
       * Connect relative placements to assistance upfront. Provide a list of
       benefits that families may qualify for or offer one-on-one application
@@ -1080,7 +1110,7 @@ projects:
         * Indiana
         * Washington State
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Improving Understanding of Traveller Communities - National Youth
       Agency, Open Doors Education and Training and The Traveller Movement
     title: Improving-Understanding-of-Traveller-Communities
