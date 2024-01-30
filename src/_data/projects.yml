@@ -1245,21 +1245,27 @@ projects:
     whoTitle: ""
   - heading: KIJIJI
     title: KIJIJI
-    about: >
-      KIJIJI is a community for Black safeguarding professionals (BSPs) working
-      with children and young people. It provides dedicated spaces to network
-      and connect, access to learning, training and development opportunities,
-      and data and insight that amplifies the needs and experiences of BSPs.
-      KIJIJI aims to support the progression and inclusion of BSPs to enable the
-      delivery of better outcomes for children. The organisation has conducted
-      research around the challenges faced by BSPs to inform wider system
-      improvements, undertaking the first survey of this group.
+    about: >+
+      **KIJIJI** is a community for Black safeguarding professionals (BSPs)
+      working with children and young people. It provides dedicated spaces to
+      network and connect, access to learning, training and development
+      opportunities, and data and insight that amplifies the needs and
+      experiences of BSPs. **KIJIJI** aims to support the progression and
+      inclusion of BSPs to enable the delivery of better outcomes for children.
+      The organisation has conducted research around the challenges faced by
+      BSPs to inform wider system improvements, undertaking the first survey of
+      this group.
 
 
-      An instructive report published in 2021 highlighted key findings around a lack of fair and equal progression opportunities for BSPs as well as a sense that they faced career barriers as a result of their ethnicity. The report made six key recommendations for the sector. These included commissioning culturally competent independent resources to engage BSPs and provide a ‘safe’ forum to listen to and understand their workplace experiences, carry out workforce audits to assess workforce equality and progression opportunities, ringfenced funding for the commissioning/employment of dedicated ‘Equality, Diversity and Inclusion’ expertise, ringfenced leadership opportunities for BSPs, investment in high-quality learning and development opportunities for BSPs as well as implementing support for BSPs which addresses health inequalities.
+      An instructive [report ](https://kijiji20.wixsite.com/home/survey-report-2021)published in 2021 highlighted key findings around a lack of fair and equal progression opportunities for BSPs as well as a sense that they faced career barriers as a result of their ethnicity. The report made six key recommendations for the sector. These included commissioning culturally competent independent resources to engage BSPs and provide a ‘safe’ forum to listen to and understand their workplace experiences, carry out workforce audits to assess workforce equality and progression opportunities, ringfenced funding for the commissioning/employment of dedicated ‘Equality, Diversity and Inclusion’ expertise, ringfenced leadership opportunities for BSPs, investment in high-quality learning and development opportunities for BSPs as well as implementing support for BSPs which addresses health inequalities.
 
 
-      Local authorities or individuals interested in connecting with the KIJIJI community or exploring collaboration opportunities should email hello@kijiji.org.uk, or connect via X, Linkedin or Instagram.
+      Local authorities or individuals interested in connecting with the **KIJIJI** community or exploring collaboration opportunities should email hello@kijiji.org.uk, or connect  via [X](https://twitter.com/kijiji_bsp ), [Linkedin ](https://www.linkedin.com/company/kijiji-bsp/ )or [Instagram](https://www.instagram.com/kijiji_bsp/?hl=enm ).
+
+
+
+      [https://kijiji20.wixsite.com/home/](https://kijiji20.wixsite.com/home/)
+
     how: >-
       * **Collect critical items.** The most frequently needed items include
       fire extinguishers, oven locks, baby gates, first aid kits and medication
@@ -1278,12 +1284,9 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 3
-      what: |-
-        * California
-        * Indiana
-        * Rhode Island
+      what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Sandwell Transition Education Partnership – Sandwell Metropolitan
       Borough Council
     title: Sandwell-Transition-Education-Partnership
