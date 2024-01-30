@@ -1113,9 +1113,9 @@ projects:
       Agency, Open Doors Education and Training and The Traveller Movement
     title: Improving-Understanding-of-Traveller-Communities
     about: >
-      A training course has been developed for practitioners working with
+      A **training course has been developed for practitioners working with
       children and young people from Gypsy, Roma and Traveller communities
-      (GRT), seeking to improve service experiences for this group and enhance
+      (GRT)**, seeking to improve service experiences for this group and enhance
       understanding among youth workers. Co-developed with young people from GRT
       communities and a collaboration between the National Youth Agency (NYA)
       and community interest company Open Doors Education and Training (ODET),
@@ -1123,10 +1123,10 @@ projects:
       youth work. One module covers communities, myths, stereotypes and
       rights-based practice and the second advises on best-practice approaches
       and provides a toolkit to those working with GRT young people, seeking to
-      address key barriers to this group taking part in youth services. 
+      address key barriers to this group taking part in youth services.
 
 
-      https://www.nya.org.uk/academy-cpd/
+      [https://www.nya.org.uk/academy-cpd/](https://www.nya.org.uk/academy-cpd/)
     how: >-
       * Conduct the initial safety walkthrough over video, during which case
       workers can identify safety concerns and make compliance plans. The final
@@ -1178,11 +1178,9 @@ projects:
       * 115,171 online case notes submitted by social workers
     who:
       number: 1
-      what: Rhode Island continued to license homes during the pandemic, limiting
-        in-person contact to a single 20-minute walkthrough during which a
-        mobile fingerprinting unit for all adult household members.
+      what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Involved Programme – Positive Youth Foundation
     title: Involved-Programme
     about: >
