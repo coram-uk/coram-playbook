@@ -2319,14 +2319,7 @@ projects:
       - Wider pool of appropriate placement options
     who:
       number: 3
-      what: >-
-        
-
-        * In Frederick County, MD, case workers and placement workers sit side by side. This creates an environment of collaboration where all team members can work together to recruit potential families or match children to families that can best meet their needs. 
-
-        * Hawaii holds monthly calls to review its list of children who need placements. These meetings include case workers, shelter representatives, administrators, and recruiters. 
-
-        * Washington, D.C. meets every other week with placement and recruitment teams to discuss and plan for emerging needs and trends.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Harbour
@@ -2364,12 +2357,7 @@ projects:
       - Youth can be placed with matching families more quickly and/or more often
     who:
       number: 2
-      what: >-
-        
-
-        * Frederick County, MD pays close attention to new families in the application process, with an eye towards the youth currently in need of a placement or a better-fitting placement. When they identify a match, they work with the family to prioritize their application process. 
-
-        * Washington, D.C. proactively looks for strong matches between its youth and new families. In some cases, they have arranged visits between youth and potential families (with the involvement and approval of a child’s case worker) to help develop a relationship until the family can complete the licensing process.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Intensive-Mentoring-Service
@@ -2400,16 +2388,7 @@ projects:
       - Increased foster family recruitment and retention
     who:
       number: 5
-      what: >-
-        
-
-        * In Colorado, the [Kin Connect Child Placing Agency](https://kinconnect.org/) specializes in encouraging and helping relative caregivers to become generally licensed homes. 
-
-        * In Washington, D.C. case workers track relative caregivers’ capacity and milestones on a monthly basis. If they see a relative caregiver may have extra capacity or after a kinship placement returns home, they initiate conversations about becoming a general foster home instead of closing. 
-
-        * In Indiana, case workers are encouraged to discuss the possibility of taking on additional foster placements with relative caregivers on an individual basis. 
-
-        * In Oklahoma, case workers are trained to discuss options with kinship caregivers. Through mixed training classes, relative caregivers are exposed to the idea of general foster care and can interact with general licensed families.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: IT-and-Cyber-Security-Training-for-Young-Offenders
@@ -2439,12 +2418,7 @@ projects:
       - Wider pool of appropriate placement options
     who:
       number: 4
-      what: >-
-        
-
-        * Prince George’s County, MD, Fairfax County, VA, Colorado and Washington State have committed to having inclusive and representative imagery and stories in their recruitment materials. 
-
-        * Washington State added pronouns and preferred names to their inquiry and application forms.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Lambeth-Joined-Up-CAMHS-Pilot
@@ -2476,16 +2450,7 @@ projects:
       - Increased positive word of mouth from current foster families
     who:
       number: 4
-      what: >-
-        
-
-        * Washington, D.C. has “squads” of foster families who support one another. Squads have monthly get-togethers and events, which can include recognition awards and modest prizes. The squads build camaraderies and help one another through challenges. Each year, there is a competition to see which squad recruits the most new families, with a ceremony and gift card prizes for the winning squad. 
-
-        * Frederick County, MD hosts regular events for current foster families (pivoting them to Google Meet during the pandemic). They have also recognized foster families through a variety of events and strategies including: an annual adults-only reception for foster families (with free, on-site childcare); a drive through celebration where foster families who drove by the office could pick up ready to heat catered meals; drive by caravans where case workers and foster families drive by houses with signs and music; recognition baskets for foster families that included fun items like board games, puzzles, and snacks; welcome baskets for new foster families that include the Department handbook, a water bottle, mugs, and books for both parents and children. 
-
-        * Ohio uses billboards to recognize individual foster families. Some families take friends and picnics to visit their billboard!
-
-        * Indiana works with local businesses to make a variety of discounts and offers available for their foster families.
+      what: "\n\n\n"
       image: ""
     aboutTitle: About this project
     whoTitle: Who is doing this
@@ -2535,12 +2500,7 @@ projects:
         successful but unidentified
     who:
       number: 2
-      what: >-
-        
-
-        * Frederick County, MD asks interested families to specify in detail how they became interested in fostering, and asks them to indicate on their inquiry form all the places where they heard about fostering. This helped them realize that ValPack mailers were actually reaching a lot of families. 
-
-        * Fairfax County, VA does not ask for referral information on its inquiry form, instead asking in the initial orientation phone call. They report that this provides richer and more detailed answers than a form. For instance, if a family says they heard about fostering on their website, staff can ask how they go to the website or if there was something in particular that caught their attention.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Mental-Health-Model
@@ -2573,14 +2533,7 @@ projects:
       - Increased foster family recruitment
     who:
       number: 3
-      what: >-
-        
-
-        * In Frederick County, MD, if a family has completed PRIDE and not submitted an application packet within the next year, they must complete a PRIDE refresher. Many families take a long time to complete the application: more families take six or more months than the number of families who complete the application right away.
-
-        * Fairfax County, VA keeps all inquiries open. They report that families can take an average of two to three years to move from an inquiry to an application. 
-
-        * Washington, D.C. adds new inquiries to their newsletter and checks in with families quarterly. They do not close inquiries. They report that they sometimes have a family become licensed after being on their inquiry list for as long as a decade.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Mindworks
@@ -2610,11 +2563,7 @@ projects:
       - Identifies families who may not be a good fit early on
     who:
       number: 1
-      what: "* Dr. Patricia Aviles-Cubillos, a foster parent recruiter with Fairfax
-        County Department of Family Services, provides her own phone number to
-        families to register for orientation, instead of having an online signup
-        form. This creates an opportunity for an early conversation, where she
-        can get to know the family, and they can ask questions."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Promoting-First-Relationships
@@ -2625,7 +2574,7 @@ projects:
       - Avoids losing potential families who would have signed up in the future
       - Allows potential families to gain more information and apply quickly
     about: >
-      Based on attachment theory, Promoting First Relationships® (PFR)is a
+      Based on attachment theory, Promoting First Relationships® (PFR) is a
       brief, 10-week evidence-based, home-visiting intervention programme
       pioneered in the USA. It has been designed to support better infant mental
       health and aid brain development, giving parents the skills and knowledge
@@ -2643,10 +2592,10 @@ projects:
       PFR has been evaluated with a randomized control design in six different populations (one trial is still ongoing, Oxford et al., 2023); three in child welfare (Spieker et al., 2012; Oxford et al., 2016;
 
 
-      Oxford et a., 2023), two within rural Native American communities (Booth La-Force et al., 2020; Booth La-Force 2022), and one with newborns in a perinatal mental health setting for both Spanish and English-speaking mothers (Oxford et al., 2021). In all five completed studies PFR improved observed caregiver sensitive and responsive care, caregiver knowledge of social and emotional development, and a range of child outcomes including behavioral problems (Paslish et al., 2016; Oxford et al., 2016; Oxford et al., 2021) and improved stress physiology (Nelson & Spieker, 2012; Hastings et a., 2018) as well as social attention in a study of children at risk for autism spectrum disorder (Jones et al., 2017). In the two completed child welfare studies, PFR prevented foster care placements for toddlers in the Child Protective Service population by 2.5 times (Oxford et al., 2016) and improved permanency outcomes for children in foster and kin care (Spieker et a., 2014). 
+      Oxford et a., 2023), two within rural Native American communities (Booth La-Force et al., 2020; Booth La-Force 2022), and one with newborns in a perinatal mental health setting for both Spanish and English-speaking mothers (Oxford et al., 2021). In all five completed studies PFR improved observed caregiver sensitive and responsive care, caregiver knowledge of social and emotional development, and a range of child outcomes including behavioral problems (Paslish et al., 2016; Oxford et al., 2016; Oxford et al., 2021) and improved stress physiology (Nelson & Spieker, 2012; Hastings et a., 2018) as well as social attention in a study of children at risk for autism spectrum disorder (Jones et al., 2017). In the two completed child welfare studies, PFR prevented foster care placements for toddlers in the Child Protective Service population by 2.5 times (Oxford et al., 2016) and improved permanency outcomes for children in foster and kin care (Spieker et a., 2014).
 
 
-      https://pfrprogram.org/
+      [https://pfrprogram.org/](https://pfrprogram.org/)
     how: >-
       
 
@@ -2659,12 +2608,7 @@ projects:
       * Avoid high-pressure tactics. Some great caregivers can take years between submitting an inquiry and applying to be a foster parent.
     who:
       number: 2
-      what: >-
-        
-
-        * Ohio, a county-administered system, requires that all inquiries receive a response within seven days. They have developed a packet of materials to provide in response to new inquiries. 
-
-        * Frederick County, MD sends interested families a list of 12 ways to support youth without becoming a foster parent (yet). This engagement strategy  allows some families to dip their toe in the water and still provide meaningful support.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Peer-Support-Navigator-Network
@@ -2699,20 +2643,7 @@ projects:
         before becoming foster parents
     who:
       number: 6
-      what: >-
-        
-
-        * Washington, D.C. schedules check-ins with every family on their inquiry list each quarter. 
-
-        * Prince George’s County invites recent inquiries to upcoming orientations and other events. 
-
-        * Michigan has an email newsletter that it sends to interested families containing agency news, child spotlights, and ways to get engaged. Michigan also uses electronic calendar reminders to keep track of check-ins with potential foster families. 
-
-        * Colorado keeps track of families who are interested but not ready to foster, and staff checks back with them when there are free periods between busy workloads. 
-
-        * Oklahoma checks back with families who submit inquiries within a week, 14 days, and 30 days. 
-
-        * Fairfax County, VA keeps track of families who indicate they aren’t ready to proceed due to a short-term issue like a move. They set reminders to check back in with families after the event is complete.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Risk-of-Online-Sexual-Abuse
@@ -2752,9 +2683,7 @@ projects:
       - Increased foster family recruitment
     who:
       number: 1
-      what: "* Prince George’s County tracks the zip codes of new inquiries against
-        the zip codes where they most need placement options, and then focuses
-        recruitment efforts on the missing zip code areas."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Amelia-VR
@@ -2789,12 +2718,7 @@ projects:
       - Increased foster family recruitment
     who:
       number: 2
-      what: >-
-        
-
-        * Multiple California counties partnered with Mark Daley to run targeted recruitment campaigns for specific types of homes, such as homes for CSEC youth, as well as child-specific campaigns. 
-
-        * Washington, D.C. runs paid Facebook marketing campaigns to attract the hardest-to-find kinds of families.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Data-Mastery-in-Social-Care
@@ -2825,9 +2749,7 @@ projects:
       approval for non-kin placements.
     who:
       number: 1
-      what: "* New Mexico has a policy that a Director must sign-off on any placement
-        with non-kin, whether general foster care or a group home, even if it’s
-        the middle of the night."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Digital-Quality-Assurance-Tools-for-Children’s-Services
@@ -2871,7 +2793,7 @@ projects:
       - Increases the number of supportive adults in youth’s lives
     who:
       number: 1
-      what: "* [Uplift Family Services](https://upliftfs.org/), California"
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Digital Wellbeing Interventions for Children with Disabilities – NIHR
@@ -2910,18 +2832,7 @@ projects:
     who:
       number: 4
       image: ""
-      what: >-
-        * **Colorado** provides $0.66 per day for respite on top of foster care
-        maintenance payments. Foster parents can use it towards any approved
-        babysitter. 
-
-        * **Maryland** provides 7 paid respite days per year, which must be used at an approved respite provider. Both families get paid for those 7 days. 
-
-        * **Washington** provides 2 paid respite days per month. 
-
-        * **Frederick County, MD** can arrange for paid respite for unlicensed kinship caregivers. 
-
-        * **Fairfax County, VA** provides respite grants to licensed caregivers, aimed at keeping siblings together and supporting foster home retention.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Dynamics 365 Customer Service – Aberdeen City Council
@@ -2958,7 +2869,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: Virginia provides a $500 stipend for summer camp to every child.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Harnessing Virtual Reality for Trauma-Informed Adoption - Adoption East
@@ -3021,13 +2932,7 @@ projects:
     who:
       number: 3
       image: ""
-      what: >-
-        * **California** has a very successful professional foster parent
-        program through Uplift Human Services.  
-
-        * **Utah** has proctor families for children with higher levels of need. These families receive additional training and supports.  
-
-        * **Washington DC** has two professional foster parent programs: PPY (Pregnant and Parenting Youth), where the foster parents take in both the pregnant or parenting youth and their child, and SOAR (Stabilize Observe Assess and Respite), for taking children with high levels of need. They pay an annual salary plus a stipend to purchase health insurance.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Data Sharing and Collaborative Working - Portsmouth City Council and
@@ -3040,63 +2945,28 @@ projects:
       their Children’s Services over the last 18 months.
 
 
-
-
-
-
       Portsmouth’s Data Platform went live in March 2022, with the integration of data from over 40 different systems and partner agencies to create a complete view of their children’s lives and immediate families. This was the enabler to begin to use data more proactively and share more confidently.
 
 
-
-
-
-
-      The first service innovation added onto the Data Platform was their Vulnerable Pupil Tracking Portal (VPT). This is a secure online portal, shared with schools. It provides each school with their own data feeds and dashboards, which enables early identification of children who may have additional vulnerabilities. This allows effective plans of support to be implemented more quickly. Children who are then highlighted as being vulnerable are discussed on a fortnightly basis with their LA Education Link Coordinator to ensure effective oversight. The portal allows schools and local authority users to see all information relating to a child in one place, which saves users time from having to look at various databases. The child’s golden record includes data on attendance, exclusions, safeguarding teams, youth justice service, exploitation levels, SEN needs and other vulnerability factors. Schools
-
-
-      report that this is an amazing resource for them, helping them in their daily work and to keep on top of safeguarding for children. This VPT also now holds Early Help support plans for the child and family, through online data collection and collaboration of support information against a centralised Family Support Plan. Overview reports and dashboards allows Service Managers and the Supporting Families Team to access the information to build this into their support work.
-
-
-
-
+      The first service innovation added onto the Data Platform was their Vulnerable Pupil Tracking Portal (VPT). This is a secure online portal, shared with schools. It provides each school with their own data feeds and dashboards, which enables early identification of children who may have additional vulnerabilities. This allows effective plans of support to be implemented more quickly. Children who are then highlighted as being vulnerable are discussed on a fortnightly basis with their LA Education Link Coordinator to ensure effective oversight. The portal allows schools and local authority users to see all information relating to a child in one place, which saves users time from having to look at various databases. The child’s golden record includes data on attendance, exclusions, safeguarding teams, youth justice service, exploitation levels, SEN needs and other vulnerability factors. Schools report that this is an amazing resource for them, helping them in their daily work and to keep on top of safeguarding for children. This VPT also now holds Early Help support plans for the child and family, through online data collection and collaboration of support information against a centralised Family Support Plan. Overview reports and dashboards allows Service Managers and the Supporting Families Team to access the information to build this into their support work.
 
 
       In summer 2023, the Data Platform was extended further, providing fully profiled views of families across the city for the Supporting Families Team, via their own Supporting Families (Phase 3) Portal. This Portal can automatically identify those families who are eligible for attachment as part of the Supporting Families National Programme (within the DLUHC National Outcomes Framework), as well as families who qualify for successful turnaround status.
 
 
-
-
-
-
       Recently, a Neuro Diversity Profiling Portal has been added to the list of services. This provides an on-line first step in identifying neurodiversity in children and young people (aged 0-19) across the city, to help establish what additional support needs or learning difficulties a young person may have.
-
-
-
-
 
 
       The Data Platform is also the basis for a Data Science proof-of-concept project, using Machine Learning models to look for early signs of a child becoming more vulnerable to becoming a Looked After Child in the future. The objective is to focus Early Help support activities as early as possible to prevent crisis, make families stronger / more resilient, and reduce the number of children being taken into care.
 
 
-
-
-
-
       Portsmouth will also complete the implementation of a new MET / GANGS Portal, to give them more immediate understanding of children who are potentially Missing, Exploited or Trafficked, or who are linked to a gang or gang culture.
-
-
-
-
 
 
       Hayden Ginns, AD for Children's Services for PCC and Portsmouth Place (NHS) says: ‘The new technology has enabled professionals in the city to appropriately (and legally) share vital information about children across agency boundaries. Local and national reviews into the safeguarding of children when things go awry nearly always point to a lack of appropriate sharing of information - both in terms of the right information and sharing early enough to prevent harm. This is often a practice issue. But technology can be a major factor in improving how services work together for the benefit of children and families. For example, we learnt early on that schools do not always know who a child's social worker is. Just that simple exchange of information can make a major difference to the quality of safeguarding children.’
 
 
-
-
-
-
-      If you are interested in learning more about anything contained in this article, please contact fran.shaul@portsmouth.gov.uk
+      If you are interested in learning more about anything contained in this article, please contact [fran.shaul@portsmouth.gov.uk](fran.shaul@portsmouth.gov.uk)
     how: >-
       * Create a placement stability bonus structure. Decide on amounts,
       milestones, and which foster parents / youth will be eligible.
@@ -3110,8 +2980,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Washington DC** pays an annual stipend of $1200 if a child has been
-        with a parent for 12 consecutive months."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Mind of My Own
@@ -3160,8 +3029,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Maryland** can pay to keep some homes open through its Center for
-        Excellence grant."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: "Modern Data Platform: Single Front Door for Children and Young Persons
@@ -3196,16 +3064,7 @@ projects:
     who:
       number: 3
       image: ""
-      what: >-
-        * **California**'s Emergency Caregiver Funding Program provides funding
-        for up to 365 days to caregivers who receive placement before being
-        approved. 
-
-        * **Ohio** can provide kinship caregivers with payments for up to six months, from state funds, if the relative has an approved home study. 
-
-        * **Michigan** can use state funds for unlicensed kinship caregivers. 
-
-        * **Oklahoma** pays kinship caregivers for the first 60 days after placement, after which time they are usually licensed and eligible for regular maintenance payments. If the caregiver is still not licensed at 60 days, and Oklahoma determines the delay is due to the state, it will continue paying the kinship caregiver until they're licensed.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Reimagining Case Management Systems - The North Yorkshire Approach
