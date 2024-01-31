@@ -2,12 +2,10 @@ address: Coram Campus, 41 Brunswick Square
 copyright: © 2023 Coram — Registered charity no. 312278
 navtitle: Some Links
 navLinks:
-  - title: Link 1
-    url: "#one"
+  - title: Coram-i
+    url: https://coram-i.org.uk
   - title: Link 2
     url: "#two"
-  - title: Link 3
-    url: "#three"
 socialtitle: Fund us on social
 socialLinks:
   - title: X
