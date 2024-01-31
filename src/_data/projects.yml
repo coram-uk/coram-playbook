@@ -1429,6 +1429,9 @@ projects:
     outcome: We are still collecting concrete data.
     aboutTitle: About this project
     whoTitle: Who is doing this
+    who:
+      authorities:
+        - Warwickshire County Council
   - heading: Care Leaver Programme – Microsoft and UBDS
     title: Care-Leaver-Programme
     about: >
@@ -1471,6 +1474,11 @@ projects:
       - Prevents families from missing or misunderstanding important information
     aboutTitle: About this project
     whoTitle: Who is doing this
+    who:
+      authorities:
+        - Trafford Council
+        - Haringey London Borough Council
+        - Northamptonshire Children's Trust
   - heading: Carer Journey Design Research -  Key Assets Australia
     title: Carer-Journey-Design-Research
     about: >
@@ -1552,10 +1560,7 @@ projects:
       - Youth are more aware of program options
     outcome: We are still collecting concrete data.
     who:
-      what: "[Los Angeles Opportunity Youth
-        Collaborative](https://www.instagram.com/la_oyc/) offers an [online
-        calendar](https://www.eventbrite.com/o/los-angeles-opportunity-youth-co\
-        llaborative-30967055551) of upcoming programs."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Empty Spaces to Homes Toolkit - Habitat for Humanity Great Britain
@@ -1591,7 +1596,7 @@ projects:
       - Youth will have a demonstrable income history on their bank statements
     who:
       number: 1
-      what: Connecticut Department of Children and Families
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Child Welfare Playbook
@@ -1750,7 +1755,7 @@ projects:
         placements
     who:
       number: 1
-      what: "* Washington State"
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Create-Your-Village
@@ -1786,7 +1791,7 @@ projects:
       - Increases foster family retention
     who:
       number: 1
-      what: "* Frederick County, Maryland"
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Why-Care
@@ -1828,7 +1833,7 @@ projects:
       their license renewal requirements on time.
     who:
       number: 1
-      what: "* Prince George's County, Maryland"
+      what: "\n\n\n\n\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Now-Foster
@@ -1885,7 +1890,7 @@ projects:
       - Increases foster family retention
     who:
       number: 1
-      what: "* Clinton County MDHHS, Michigan"
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Our-Space
@@ -1936,14 +1941,7 @@ projects:
         not only adoption
     who:
       number: 4
-      what: >-
-        
-
-        * Montgomery County, MD’s statute states “our purpose is to meet the needs of the kids in our community” and they have no children awaiting adoption. They use this statute to politely decline families who are only interested in adoption.
-
-        * Washington, D.C. helps set expectations during orientation, by sharing that they have not had a legally-free infant available in over a decade. They also remind families that the agency is not an adoption agency. 
-
-        * Indiana maintains clear messaging with potential foster families as well as staff, to remind all parties that their role is to support the reunification of the family of origin. They report that [this video](https://www.youtube.com/watch?v=bdTyJUO5Vqw) is helpful in training.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Prison-Box-Project
@@ -1990,14 +1988,7 @@ projects:
       - Increased foster family recruitment
     who:
       number: 3
-      what: >-
-        
-
-        * Hawaii regularly runs a report with data on each foster child that includes attributes like their origin, age, whether they have a disability, and whether they are now placed in another school district. This report is the foundation of much of its recruitment work. 
-
-        * Colorado has a data-driven digital recruitment plan that includes data on age, race, gender, and other identifying factors (IDD, large sibling group, sexualized behaviors). They also use GIS mapping to drive targeted recruitment efforts. 
-
-        * Fairfax County, VA cross-references zip codes where they have the highest needs against zip codes listed on new foster home inquiry forms in order to prioritize those families. They also host recruitment booths at farmers’ markets and other events in neighborhoods with the highest removal rates, and use Census data to select which local libraries to host recruitment events at.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Sib-link
@@ -2033,12 +2024,7 @@ projects:
       - Resources can be focused on homes that youth most need
     who:
       number: 2
-      what: >-
-        
-
-        * Oklahoma started the Resource Family Model in 2018, which emphasizes the need for reunification. It does not approve caregivers who are only willing to take placements under age 12 (except for kinship caregivers). 
-
-        * Ohio counties can redirect families who are only interested in ages 0 to 3 to private adoption agencies, as long as this is in their written recruitment plan. Ohio also has a rule allowing them to close homes if a family declines to take a placement over a certain period of time.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Take-a-Breath-Model
@@ -2079,12 +2065,7 @@ projects:
       - Increases financial support for current foster families
     who:
       number: 2
-      what: >-
-        
-
-        * Washington, D.C. challenges “squads” of resource families to recruit more families. For each family that gets licensed, the referring family gets a $500 bonus. The squad that collectively recruits the most new licensed families gets a celebratory event with prizes and food. During the pandemic, they delivered meals via DoorDash in lieu of in-person celebrations. 
-
-        * Montgomery County, MD provides current foster families a $500 bonus if they refer other families. The first $250 is payable when the new family receives its license, and the second is payable when they take their first placement.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Always-There-for-Us
@@ -2121,16 +2102,7 @@ projects:
       - Increased foster family recruitment
     who:
       number: 3
-      what: >-
-        
-
-        * Colorado posts about becoming a foster family on NextDoor.
-
-        * Frederick County, MD has an active [Facebook page](https://www.facebook.com/FCDSS.fosteradopt)
-
-        * Rhode Island DCYF maintains an active [Facebook presence](https://www.facebook.com/ridcyf/)
-
-        * Rhode Island DCYF posts a "Friday Win" (a bit of good news) every Friday on social media to build interaction.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Bend-Health
@@ -2166,13 +2138,7 @@ projects:
         children need.
     who:
       number: 2
-      what: >-
-        
-
-        * Washington, DC uses digital marketing campaigns.
-
-
-        * In California, Mark Daley is running digital campaigns for multiple counties. [Click here for details](/assets/MarkDaley.pdf).
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Bloom
@@ -2203,12 +2169,7 @@ projects:
       - Increases current foster family retention
     who:
       number: 2
-      what: >-
-        
-
-        * Frederick County, MD hires experienced foster parents to co-facilitate PRIDE foster parent training. 
-
-        * Fairfax County, VA hires experienced foster parents to conduct initial home visits for prospective foster families.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: County-Lines-Support-and-Rescue
@@ -2247,12 +2208,7 @@ projects:
       - Centers the lived experience of youth in your work
     who:
       number: 2
-      what: >-
-        
-
-        * New Mexico
-
-        * Prince George’s County, Maryland, hires a current or former foster youth to conduct foster parent training.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Child-Safeguarding-Toolkit
@@ -2291,12 +2247,7 @@ projects:
       - Expands a youth’s support network
     who:
       number: 2
-      what: >-
-        
-
-        * Rhode Island reports a 95% success rate at making connections for its foster children with this program. Watch this video about Rhode Island’s [Extreme Family Finding](https://www.wpri.com/rhode-show/connecting-through-the-extreme-family-finding-program/?fbclid=IwAR0ENP03Qx_ep_o5WyE9y4vmd5mrmW0feWp6umLg5M29ZkOgvWVolDCjjKY).
-
-        * Read about Missouri’s [success stories](https://www.fosteradopt.org/family-permanency/extreme-family-finding/).
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Firsthand
@@ -2325,12 +2276,7 @@ projects:
       - "Increased foster family retention and recruitment "
     who:
       number: 2
-      what: >-
-        
-
-        * Frederick County, MD has recruiters also conduct foster parent training, which means caregivers see a familiar face as they start the process. 
-
-        * Fairfax County, VA has recruitment team members join a family’s initial home visit for a warm hand-off to the licensor.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Gamechanger
