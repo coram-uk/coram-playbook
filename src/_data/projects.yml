@@ -3265,17 +3265,7 @@ projects:
     who:
       number: 4
       image: ""
-      what: >-
-        * **Frederick County, MD** pays foster parents to attend trainings
-        ($25-50ish per class). 
-
-        * **Frederick County, MD** pays foster parents $20 per session to co-lead foster parent trainings. 
-
-        * **Washington, DC** hires foster parents as trainers. 
-
-        * **Colorado** has a mobile app (The Foster Family Business App) that provides foster parents with discounts at a variety of local stores. 
-
-        * **Fairfax County, VA** pays foster parents for co-leading foster parent trainings and being on panels.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: SageSurfer
@@ -3318,11 +3308,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Washington State** encourages its missing youth workers to search
-        and reach out over social media. 
-
-        * **Rhode Island** has successfully found and brought back multiple foster youth via Facebook.  
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: SCARF Live Online – Coram Life Education
@@ -3367,9 +3353,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Michigan** experienced success augmenting its online foster parent
-        training programs with a private Facebook group during the pandemic to
-        help build community when people could not get together face to face.  "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: SilverCloud - Amwell
@@ -3422,14 +3406,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **California** does not define a "bedroom" so it does not have to
-        worry about square footage, number of doors or windows, or other details
-        that frequently trip up other systems during the approval process. This
-        is especially important for kinship caregivers who may not have the
-        resources to provide every child with a dedicated bedroom. 
-
-        * **Rhode Island** created a kinship licensing "playbook" that encourages conversations and collaboration over a specific list of very detailed requirements.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Teams Youth App – State of Illinois, Department of Children and Family
@@ -3471,11 +3448,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Rhode Island** reduced licensing contacts with a family to one team
-        of 2-3 people max. 
-
-        * **Indiana** has a weekly meeting focused on how **TO** license every family. This attitude generates solutions, not denials.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: TRACS
@@ -3518,9 +3491,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: "* **New Mexico** licenses undocumented family members by conducting
-        name-based background checks in place of fingerprints for family members
-        with immigration status concerns. "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Woebot
@@ -3567,15 +3538,7 @@ projects:
     who:
       number: 3
       image: ""
-      what: >-
-        * **Oklahoma** approves almost all of its kinship caregivers within 60
-        days of placement, with the liberal use of exceptions and no list of
-        allowed exceptions. Here's [Oklahoma's
-        policy](/assets/OK_Relative_Exceptions.docx). 
-
-        * **Washington DC** can waive anything except criminal history, and can license a kinship caregiver in as little as six HOURS. 
-
-        * **New Hampshire** can waive any requirement upon request (though the caregiver has to request the waiver).
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Microsoft 365 Co Pilot in Social Care - Microsoft
@@ -3624,13 +3587,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **New Mexico** has a finite list of relative nonsafety waivers, but
-        instead of requiring a separate form, it addresses exceptions in the
-        same part of the home study where the topic comes up (e.g., capacity
-        exceptions when surveying the home). 
-
-        * **Rhode Island** and **Ohio ** do not have a separate form to request exceptions, and instead incorporate mitigations throughout the home study. 
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Bank of England roundtable - Barnado's
@@ -3672,20 +3629,7 @@ projects:
     who:
       number: 5
       image: ""
-      what: >-
-        * **Hawaii** has identified resource caregivers who will take
-        non-infants and placements at any hour, in exchange for a monthly
-        stipend. 
-
-        * **Rhode Island** has an [Emergency Response Program](/assets/RI-ERP.pdf). Some families are paid a $15 (taxable) stipend per day in exchange for being on call. If they receive a call, they have a no-reject, no-eject policy for 14 days. These families are for children under the age of 12. There is a second program, Emergency Response X, for children age 12 and older, with lighter requirements around no-reject/no-eject. These families are to support DCYF in assessment, planning for transition, etc. 
-
-        * **Indiana** provides a higher per diem rate to certain homes in exchange for the following: you can only say “no” twice every quarter, you’re open to taking ages 0-18, you will answer the phone in the middle of the night, and you will and maintain placement up to 7 days. The state can sometimes provide this higher stipend for longer than the 7 days if necessary.
-
-        * **Ohio** counties have the flexibility to provide higher rates to families who take emergency placements in the middle of the night. The per diem reverts to normal rates if the placement continues.
-
-        * **Montgomery County, MD** asks its foster families to commit to one or two weeks to be on call, but they can generally specify their own availability schedules. 
-
-        * **Frederick County, MD** asks every family if they are available to answer phones in the middle of the night, and keeps track of this preference.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Freedom for Transport Campaign - Barnado's
@@ -3734,21 +3678,7 @@ projects:
     who:
       number: 7
       image: ""
-      what: >-
-        * **Maryland** can license some homes specifically for crisis
-        placements. 
-
-        * **California** can add an enhancement for "immediate need" to certain RFA approved families, indicating they are equipped to take kids in the middle of the night. 
-
-        * **New Hampshire** foster families can earn a credential on to their license for emergency and crisis care. NH has two kinds of these homes. Emergency care means a child who is already in care and their placement disrupts for some reason, but we already know the child; families receive a higher stipend for up to 10 days. Crisis care means a child who needs to come into care during off-hours, and there is a list of foster parents who agree to be called; they receive a higher stipend for up to 5 days. 
-
-        * **Washington** has a special contract for a private child placing agency that provides receiving care. 
-
-        * **Michigan** has transitional placement providers, which is a contract with current licensed foster parents. These homes have preferences, but cannot decline a placement within those preferences. They must keep the placement for 2-4 weeks. They are paid $100 a day during placement plus $245 a month to keep the bed open when they don't have a child there. This is mostly used for children new to care, or kids with higher levels of need. In order to qualify, an adult in the home must be home (not working). These homes are also eligible for longevity bonuses.
-
-        * **Rhode Island** has an [Emergency Response Program](/assets/RI-ERP.pdf). Some families are paid a $15 (taxable) stipend per day in exchange for being on call. If they receive a call, they have a no-reject, no-eject policy for 14 days. These families are for children under the age of 12. There is a second program, Emergency Response X, for children age 12 and older, with lighter requirements around no-reject/no-eject. These families are to support DCYF in assessment, planning for transition, etc. 
-
-        * **Indiana** provides a higher per diem rate to certain homes in exchange for the following: you can only say “no” twice every quarter, you’re open to taking ages 0-18, you will answer the phone in the middle of the night, and you will and maintain placement up to 7 days. The state can sometimes provide this higher stipend for longer than the 7 days if necessary.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Double Discrimination - Barnado's
@@ -3790,8 +3720,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Rhode Island** requires 5% emergency bed capacity from its private
-        agencies. "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Care Crates - Barnado's
@@ -3823,17 +3752,7 @@ projects:
     who:
       number: 5
       image: ""
-      what: >-
-        * **Washington** has [The Landing run by Skookum
-        Kids](http://www.skookumkids.org/). 
-
-        * **Washington DC** has the [Sasha Bruce assessment center](https://www.sashabruce.org/) 
-
-        * **New Hampshire** has the Home for Little Wanderers. 
-
-        * **California** has transitional facilities in five counties. 
-
-        * **Ohio** has two licensed crisis nurseries.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Defying the odds - Barnado's
@@ -3874,10 +3793,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Frederick County, MD** checks in frequently with new resource
-        families after taking their first placement. They also join new families
-        in many of their new experiences, such as agency meetings and court
-        hearings, to help them get comfortable and familiar with the process. "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Dear Social Services - Barnado's
@@ -3910,12 +3826,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Frederick County, MD** visits the home of resource families after
-        they get their license to drop off a welcome bag that includes a
-        [resource family
-        handbook](/recommendation/create-a-resource-parent-handbook), a water
-        bottle, Foster Love mugs, two books for adults, and a children's book
-        (The Invisible String). "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Walk a day in my shoes - Barnado's
@@ -3954,13 +3865,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Frederick County, MD** provides childcare for agency-sponsored
-        events and trainings. Sitters are usually from community-based
-        organizations like churches, and have to pass a background check that
-        includes fingerprints. 
-
-        * **Montgomery County, MD** provides free childcare and pizza dinner at monthly resource family trainings. 
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Parenthood research and Parent focused pre-birth assessments - Barnado's
@@ -3998,8 +3903,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Washington** asks caregivers about their natural support network as
-        part of its home study form. "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: "Child Exploitation Collaboration: Bristol Strategic Partnership -
@@ -4051,11 +3955,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Washington** conducts an annual caregiver survey and has a team that
-        pays close attention to the responses. 
-
-        * **Rhode Island** surveys caregivers with a survey after they complete training, and after their initial placement.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Exploited and Criminalised comic - Barnado's
@@ -4091,43 +3991,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Chapin Hall** provides a list of retention reasons in its report
-        [The Dynamics of Foster Home Recruitment and
-        Retention](https://fcda.chapinhall.org/wp-content/uploads/2018/10/Foster-Home-Report-Final_FCDA_October2018.pdf).
-        These reasons are:
-          * Closed because of abuse/neglect 
-          * Agency decision related to concerns about foster parent’s performance 
-          * Family request (related to change in circumstances, personal or family issues) 
-          * Family request (related to concerns about DCS/provider agency) 
-          * Family adopted and is selecting out of foster care 
-          * Family serving as kinship only and kinship case has ended 
-          * Other reason
-        * **Washington** measures termination reason on its form [10-017](https://www.dcyf.wa.gov/sites/default/files/forms/10-017.pdf). The reasons it includes are:
-          * Adoption completed
-          * Adoption disruption
-          * Adoption Home Study not approved
-          * Cannot comply with requirements
-          * Changed agency
-          * Child Placing Agency request
-          * Criminal History
-          * Denied
-          * Did not receive placements
-          * Dissatisfied with DCFS
-          * Dissatisfied with Child Placing Agency
-          * License expired
-          * Family did not respond to renewal
-          * Family goals/personal issues
-          * Family’s response to child’s allegation
-          * Foster child aged out of care
-          * Foster child’s behavior too challenging
-          * Moved and did not reapply
-          * Moved and relicensed at new address
-          * Moved new home does not meet licensing requirements
-          * Provider deceased
-          * Response to investigation
-          * Revoked
-          * Specific child placement no longer needed
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Child Sexual Abuse Centre of Expertise Practice Leads Programme Pilot -
@@ -4165,9 +4029,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **New Hampshire** offers free classes to supportive adults on topics
-        like how to navigate communicating with teenagers. Some of this is
-        trauma-informed training. "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Care Friends
@@ -4211,14 +4073,7 @@ projects:
     who:
       number: 2
       image: ""
-      what: >-
-        * **Hawaii** has a volunteer network (who have passed background checks)
-        who transport youth to visits with supportive adults, as well as other
-        activities like afterschool activities. 
-
-        * **New Hampshire** uses a paid transportation service with drivers who have passed background checks to support visits to supportive adults. 
-
-        * **CASA programs** in some systems allow CASAs to provide transportation for youth to visit their supportive adults.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Career progression support – London Borough of Newham
@@ -4254,10 +4109,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Frederick County, MD** has three templates you can print and put in a
-        three-ring notebook: [Zig Zags](/assets/Lifebook-circles-zigzags.pdf),
-        [Floral](/assets/Lifebook-floral-water-color.pdf),
-        [Triangles](/assets/Lifebook-triangles.pdf). "
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: The Coram Innovation Inset - Coram-i
@@ -4330,8 +4182,7 @@ projects:
     who:
       number: 1
       image: ""
-      what: "* **Colorado** uses Ancestry DNA as one tool in its family finding
-        office."
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Children’s Services Learning Academy – Torbay Council
@@ -4380,18 +4231,7 @@ projects:
     who:
       number: 4
       image: ""
-      what: >-
-        * **Maryland** has Camp Connect, a sleepaway camp for siblings in foster
-        care. Department employees can sign up to work shifts at the camp and
-        receive their normal salary during this time. 
-
-        * **San Diego County, CA** has Camp Connect for siblings to have fun together. It also has other activities throughout the year like beach day and  SeaWorld Day. All siblings qualify for camp connect.
-
-        * **Frederick County, MD** hosts events like a petting zoo for siblings to get together. Parents are invited, too! 
-
-        * **Michigan** hosts fun events, such as taking families to the movies or trampoline park, that include siblings, even if those siblings are not in care.
-
-        * **Colorado** has Camp to Belong.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Every Child - The Contingent
@@ -4430,15 +4270,7 @@ projects:
     who:
       number: null
       image: ""
-      what: >-
-        * **Washington State** has a report available in its IT system listing
-        children in care who are separated from siblings. This report includes
-        children who are currently in care who have a sibling who was recently
-        discharged from care.
-
-        * **New Hampshire** has a program called Roadmaps to Reunification that hones in on siblings being together.
-
-        * Every state in our working group has an official policy to continue searching for placements for sibling groups that are separated in general (non-kin) foster care.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Framework for London in Permanent Children’s Social Work Recruitment -
@@ -4479,10 +4311,7 @@ projects:
     who:
       number: 3
       image: ""
-      what: |-
-        * **Frederick County, MD** 
-        * **Nebraska** 
-        * **Oklahoma**
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Juno
@@ -4523,19 +4352,7 @@ projects:
     who:
       number: 5
       image: ""
-      what: >-
-        * **Fairfax County, VA** encourages its resource families to communicate
-        in its [written policy](LINK TO COLLEEN).
-
-        * **Michigan** connects resource parents of separated children at the start of placements and encouraged to set up additional visits.
-
-        * **Frederick County, MD** introduces all resource parents of separated sibling groups, encourages an ongoing relationship between resource parents, especially if one resource parent is a kinship caregiver and the other is not.
-
-        * **Oklahoma** encourages resource parents with separated siblings to bring the children together as often as possible.
-
-        * **New Hampshire** promotes natural collaboration between parents and resource parents. 
-
-        * **Washington DC**’s social worker team ensures resource parents understand the expectation for sibling visits and that the Agency supports this practice; in all, it’s a collected effort with the entire team. BOND Leads create activities where siblings who are separated can engage across Squad members (resource parents). Resource Parent Support Workers ensure families have connections and opportunities to get siblings together on their own as well.
+      what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
   - aboutTitle: About this project
