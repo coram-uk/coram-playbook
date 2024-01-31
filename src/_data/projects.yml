@@ -203,13 +203,7 @@ projects:
     who:
       number: 5
       image: ""
-      what: |+
-        ### \
-
-
-
-
-
+      what: "\n\n\n"
       authorities:
         - Birmingham City Council
     aboutTitle: About this project
@@ -1523,6 +1517,8 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       number: 0
+      authorities:
+        - Key Assets
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: The Cartrefi Clyd Initiative – Isle of Anglesey Council
@@ -1593,6 +1589,8 @@ projects:
     who:
       number: 1
       what: "\n\n\n"
+      authorities:
+        - Barking and Dagenham London Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Child Welfare Playbook
@@ -1887,6 +1885,8 @@ projects:
     who:
       number: 1
       what: "\n\n\n"
+      authorities:
+        - Newham London Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Our-Space
@@ -1938,6 +1938,8 @@ projects:
     who:
       number: 4
       what: "\n\n\n"
+      authorities:
+        - Wirral Metropolitan Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Prison-Box-Project
@@ -1985,6 +1987,9 @@ projects:
     who:
       number: 3
       what: "\n\n\n"
+      authorities:
+        - Kingston Upon Thames Royal Borough/Achieving for Children
+        - Richmond Upon Thames London Borough
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Sib-link
@@ -2062,6 +2067,8 @@ projects:
     who:
       number: 2
       what: "\n\n\n"
+      authorities:
+        - Manchester City Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Always-There-for-Us
@@ -2166,6 +2173,8 @@ projects:
     who:
       number: 2
       what: "\n\n\n"
+      authorities:
+        - Cornwall Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: County-Lines-Support-and-Rescue
@@ -2448,11 +2457,13 @@ projects:
       number: 4
       what: "\n\n\n"
       image: ""
+      authorities:
+        - Lambeth London Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Living-Assessments
     heading: Living Assessments - Wellcome Trust
-    about: >+
+    about: >
       The Living Assessments project is a five-year research programme funded by
       the Wellcome Trust and based jointly at the University of Kent, Cambridge,
       and the National Children’s Bureau. The project aims to understand the
@@ -2470,16 +2481,10 @@ projects:
       Children Act.
 
 
-      The project looks at the decision-making process for providing social care support to children and families, the impact of offering particular support or not offering that support, and the lived experiences of assessments. The research aims to ensure engagement with civil servants, parliamentarians, policy makers, and senior practitioners, in collaboration with MPs and Peers from the All-Party Parliamentary Group for Children (APPGC). The team aims to allow the experiences of those affected to be heard at the highest levels in government and to enable evidence-based changes to improve the lives of those children and families involved in assessments. 
-
+      The project looks at the decision-making process for providing social care support to children and families, the impact of offering particular support or not offering that support, and the lived experiences of assessments. The research aims to ensure engagement with civil servants, parliamentarians, policy makers, and senior practitioners, in collaboration with MPs and Peers from the All-Party Parliamentary Group for Children (APPGC). The team aims to allow the experiences of those affected to be heard at the highest levels in government and to enable evidence-based changes to improve the lives of those children and families involved in assessments.
 
 
       [https://research.kent.ac.uk/living-assessment/](https://research.kent.ac.uk/living-assessment/)
-
-
-
-
-
     how: >-
       
 
@@ -2746,6 +2751,8 @@ projects:
     who:
       number: 1
       what: "\n\n\n"
+      authorities:
+        - Essex County Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - title: Digital-Quality-Assurance-Tools-for-Children’s-Services
@@ -2929,6 +2936,11 @@ projects:
       number: 3
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Derby City Council
+        - Derbyshire County Council
+        - Nottingham City Council
+        - Nottinghamshire County Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Data Sharing and Collaborative Working - Portsmouth City Council and
@@ -2977,6 +2989,8 @@ projects:
       number: 1
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Portsmouth City Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Mind of My Own
@@ -3061,6 +3075,8 @@ projects:
       number: 3
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Suffolk County Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Reimagining Case Management Systems - The North Yorkshire Approach
@@ -3121,6 +3137,8 @@ projects:
       number: 4
       image: ""
       what: "\n\n\n"
+      authorities:
+        - North Yorkshire Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: SageSurfer
@@ -3487,7 +3505,7 @@ projects:
       what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Freedom for Transport Campaign - Barnado's
+  - heading: Freedom for Transport Campaign - Barnardo's
     costs:
       - None unless you pay emergency homes a higher rate
     about: >
@@ -3536,7 +3554,7 @@ projects:
       what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Double Discrimination - Barnado's
+  - heading: Double Discrimination - Barnardo's
     costs:
       - None
     about: >
@@ -3610,7 +3628,7 @@ projects:
       what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Defying the odds - Barnado's
+  - heading: Defying the odds - Barnardo's
     costs:
       - Staff time
     about: >
@@ -3651,7 +3669,7 @@ projects:
       what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Dear Social Services - Barnado's
+  - heading: Dear Social Services - Barnardo's
     costs:
       - Small
     about: >
@@ -3684,7 +3702,7 @@ projects:
       what: "\n\n\n"
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Walk a day in my shoes - Barnado's
+  - heading: Walk a day in my shoes - Barnardo's
     costs:
       - Can be free or paid
     about: >
@@ -3811,9 +3829,11 @@ projects:
       number: 2
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Bristol City Council
     aboutTitle: About this project
     whoTitle: Who is doing this
-  - heading: Exploited and Criminalised comic - Barnado's
+  - heading: Exploited and Criminalised comic - Barnardo's
     costs:
       - None
     about: >
@@ -3850,13 +3870,13 @@ projects:
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Child Sexual Abuse Centre of Expertise Practice Leads Programme Pilot -
-      Barnado's
+      Barnardo's
     costs:
       - None
     about: >
       In collaboration with the Centre of expertise on child sexual abuse (CSA
       Centre), Barnardo’s has piloted the delivery of the CSA Centre’s Child
-      Sexual Abuse Practice Leads Programme to their non- CSA specialist
+      Sexual Abuse Practice Leads Programme to their non-CSA specialist
       children’s workforce. This intensive training course builds the confidence
       and competence of safeguarding professionals in managing child sexual
       abuse cases. On completion of the training, the participants become
@@ -3866,10 +3886,10 @@ projects:
       the signs of sexual abuse
 
 
-      to test solutions to the training and development challenge across our local, regional and national teams. The first 44 staff to complete the course and the evaluation to date have shown excellent engagement and satisfaction. Attendance was over 70% on a 10-day course and participants reported that the programme enabled them to feel more “empowered” “confident”, able to “promote consistent child focused practice” and to “ensure all staff have the confidence and knowledge to hold all aspects of child safety”. A further 66 participants are due to complete the programme before 2025. 
+      to test solutions to the training and development challenge across our local, regional and national teams. The first 44 staff to complete the course and the evaluation to date have shown excellent engagement and satisfaction. Attendance was over 70% on a 10-day course and participants reported that the programme enabled them to feel more “empowered” “confident”, able to “promote consistent child focused practice” and to “ensure all staff have the confidence and knowledge to hold all aspects of child safety”. A further 66 participants are due to complete the programme before 2025.
 
 
-      Find out more here: https://www.csacentre.org.uk/training-events/
+      Find out more here: [https://www.csacentre.org.uk/training-events/](https://www.csacentre.org.uk/training-events/)
     how: >-
       * Talk to supportive adults to find out what they need. Some might benefit
       from trauma-informed trainings, but others may simply need encouragement
@@ -3965,6 +3985,8 @@ projects:
       number: 1
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Newham London Borough Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: The Coram Innovation Inset - Coram-i
@@ -4087,6 +4109,8 @@ projects:
       number: 4
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Torbay Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Every Child - The Contingent
@@ -4234,6 +4258,9 @@ projects:
 
 
 
+    who:
+      authorities:
+        - Hertfordshire County Council
   - aboutTitle: About this project
     whoTitle: ""
     title: partnership-in-music-making
