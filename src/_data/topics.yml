@@ -257,25 +257,22 @@ topics:
     whatTitle: What
   - hero:
       backgroundColor: light
-      title: Workforce and Organisational Structures
+      title: Workforce and Organisational Development
       image: /src/images/heros/hero-baby.png
       imgAlt: foster-parent-licensing
     layout: topic
-    title: workforce-and-organisational-structures
+    title: workforce-and-organisational-development
     image: /src/images/topics/Topic-FPL.svg
-    about: Foster parent licensing can be a lengthy, and at times inefficient,
-      process. Delays in licensing can mean losing homes in a time when
-      placement options are already severely limited.
-    why: While it is important to be thorough, delays in the process can overburden
-      licensing workers and inspectors or even risk losing families.
-    what: >-
-      
-
-      * **Increase support for licensing workers.** Providing clerical support for licensing workers helps staff maintain a higher case load, while increasing family satisfaction. If you can give families a dedicated licensor through the whole process, staff will be able to reduce the likelihood of errors while developing a more holistic picture of the family. 
-
-      * **Make safety inspections easier for families.** Some families do not pass the inspection on the first try simply because they were missing one or more items that they didn’t know they needed. When an inspector has to return, it makes the process longer by weeks or months. By providing families with a checklist of safety items ahead of time, as well as providing families with items they need but cannot acquire, you can streamline the safety inspection process and avoid delays.
-
-      * **Continue licensing and training while social distancing.** Some agencies paused their licensing or training during the pandemic. However, federal regulations do not require that these processes take place in person. By providing foster parent training online and conducting key parts of the licensing process remotely (like doing the initial safety walkthrough over video), you can avoid having to halt your licensing and training work during the pandemic.
+    about: >
+      This section considers approaches being trialled to support the children's
+      services workforce and enhance organisational development to ensure
+      children’s services can recruit and retain high-quality staff across their
+      services and empower staff with a workplace environment which values them.
+    why: >
+      Organisations who invest in their staff and make their workforce feel
+      valued are more likely to attract and keep dedicated staff who can offer
+      high-quality support to children, young people and families.
+    what: "\n\n\n\n\n\n\n"
     recommendations:
       - align-checklists-to-statutes
       - provide-clerical-support-for-licensing-workers
@@ -291,5 +288,5 @@ topics:
       - send-appointment-reminders
       - use-bilingual-staff-members-instead-of-interpreters
     aboutTitle: About
-    whyTitle: Why
+    whyTitle: Why it's important
     whatTitle: What
