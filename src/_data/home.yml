@@ -25,7 +25,7 @@ home:
         content: >
           The CII hosts regular webinars to showcase new and exciting projects
           and initiatives from across the sector and beyond.
-        image: src/images/features/kid.jpg
+        image: /src/images/features/kid.jpg
         imgAlt: This is alt text
         link: https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/
       - title: Find out more about what we offer in our CII Prospectus
@@ -33,7 +33,7 @@ home:
           Our Prospectus sets out our programme for 2024-25 and our range of
           membership options, which allow colleagues to benefit from the work of
           the Incubator whatever their capacity.
-        image: src/images/features/dsc4122_lowres-2.0.jpg
+        image: /src/images/features/dsc4122_lowres-2.0.jpg
         link: https://coram-i.org.uk/coram-innovation-incubator/the-coram-innovation-incubator-prospectus/
         imgAlt: This is alt text
       - title: Read the CII Innovation Collective
@@ -45,7 +45,7 @@ home:
           trial new ways of working with children, young people 
 
           and families.
-        image: src/images/features/madeleine-w-children-2_lowres.jpg
+        image: /src/images/features/madeleine-w-children-2_lowres.jpg
         imgAlt: This is alt text
         link: https://coram-i.org.uk/coram-innovation-incubator/the-cii-collective/
     mediumFeature:
