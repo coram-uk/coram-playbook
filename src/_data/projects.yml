@@ -1424,7 +1424,7 @@ projects:
         - Warwickshire County Council
   - heading: Care Leaver Programme – Microsoft and UBDS
     title: Care-Leaver-Programme
-    about: >
+    about: >+
       Microsoft, in partnership with UBDS and three local authorities has
       launched a **pilot programme to support care leavers across the country**.
       The programme aims to provide 15 care leavers with a 12-week programme of
@@ -1446,7 +1446,8 @@ projects:
       The pilot will be monitored and evaluated throughout, with the feedback and outcomes of the programme used to inform future programmes and initiatives for care leavers and other groups.
 
 
-      **For more information, please contact**  [**lorna.perry@microsoft.com**](lorna.perry@microsoft.com)**** 
+      **For more information, please contact**  [**lorna.perry@microsoft.com**](lorna.perry@microsoft.com)
+
     how: >-
       * Ask caregivers about the language they are most comfortable interacting
       in as early as possible, by including this on inquiry forms or at the very
@@ -1524,23 +1525,24 @@ projects:
   - heading: The Cartrefi Clyd Initiative – Isle of Anglesey Council
     title: The-Cartrefi-Clyd-Initiative
     about: >
-      The Isle of Anglesey Council’s Cartrefi Clyd initiative provides
-      relationship-focused care to looked after children. Cartrefi Clyd or ‘cosy
-      homes’, have the feel of traditional family homes and are embedded within
-      communities in close proximity to other family homes. They were set up in
-      response to a lack of suitable local placements, which meant that children
-      were often placed miles away from home, often outside of Anglesey and
-      across England. Children sometimes did not know where they were and felt
-      isolated from their friends, family and local Welsh-speaking community.
+      The Isle of Anglesey Council’s **Cartrefi Clyd** initiative provides
+      relationship-focused care to looked after children. **Cartrefi Clyd** or
+      ‘cosy homes’, have the feel of traditional family homes and are embedded
+      within communities in close proximity to other family homes. They were set
+      up in response to a lack of suitable local placements, which meant that
+      children were often placed miles away from home, often outside of Anglesey
+      and across England. Children sometimes did not know where they were and
+      felt isolated from their friends, family and local Welsh-speaking
+      community.
 
 
       Anglesey County Council developed its in-house capacity through a mixture of obtaining existing local authority property and purchasing new properties, funded by Welsh government grants. The Council worked closely with colleagues within the Council and the regulatory body to make sure the model complied with regulatory standards, whilst also ensuring it reflected the council’s trauma-informed approach and that the properties felt like homes, rather than feeling institutional.
 
 
-      There are now four Cartrefi Clyd homes, ranging between one, two and three bedroomed provision. They are available to children aged between nine and eighteen, with careful matching taking place to ensure a suitable mix of children in each home. Staffed 24-hours a day by a small team of residential child care workers, the homes focus on providing a continuity of care for children and ensuring each child receives dedicated time and attention. Staff operate a small rota and an attempt is made to ensure staff members work on the same day every week, to give consistency and reduce stigma children may feel, for example as a result of having different people accompanying them to different activities throughout their week.
+      There are now four **Cartrefi Clyd** homes, ranging between one, two and three bedroomed provision. They are available to children aged between nine and eighteen, with careful matching taking place to ensure a suitable mix of children in each home. Staffed 24-hours a day by a small team of residential child care workers, the homes focus on providing a continuity of care for children and ensuring each child receives dedicated time and attention. Staff operate a small rota and an attempt is made to ensure staff members work on the same day every week, to give consistency and reduce stigma children may feel, for example as a result of having different people accompanying them to different activities throughout their week.
 
 
-      The benefits of this initiative have been wide-ranging. Children have been supported to develop healthy relationships with trusted adults, build important links and find stability within their local community. They have been empowered to input into the decoration of the home, choosing the layout and colour schemes of their bedrooms, for example, and having pets. Older children have been able to build their skills for independent living through a close collaboration between the residential workers and their social workers. The council has also been able to generate cost savings, with children returning from external private placements and moving into Cartrefi Clyd homes. There are examples where the cost to the council of one high cost external placement has been the same as two children placed in Cartrefi Clyd. Having previously had to travel across to England for visits, social work staff have been able to spend more time working directly with children on Anglesey, as a result of significantly reduced travel time. In addition, residential workers have been encouraged to progress through social work pathways and pursue their interest in and capacity to move into other roles across children and families services.
+      The benefits of this initiative have been wide-ranging. Children have been supported to develop healthy relationships with trusted adults, build important links and find stability within their local community. They have been empowered to input into the decoration of the home, choosing the layout and colour schemes of their bedrooms, for example, and having pets. Older children have been able to build their skills for independent living through a close collaboration between the residential workers and their social workers. The council has also been able to generate cost savings, with children returning from external private placements and moving into **Cartrefi Clyd** homes. There are examples where the cost to the council of one high cost external placement has been the same as two children placed in **Cartrefi Clyd**. Having previously had to travel across to England for visits, social work staff have been able to spend more time working directly with children on Anglesey, as a result of significantly reduced travel time. In addition, residential workers have been encouraged to progress through social work pathways and pursue their interest in and capacity to move into other roles across children and families services.
     how: Programming calendars can be posted online and emailed to youth. You could
       also use an online calendar that allows others to subscribe to your
       events, like Eventbrite. A photo of the calendar could also be texted to
@@ -1553,17 +1555,19 @@ projects:
     outcome: We are still collecting concrete data.
     who:
       what: "\n\n\n"
+      authorities:
+        - Isle of Anglesey Council
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: Where are they doing this?
   - heading: Empty Spaces to Homes Toolkit - Habitat for Humanity Great Britain
     title: Empty-Spaces-to-Homes-Toolkit
     about: >
       With a mass of vacant, unused commercial property across the country,
-      Empty Spaces to Homes provides a toolkit for local authorities, charities
-      and other organisations who are seeking to transform vacant commercial
-      spaces into homes for young people. Acting as a step-by-step guide, the
-      toolkit offers practical insights into the development process, across
-      financing, legal, community consultation and construction project
+      **Empty Spaces to Homes** provides a toolkit for local authorities,
+      charities and other organisations who are seeking to transform vacant
+      commercial spaces into homes for young people. Acting as a step-by-step
+      guide, the toolkit offers practical insights into the development process,
+      across financing, legal, community consultation and construction project
       management. Alongside the toolkit, an empty space spotter has been built,
       allowing people to identify vacant sites to create a database of
       properties.
@@ -1575,7 +1579,7 @@ projects:
       An adjacent project is also being piloted in Poland. Amid a UK housing crisis which disproportionately impacts young people, this toolkit offers important guidance to stimulate the re-development of unused assets so that communities can benefit and especially to help ensure young people leaving care have access to housing as they embark on their adulthood.
 
 
-      https://www.habitatforhumanity.org.uk/
+      [https://www.habitatforhumanity.org.uk/](https://www.habitatforhumanity.org.uk/)
     how: Make it a practice to open a bank account for each youth as part of your
       onboarding process. This is the bank account you will use to direct
       deposit their stipends. You should be able to set up a direct deposit
@@ -1595,26 +1599,24 @@ projects:
     whoTitle: Who is doing this
   - heading: Child Welfare Playbook
     title: Child-Welfare-Playbook
-    about: >
-      The Child Welfare Playbook is a platform that aims to support the sharing
-      of best practices in the United States. The project is taking place in the
-      US and is designed to help child welfare professionals improve their work
-      by providing them with access to a wide range of resources, including
-      tools, templates, and case studies. The platform also includes a Progress
-      Dashboard that allows users to track their progress and measure their
-      success over time.
+    about: >+
+      The **Child Welfare Playbook** is a platform that aims to support the
+      sharing of best practices in the United States. The project is taking
+      place in the US and is designed to help child welfare professionals
+      improve their work by providing them with access to a wide range of
+      resources, including tools, templates, and case studies. The platform also
+      includes a Progress Dashboard that allows users to track their progress
+      and measure their success over time.
 
 
-      The Child Welfare Playbook is a collaborative effort between the Annie E. Casey Foundation and the National Association of Public Child Welfare Administrators. It was led by Marina Nitze, who previously served in the White House under President Obama and now develops approaches to approve foster care in the USA. The project’s ultimate goal is to improve outcomes for children and families involved in the child welfare system. The platform is designed to be user-friendly and accessible to all child welfare professionals, regardless of their level of experience. The project has already achieved significant success, with many child welfare professionals using the platform to improve their work and achieve better outcomes for the children and families they serve. 
+      The **Child Welfare Playbook** is a collaborative effort between the Annie E. Casey Foundation and the National Association of Public Child Welfare Administrators. It was led by Marina Nitze, who previously served in the White House under President Obama and now develops approaches to approve foster care in the USA. The project’s ultimate goal is to improve outcomes for children and families involved in the child welfare system. The platform is designed to be user-friendly and accessible to all child welfare professionals, regardless of their level of experience. The project has already achieved significant success, with many child welfare professionals using the platform to improve their work and achieve better outcomes for the children and families they serve.
 
 
-      https://www.childwelfareplaybook.com/
+      [https://www.childwelfareplaybook.com/](https://www.childwelfareplaybook.com/)
 
 
-      The Coram Innovation Incubator is currently developing a UK version of the Playbook, the Coram Innovation Playbook, which will launch in 2024. 
 
 
-      For more information and to contribute, please email innovation@coram.org.uk
     how: Create a list in Excel or your case management system where staff can
       easily view which youth are closest to aging out. In Excel, you can enter
       the youth’s transition date and sort your list into categories, like youth
@@ -1628,30 +1630,28 @@ projects:
       birthdate](https://www.childwelfareplaybook.com/assets/Youth%20Age%20Out%\
       20Tracker.xlsx)"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: Foster with North East
     title: Foster-with-North East
-    about: >+
+    about: >
       Twelve local authorities in the North East have pooled together to launch
-      a new join website, Foster with North East, which aims to boost fostering
-      in the region. The intuitive, easy-to-use website, which was set up in
-      September 2023 and is the first of its kind, makes it easy for interested
-      foster carers to find out more about fostering and local fostering events
-      and complete a simple enquiry form. The collaborative regional approach
-      sees local authorities joining together to drive foster carer recruitment
-      and chimes with the recommendations of the Independent Review of
-      Children’s Social Care to take a regional approach to placement
+      a new join website, **Foster with North East**, which aims to boost
+      fostering in the region. The intuitive, easy-to-use website, which was set
+      up in September 2023 and is the first of its kind, makes it easy for
+      interested foster carers to find out more about fostering and local
+      fostering events and complete a simple enquiry form. The collaborative
+      regional approach sees local authorities joining together to drive foster
+      carer recruitment and chimes with the recommendations of the Independent
+      Review of Children’s Social Care to take a regional approach to placement
       sufficiency. It follows the rising number of children entering care, with
       the North East the region seeing the most children referred into foster
       care. The initiative also involves rolling out a specialist joint support
       hub for foster carers, improved training and the development of a buddy
       system offering support to foster carers at all stages of their fostering
-      journey. 
-
+      journey.
 
 
       [https://www.fosterwithnortheast.org.uk/](https://www.fosterwithnortheast.org.uk/)
-
     how: >-
       * Give youth cash.
 
@@ -1676,25 +1676,28 @@ projects:
 
       * [Visa Buxx gift cards for teens](https://usa.visa.com/pay-with-visa/cards/prepaid-cards/buxx-card.html)
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - heading: The Landing - Skookum Kids
     title: The-Landing
     about: >
-      Skookum Kids, a not-for-profit organisation based in the USA, runs The
-      Landing. The Landing is an emergency shelter for children entering foster
-      care for the first time. Set up as a traditional homely environment,
-      children typically remain here for 72 hours, allowing their situation to
-      stabilise in a calming, secure environment at a critical juncture. It also
-      provides crucial time for social workers to be able to find the right home
-      to meet the needs of the child, whether it be across their kin network or
-      with a foster family. The homes are staffed primarily by trained
-      volunteers, often with other full-
+      Skookum Kids, a not-for-profit organisation based in the USA, runs **The
+      Landing**. **The Landing** is an emergency shelter for children entering
+      foster care for the first time. Set up as a traditional homely
+      environment, children typically remain here for 72 hours, allowing their
+      situation to stabilise in a calming, secure environment at a critical
+      juncture. It also provides crucial time for social workers to be able to
+      find the right home to meet the needs of the child, whether it be across
+      their kin network or with a foster family. The homes are staffed primarily
+      by trained volunteers, often with other full-time jobs. This includes
+      those who are keen to foster permanently but their own housing situation
+      makes this difficult, getting more people from across the community
+      involved in caring for vulnerable children. 
 
 
-      time jobs. This includes those who are keen to foster permanently but their own housing situation makes this difficult, getting more people from across the community involved in caring for vulnerable children. There are currently two homes open as part of The Landing, offering care to hundreds of children every year. It is estimated that the cost of running this initiative is just one fifth of comparable group care facilities. Findings from an evaluation of this approach indicate that children who are placed in these homes are more likely to be housed alongside a sibling during their temporary placement and were more likely to be placed with a relative in their next placement. It also suggests that where a child or young person was housed in a similar centre, the foster carer who goes on to look after them is more likely than other similar foster carers to retain their fostering license as time goes on. The evaluation does not suggest an impact on the number of placements or the time spent in fostering for a child who is initially placed in one of these homes compared to a child who is not. In the context of widespread challenges with placement sufficiency and stability, The Landing offers an innovative solution to making sure children entering care are appropriately supported by the right carers, both in the short-term and the longer term. 
+      There are currently two homes open as part of **The Landing**, offering care to hundreds of children every year. It is estimated that the cost of running this initiative is just one fifth of comparable group care facilities. Findings from an evaluation of this approach indicate that children who are placed in these homes are more likely to be housed alongside a sibling during their temporary placement and were more likely to be placed with a relative in their next placement. It also suggests that where a child or young person was housed in a similar centre, the foster carer who goes on to look after them is more likely than other similar foster carers to retain their fostering license as time goes on. The evaluation does not suggest an impact on the number of placements or the time spent in fostering for a child who is initially placed in one of these homes compared to a child who is not. In the context of widespread challenges with placement sufficiency and stability, **The Landing** offers an innovative solution to making sure children entering care are appropriately supported by the right carers, both in the short-term and the longer term.
 
 
-      https://www.skookumkids.org/
+      [https://www.skookumkids.org/](https://www.skookumkids.org/)
     how: Conduct an inventory of your program materials that reference the end of
       foster care (like posters, pamphlets, website content, and handouts).
       Replace any references to “until 21” with “to the end of 20” or “until
@@ -1710,26 +1713,27 @@ projects:
     inspiration: "[First Place for Youth](https://firstplaceforyouth.org/) helps
       youth in foster care build skills for successful transitions."
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - title: Life-in-Limbo
     heading: Life in Limbo - Fostering Great Idea
     about: >
-      Life in Limbo uses role play to give participants a unique insight into
-      what it is like to be a child in foster care, a birth parent or a foster
-      or kinship carer. These interactive workshops run by Fostering Great Ideas
-      aim to educate participants on the realities of foster care and child
-      protection, building empathy and providing skills for advocacy. Activities
-      include those taking the role of the ‘parent’ building a House of Cards,
-      representing the attempt to develop a stable home, or those acting as the
-      ‘children’ being blindfolded and siblings split up, or ‘parents’
-      attempting to keep a feather in the air, representing their child. Life in
-      Limbo has run workshops and training sessions in 15 US states as well as
-      in Guatamala, Mexico and Peru for a range of individuals, from educators,
-      child welfare professionals, current and prospective foster carers and
-      members of the general public who want to learn more about foster care. 
+      **Life in Limbo** uses role play to give participants a unique insight
+      into what it is like to be a child in foster care, a birth parent or a
+      foster or kinship carer. These interactive workshops run by Fostering
+      Great Ideas aim to educate participants on the realities of foster care
+      and child protection, building empathy and providing skills for advocacy.
+      Activities include those taking the role of the ‘parent’ building a House
+      of Cards, representing the attempt to develop a stable home, or those
+      acting as the ‘children’ being blindfolded and siblings split up, or
+      ‘parents’ attempting to keep a feather in the air, representing their
+      child. **Life in Limbo** has run workshops and training sessions in 15 US
+      states as well as in Guatamala, Mexico and Peru for a range of
+      individuals; from educators, child welfare professionals, current and
+      prospective foster carers and members of the general public who want to
+      learn more about foster care.
 
 
-      https://fgi4kids.org/our-great-ideas/life-in-limbo/
+      [https://fgi4kids.org/our-great-ideas/life-in-limbo/](https://fgi4kids.org/our-great-ideas/life-in-limbo/)
     how: >-
       Keep a spreadsheet or calendar of renewal dates. Before the license
       renewal process begins, schedule a check-in call with the family.
@@ -1751,7 +1755,7 @@ projects:
       number: 1
       what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - title: Create-Your-Village
     heading: Create Your Village - Frontline
     about: >
@@ -1766,7 +1770,7 @@ projects:
       approximately £3,500,000.
 
 
-      Create Your Village aims to empower local authorities to take on their corporate ‘grandparent’ role and break the cycle of intergenerational trauma, by enhancing care experienced parents “village” of informal support. Create Your Village will support local authorities to do this by helping them to co-produce a package of bespoke services with care experienced parents in their area, and integrate the support into the local authorities early help offer.
+      **Create Your Village** aims to empower local authorities to take on their corporate ‘grandparent’ role and break the cycle of intergenerational trauma, by enhancing care experienced parents “village” of informal support. **Create Your Village** will support local authorities to do this by helping them to co-produce a package of bespoke services with care experienced parents in their area, and integrate the support into the local authorities early help offer.
     how: >-
       * Maintain a spreadsheet of currently licensed families and their renewal
       dates. 
@@ -1787,19 +1791,19 @@ projects:
       number: 1
       what: "\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - title: Why-Care
     heading: Why Care - Frontline
     about: >
-      Why Care is a new approach to assessing, preparing and supporting those
-      who want to be foster carers that draws together the experience of those
-      with lived and learned knowledge foster care.
+      **Why Care** is a new approach to assessing, preparing and supporting
+      those who want to be foster carers that draws together the experience of
+      those with lived and learned knowledge foster care.
 
 
       The purpose of this is to refocus the emphasis on what those with care experience, foster carers and social workers tell us is most important for foster carers to be able to provide stable, loving homes. It will also look to gather more data throughout the process about those who withdraw from the assessment or within the first year and those who continue, so more targeted support and preparation can be offered to foster carers, and LAs can benefit from a deeper understanding of this.
 
 
-      Why Care is initially working with one local authority to pilot the Why Care’s proposed new elements of the assessment process. Why Care wants to work with all interested parties to improve the current processes for assessment and support to increase the number and readiness of local authority foster carers.
+      **Why Care** is initially working with one local authority to pilot the **Why Care’s** proposed new elements of the assessment process. **Why Care** wants to work with all interested parties to improve the current processes for assessment and support to increase the number and readiness of local authority foster carers.
     how: >-
       
 
@@ -1829,7 +1833,7 @@ projects:
       number: 1
       what: "\n\n\n\n\n\n\n"
     aboutTitle: About this project
-    whoTitle: Who is doing this
+    whoTitle: ""
   - title: Now-Foster
     heading: Now Foster
     about: >
