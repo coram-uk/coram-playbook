@@ -535,3 +535,16 @@ topics:
     aboutTitle: About
     whyTitle: Why it's important
     whatTitle: Who is doing what?
+  - aboutTitle: About this topic
+    whyTitle: Why it matters
+    whatTitle: What can we do
+    layout: topic
+    title: Voice of the Child
+    hero:
+      title: zsdf
+    about: |
+      fsazfd
+    why: |
+      asff
+    what: |
+      fsddf
