@@ -3892,9 +3892,20 @@ projects:
       membership of Making Research Count and CareKnowledge, which provides a
       wide range of evidence-informed practice and resources, access to a number
       of courses to apply for via the Apprenticeship route for all staff, and
-
-
-      opportunities to work in a wide range of roles where one can develop knowledge and expertise alongside the provision of mandatory and non-mandatory training days and mentoring/shadowing arrangements. The council also offers Best Interest Assessor and Approved Mental Health Professional training opportunities for Social Workers, peer supervision sessions, and reflective practice. Newly Qualified Social Workers (NQSWs) receive consistent support in their first year of employment through the Assessed and Supported Year in Employment (ASYE) programme, which aims to ensure that NQSWs become confident, competent social work professionals. All new social workers also have access to a five-day training course in systemic practice. Newham’s overall work is underpinned by a Circles of Support practice framework, based on relational and anti-racist practice which focuses on providing a circle of support to both children and families, but also to social workers.
+      opportunities to work in a wide range of roles where one can develop
+      knowledge and expertise alongside the provision of mandatory and
+      non-mandatory training days and mentoring/shadowing arrangements. The
+      council also offers Best Interest Assessor and Approved Mental Health
+      Professional training opportunities for Social Workers, peer supervision
+      sessions, and reflective practice. Newly Qualified Social Workers (NQSWs)
+      receive consistent support in their first year of employment through the
+      Assessed and Supported Year in Employment (ASYE) programme, which aims to
+      ensure that NQSWs become confident, competent social work professionals.
+      All new social workers also have access to a five-day training course in
+      systemic practice. Newham’s overall work is underpinned by a Circles of
+      Support practice framework, based on relational and anti-racist practice
+      which focuses on providing a circle of support to both children and
+      families, but also to social workers.
 
 
       The project aims to provide social workers with a structured programme of induction into professional social work, offering many benefits, including a personalized training and development plan, 1:1 support from trained and experienced ASYE assessors, reduced caseload, protected development time, training opportunities, internal moderation panel, clear appeals process, and career conversation at the end of the programme. The programme also provides opportunities to work alongside academics to deliver teaching sessions in their area of expertise, attend and participate in academic activities such as attending an accredited module relevant to social care, an admission day, participating in Skills Development Days and Practice Education Panels, and regular updates on various opportunities and recorded webinars.
@@ -3987,6 +3998,8 @@ projects:
       number: 1
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Bromley London Borough Council
     aboutTitle: About this project
     whoTitle: ""
   - heading: Children’s Services Learning Academy – Torbay Council
@@ -4003,11 +4016,11 @@ projects:
 
       * [Camp to Belong](https://camptobelong.org) in Colorado
     about: >
-      Torbay Council’s in house Children’s Services Learning Academy is working
-      with South Devon College to support its Community Care workers to complete
-      the Level 4 apprenticeship in ‘Working with Children, Young People and
-      Families’. The Level 4 apprenticeship course will help learners to
-      recognise and assess the complex needs of children, young people, and
+      Torbay Council’s in house **Children’s Services Learning Academy** is
+      working with South Devon College to support its Community Care workers to
+      complete the Level 4 apprenticeship in ‘Working with Children, Young
+      People and Families’. The Level 4 apprenticeship course will help learners
+      to recognise and assess the complex needs of children, young people, and
       families and support qualified staff to deliver any specific interventions
       or referrals.
 
@@ -4124,7 +4137,7 @@ projects:
     costs:
       - None
     inspiration: Fairfax County, VA's [policy](LINK TO COLLEEN).
-    about: >+
+    about: >
       Juno is an all-in-one employee benefits platform that provides flexible,
       inclusive, and socially conscious workplace benefits designed for remote
       teams. The platform is available worldwide and offers hundreds of
@@ -4139,11 +4152,10 @@ projects:
       receive.
 
 
-      Juno is based in London and has received €3.7 million in funding to transform and personalise work perk schemes.  
+      Juno is based in London and has received €3.7 million in funding to transform and personalise work perk schemes. Benefits include mental health support, childcare, fitness, and food delivery boxes.
 
 
       The platform has an average utilisation rate of 91%. The platform is available for a monthly fee per employee and can be cancelled anytime. [https://www.withjuno.com/](https://www.withjuno.com/)
-
     how: >-
       * When siblings are separated in care, their respective resource parents
       should be connected right away, unless there are case-specific reasons not
@@ -4243,3 +4255,36 @@ projects:
 
     who:
       what: "\n\n\n"
+  - aboutTitle: About this project
+    whoTitle: Who is doing this
+    about: >+
+      **Coram’s Activity Days for Fostering (ADFs)** provide a safe,fun
+      environment for prospective foster carers and children to meet each other
+      and explore whether they have a connection or ‘chemistry’. The days focus
+      on finding loving, stable homes for children who need to remain looked
+      after under fostering arrangements. The days are designed to make young
+      people and foster carers active participants in their family finding
+      process, enhancing the matching process and increasing the likelihood of a
+      successful placement. The approach provides a unique opportunity to get to
+      know each other authentically in a way that traditional matching processes
+      may not. It is considered to be a particularly effective matching process
+      for ‘harder to place’ children, for example those in a sibling group,
+      children of a BAME background or with a disability. The events are
+      arranged for local authorities, with the AdF service facilitating the
+      event organisation, briefing sessions, a profiling workshop, management of
+      referrals, consultation and feedback. The events build on Coram’s
+      pioneering Adoption Activity Days (AADs), which have been running since
+      2012, and enabled at least 1,400 children to find adoptive families,
+      equating to a match for one in every four children attending an AAD. 
+
+
+      Coram also runs Sibling Time activity days, providing a chance to develop sibling bonds for children in care. An [evaluation](https://www.coram.org.uk/wp-content/uploads/2023/01/Activity-Days-for-Fostering-evaluation-report-final-1.pdf) of ADFs was conducted by the Coram Impact and Evaluation team and funded by the Esmee Fairbairn Foundation and the Hadley Trust in March 2022. The findings were generally positive, with social workers and foster carers particularly enthusiastic about the approach. Many of the children who attended belong to groups that we would typically consider ‘hard to place’ and almost a third of the expressions of interest led to provisional matches.
+
+
+      https://www.coram.org.uk/what-we-do/our-work-and-impact/coram-activity-days/ 
+
+
+      **If you are interested in taking part in one of Coram’s Fostering Connections events, please contact** [**Adoption.ActivityDays@coram.org.uk**](mailto:Adoption.ActivityDays@coram.org.uk)
+
+    heading: Fostering Connections - Coram
+    title: fostering-connections
