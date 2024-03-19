@@ -2966,19 +2966,19 @@ projects:
       their Children’s Services over the last 18 months.
 
 
-      Portsmouth’s Data Platform went live in March 2022, with the integration of data from over 40 different systems and partner agencies to create a complete view of their children’s lives and immediate families. This was the enabler to begin to use data more proactively and share more confidently.
+      Portsmouth’s **Data Platform** went live in March 2022, with the integration of data from over 40 different systems and partner agencies to create a complete view of their children’s lives and immediate families. This was the enabler to begin to use data more proactively and share more confidently.
 
 
-      The first service innovation added onto the Data Platform was their Vulnerable Pupil Tracking Portal (VPT). This is a secure online portal, shared with schools. It provides each school with their own data feeds and dashboards, which enables early identification of children who may have additional vulnerabilities. This allows effective plans of support to be implemented more quickly. Children who are then highlighted as being vulnerable are discussed on a fortnightly basis with their LA Education Link Coordinator to ensure effective oversight. The portal allows schools and local authority users to see all information relating to a child in one place, which saves users time from having to look at various databases. The child’s golden record includes data on attendance, exclusions, safeguarding teams, youth justice service, exploitation levels, SEN needs and other vulnerability factors. Schools report that this is an amazing resource for them, helping them in their daily work and to keep on top of safeguarding for children. This VPT also now holds Early Help support plans for the child and family, through online data collection and collaboration of support information against a centralised Family Support Plan. Overview reports and dashboards allows Service Managers and the Supporting Families Team to access the information to build this into their support work.
+      The first service innovation added onto the **Data Platform** was their Vulnerable Pupil Tracking Portal (VPT). This is a secure online portal, shared with schools. It provides each school with their own data feeds and dashboards, which enables early identification of children who may have additional vulnerabilities. This allows effective plans of support to be implemented more quickly. Children who are then highlighted as being vulnerable are discussed on a fortnightly basis with their LA Education Link Coordinator to ensure effective oversight. The portal allows schools and local authority users to see all information relating to a child in one place, which saves users time from having to look at various databases. The child’s golden record includes data on attendance, exclusions, safeguarding teams, youth justice service, exploitation levels, SEN needs and other vulnerability factors. Schools report that this is an amazing resource for them, helping them in their daily work and to keep on top of safeguarding for children. This VPT also now holds Early Help support plans for the child and family, through online data collection and collaboration of support information against a centralised Family Support Plan. Overview reports and dashboards allows Service Managers and the Supporting Families Team to access the information to build this into their support work.
 
 
-      In summer 2023, the Data Platform was extended further, providing fully profiled views of families across the city for the Supporting Families Team, via their own Supporting Families (Phase 3) Portal. This Portal can automatically identify those families who are eligible for attachment as part of the Supporting Families National Programme (within the DLUHC National Outcomes Framework), as well as families who qualify for successful turnaround status.
+      In summer 2023, the **Data Platform** was extended further, providing fully profiled views of families across the city for the Supporting Families Team, via their own Supporting Families (Phase 3) Portal. This Portal can automatically identify those families who are eligible for attachment as part of the Supporting Families National Programme (within the DLUHC National Outcomes Framework), as well as families who qualify for successful turnaround status.
 
 
       Recently, a Neuro Diversity Profiling Portal has been added to the list of services. This provides an on-line first step in identifying neurodiversity in children and young people (aged 0-19) across the city, to help establish what additional support needs or learning difficulties a young person may have.
 
 
-      The Data Platform is also the basis for a Data Science proof-of-concept project, using Machine Learning models to look for early signs of a child becoming more vulnerable to becoming a Looked After Child in the future. The objective is to focus Early Help support activities as early as possible to prevent crisis, make families stronger / more resilient, and reduce the number of children being taken into care.
+      The **Data Platform** is also the basis for a Data Science proof-of-concept project, using Machine Learning models to look for early signs of a child becoming more vulnerable to becoming a Looked After Child in the future. The objective is to focus Early Help support activities as early as possible to prevent crisis, make families stronger / more resilient, and reduce the number of children being taken into care.
 
 
       Portsmouth will also complete the implementation of a new MET / GANGS Portal, to give them more immediate understanding of children who are potentially Missing, Exploited or Trafficked, or who are linked to a gang or gang culture.
@@ -3012,14 +3012,14 @@ projects:
       - Ultimately saves costs in avoided group home placements
     about: >
       Recognising the importance of centring the child’s voice in their records,
-      Mind Of My Own has created a range of digital tools which enable children
-      to share their views, wishes and feelings with people who are there to
-      support them. Mind Of My Own develops co-produced, fully accessible
-      digital products for capturing voice of children. These include the Mind
-      Of My Own One App, which creates a safe digital space for young people
-      aged 8 and over to communicate their views and needs to those they are
-      working with, and Mind Of My Own Express, which focuses on ensuring
-      children with additional needs have their voices heard.
+      **Mind Of My Own** has created a range of digital tools which enable
+      children to share their views, wishes and feelings with people who are
+      there to support them. **Mind Of My Own** develops co-produced, fully
+      accessible digital products for capturing voice of children. These include
+      the **Mind Of My Own One App**, which creates a safe digital space for
+      young people aged 8 and over to communicate their views and needs to those
+      they are working with, and **Mind Of My Own Express**, which focuses on
+      ensuring children with additional needs have their voices heard.
 
 
       They are driving change in child centred practice:
@@ -3037,10 +3037,10 @@ projects:
       In the UK their apps are used across over 450 education, social care, youth justice and health services. The apps give children and young people agency in shaping how their story is reflected, providing an authenticity and supporting life story work. One young person reflected that ‘Mind Of My Own has really helped me to be able to share my voice and to feel heard... I find it really useful especially in difficult times as I can access it at 8 in the morning or 3am and write down all my worries and I can then talk about this at my next meeting or with my worker.’
 
 
-      They also have the additional benefit of saving practitioner administration time- an estimated eight days per social worker per year- as it reduces the need for notes to be transcribed. An OFSTED report in Sunderland reflected that the tool was effective in terms of supporting return home interviews after children go missing, as well as involving younger children in care planning. In addition, Mind Of My Own have a number of other apps designed to boost engagement with young people and their families. 
+      They also have the additional benefit of saving practitioner administration time- an estimated eight days per social worker per year- as it reduces the need for notes to be transcribed. An OFSTED report in Sunderland reflected that the tool was effective in terms of supporting return home interviews after children go missing, as well as involving younger children in care planning. In addition, **Mind Of My Own** have a number of other apps designed to boost engagement with young people and their families.
 
 
-      https://mindofmyown.org.uk/
+      [https://mindofmyown.org.uk/](https://mindofmyown.org.uk/)
     how: >-
       * Don't close a bed when a child runs away or is hospitalized.
 
@@ -3061,20 +3061,20 @@ projects:
       - Significant state funds
     about: >
       Suffolk County Council has been working with Simpson Associates, a data
-      analytics company, to develop a new Modern Data Platform which is single
-      front door system for children and young people, focused on supporting
-      Suffolk’s SEND strategy. Based on a Microsoft Azure Synapse data platform,
-      the system enables the council to track costs relating to children with
-      SEND and scope future costs. Previously, staff at the council were
-      required to navigate various disparate systems to find the information
-      they needed about a child, which was time consuming. Their Modern Data
-      Platform provides a single view of the child which integrates their
-      engagement across services and joins up and merges data across various
-      council systems. This means an accurate and comprehensive version of a
-      child’s records can be easily and efficiently accessed. It is linked to
-      the Multi-Agency Safeguarding Hub. The aim is to use the insights from
-      this to enhance service delivery and safeguarding practices as well as
-      improving sufficiency planning.
+      analytics company, to develop a new **Modern Data Platform** which is
+      single front door system for children and young people, focused on
+      supporting Suffolk’s SEND strategy. Based on a Microsoft Azure Synapse
+      data platform, the system enables the council to track costs relating to
+      children with SEND and scope future costs. Previously, staff at the
+      council were required to navigate various disparate systems to find the
+      information they needed about a child, which was time consuming. Their
+      **Modern Data Platform** provides a single view of the child which
+      integrates their engagement across services and joins up and merges data
+      across various council systems. This means an accurate and comprehensive
+      version of a child’s records can be easily and efficiently accessed. It is
+      linked to the Multi-Agency Safeguarding Hub. The aim is to use the
+      insights from this to enhance service delivery and safeguarding practices
+      as well as improving sufficiency planning.
     how: >-
       * Pay kinship caregivers from the first day they receive placement. This
       generally requires state funds.
@@ -3097,8 +3097,8 @@ projects:
       - Varies
     about: >
       North Yorkshire Council are pursuing an innovative pilot project exploring
-      how a new technology solution could help to improve children’s services
-      case management to support social workers to keep children safe. The
+      how a new technology solution could help to **improve children’s services
+      case management to support social workers to keep children safe**. The
       project is being funded by the Department for Education’s Children’s
       Social Care Digital and Data Solutions Fund and supported by the CII and
       partners at Microsoft.
@@ -3128,10 +3128,10 @@ projects:
       Pioneered in North Yorkshire, the intention is for the project to contribute to wider policy improvements and for the tool to become something that can be readily adopted by other local authorities and services to scale the transformative impact for children, young people and families.
 
 
-      You can watch the CII webinar series with North Yorkshire council following the development of this exciting project here: 
+      You can watch the CII webinar series with North Yorkshire council following the development of this exciting project here:
 
 
-      https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/
+      [https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/](https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/)
     how: >-
       * Hire current foster parents as co-trainers at foster parent trainings
       and orientation.
@@ -3158,27 +3158,27 @@ projects:
     costs:
       - None
     about: >
-      SageSurfer is a digital care coordination platform, focused on behavioural
-      and mental health care. This patient-centred, team-based model aims to
-      make it easier for patients, families, healthcare providers and community
-      support providers to communicate and ensure that necessary actions are
-      taken to support the patient’s care plan. Creating a unique care team
-      involving healthcare providers, the patient and the patient’s own
-      community of peers, family and friends, this AI-driven tool is integrated
-      with health records and supports professionals to monitor progress between
-      visits and identify and manage risk. Patients receive an assessment and
-      can be directed towards self-care activities and local support via the
-      tool. They can also communicate directly with their health care team via
-      video, audio or a chat function. Personalised to the patient, it is able
-      to support patients with complex mental health issues but Sagesurfer also
-      work closely with schools and universities to build care teams from an
-      early stage in a patient’s journey. The app is currently being used with
-      around 4000 patients and SageSurfer estimates that the tool reduces
-      emergency department visits by 35%, with patient engagement rates between
-      85-90%. 
+      **SageSurfer** is a digital care coordination platform, focused on
+      behavioural and mental health care. This patient-centred, team-based model
+      aims to make it easier for patients, families, healthcare providers and
+      community support providers to communicate and ensure that necessary
+      actions are taken to support the patient’s care plan. Creating a unique
+      care team involving healthcare providers, the patient and the patient’s
+      own community of peers, family and friends, this AI-driven tool is
+      integrated with health records and supports professionals to monitor
+      progress between visits and identify and manage risk. Patients receive an
+      assessment and can be directed towards self-care activities and local
+      support via the tool. They can also communicate directly with their health
+      care team via video, audio or a chat function. Personalised to the
+      patient, it is able to support patients with complex mental health issues
+      but **Sagesurfer** also work closely with schools and universities to
+      build care teams from an early stage in a patient’s journey. The app is
+      currently being used with around 4000 patients and **SageSurfer**
+      estimates that the tool reduces emergency department visits by 35%, with
+      patient engagement rates between 85-90%.
 
 
-      https://www.sagesurfer.com/
+      [https://www.sagesurfer.com/](https://www.sagesurfer.com/)
     how: >-
       * Search popular social media sites for the youth by name. Also review
       friends, posts, and comments on any known friend or family member
@@ -3200,8 +3200,8 @@ projects:
   - heading: SCARF Live Online – Coram Life Education
     costs:
       - None
-    about: >+
-      Delivered by Coram Life Education (CLE), SCARF Live Online provides
+    about: >
+      Delivered by Coram Life Education (CLE), **SCARF Live Online** provides
       online, live workshops to children aged between 3-11 years old. These
       interactive, engaging workshops, which are streamed into classrooms using
       Zoom, help children to understand how they can keep their body healthy and
@@ -3212,18 +3212,16 @@ projects:
       to support mental wellbeing.
 
 
-      SCARF Live Online complements CLE’s wider SCARF programme and resource bank, which is used by over 50,000 teachers across the country and supports PSHE and wellbeing education in primary schools in line with DfE requirements. By pivoting to online delivery through these innovative workshops, schools were able to continue to benefit from SCARF resources during the pandemic, with SCARF Live Online reaching 763 schools between September 2020 and June 2023 and working with over 132,000 children.
+      **SCARF Live Online** complements CLE’s wider SCARF programme and resource bank, which is used by over 50,000 teachers across the country and supports PSHE and wellbeing education in primary schools in line with DfE requirements. By pivoting to online delivery through these innovative workshops, schools were able to continue to benefit from SCARF resources during the pandemic, with SCARF Live Online reaching 763 schools between September 2020 and June 2023 and working with over 132,000 children.
 
 
-      SCARF Live Online has been nominated in the CYPN Awards Digital Innovation category 2023, which recognises projects that use digital platforms and technologies to deliver effective interventions and strengthen relationships with service users.
+      **SCARF Live Online** has been nominated in the CYPN Awards Digital Innovation category 2023, which recognises projects that use digital platforms and technologies to deliver effective interventions and strengthen relationships with service users.
 
 
-      For more information and if you’d like to explore what SCARF can offer in your local area, please contact [cle@coram.org.uk](cle@coram.org.uk) 
-
+      For more information and if you’d like to explore what SCARF can offer in your local area, please contact [cle@coram.org.uk](cle@coram.org.uk)
 
 
       [https://www.coramlifeeducation.org.uk/scarf/live-online-for-teachers](https://www.coramlifeeducation.org.uk/scarf/live-online-for-teachers)
-
     how: >-
       * Appoint an outside group or agency to run the group. Families aren't
       comfortable in agency-run groups.
@@ -3245,40 +3243,35 @@ projects:
   - heading: SilverCloud - Amwell
     costs:
       - None
-    about: >+
-      SilverCloud by Amwell is a digital platform offering evidence-based mental
-      health, wellbeing and behavioural support to children and young people and
-      their families. With the content aligned to NICE guidelines and
+    about: >
+      **SilverCloud** by Amwell is a digital platform offering evidence-based
+      mental health, wellbeing and behavioural support to children and young
+      people and their families. With the content aligned to NICE guidelines and
       co-produced with children, the platform encompasses the prevention,
       assessment and treatment phases of the mental health experience and has
       been used as part of a wider CAMHS offer. The platform has tailored
       programmes for children aged between 5 and 18, with a number of modules,
       each with interactive content providing advice, exercises and hints and
-      tips for managing anxiety and low mood. SilverCloud report that up to 65%
-      of its users have achieved a clinically significant improvement in their
-      symptoms. In 2023, there was an evaluation of the use of a digital CBT
-      service in Ireland and one component of the service was the use of
+      tips for managing anxiety and low mood. **SilverCloud** report that up to
+      65% of its users have achieved a clinically significant improvement in
+      their symptoms. In 2023, there was an evaluation of the use of a digital
+      CBT service in Ireland and one component of the service was the use of
       SilverCloud. The study reported that the digital CBT tool was associated
       with reductions in symptoms related to anxiety and depression, albeit
-      across a wider age group above age 18. SilverCloud was also delivered to
-      children and young people across Cumbria charity Carlisle Eden Mind, with
-      findings that the use of platform has helped the service to reach three
-      times as many children and young people. In this service, SilverCloud is
-      used in addition to face-to-face support where it is appropriate for the
-      child or young person, and the platform has enabled them to support around
-      90 children, whereas through previous methods it was around 30.
+      across a wider age group above age 18. **SilverCloud** was also delivered
+      to children and young people across Cumbria charity Carlisle Eden Mind,
+      with findings that the use of platform has helped the service to reach
+      three times as many children and young people. In this service,
+      **SilverCloud** is used in addition to face-to-face support where it is
+      appropriate for the child or young person, and the platform has enabled
+      them to support around 90 children, whereas through previous methods it
+      was around 30.
 
 
-      Amid lengthy CAMHS waiting lists, SilverCloud offers important interim support to help young people manage their symptoms and enable services to access and help a larger number of young people.
-
+      Amid lengthy CAMHS waiting lists, **SilverCloud** offers important interim support to help young people manage their symptoms and enable services to access and help a larger number of young people.
 
 
       [https://www.silvercloudhealth.com/](https://www.silvercloudhealth.com/)
-
-
-
-
-
     how: >-
       * Review your current language for overly-specific requirements. For
       example, don't try to define a bedroom.
@@ -3300,7 +3293,7 @@ projects:
     costs:
       - None
     about: >
-      The Teams Youth App was created by Microsoft in collaboration with the
+      The **Teams Youth App** was created by Microsoft in collaboration with the
       Department of Children and Family Services in the Illinois. The App helps
       children, young people, families, caseworkers and other partners involved
       in the case to better communicate with each other. By creating a trusted
@@ -3314,10 +3307,10 @@ projects:
       also empower young people to communicate to their team in a more
       accessible and less threatening way. Feedback from all stakeholders has
       been positive and demonstrates the value of rethinking how we can apply
-      existing technology for a greater benefit. 
+      existing technology for a greater benefit.
 
 
-      https://www.youtube.com/watch?v=fiIa0If4FMI
+      [https://www.youtube.com/watch?v=fiIa0If4FMI](https://www.youtube.com/watch?v=fiIa0If4FMI)
     how: >-
       * Review your exception approval process. Consider removing some or all
       higher approval steps. If this is too drastic a shift, start with making a
@@ -3341,21 +3334,32 @@ projects:
     costs:
       - None
     about: >
-      TRACS- or the Timeline Route and Certification System- is a digital
+      **TRACS**- or the Timeline Route and Certification System- is a digital
       solution which aims to improve care planning for looked after children and
       enhance longer term outcomes. The tool was developed by children’s
       services professionals and technology experts in 2020, focused on
       supporting local authorities to better meet their obligations to those in
       care and care leavers around preparing for successful independence. Hosted
-      on a secure cloud platform, TRACS helps professionals and young people to
-      schedule, track and prioritise key activities for completion. This
-      co-produced approach
+      on a secure cloud platform, **TRACS** helps professionals and young people
+      to schedule, track and prioritise key activities for completion. This
+      co-produced approach between young people and their worker empowers young
+      people to play an active role in their care and skills development. The
+      tool creates a visual timeline demonstrating a young person’s status and
+      progress, which can be viewed by professionals, management, parents/carers
+      and young people, creating transparency and accountability in the process.
+      Automated email reminders also notify professionals of upcoming activities
+      they need to complete for a young person. It aims to enhance joint working
+      procedures by streamlining the process for updating other stakeholders,
+      meaning young people can be supported to access relevant services or
+      interventions in a more timely manner. On a wider level, the insights
+      derived can inform broader service improvements and highlight key areas of
+      focus for the service as a whole. **TRACS** is currently being piloted in
+      Southampton over a 6-month period. It is a promising model for using
+      simple technology to improve the experience and efficiency of services for
+      young people at a critical juncture in their journey towards independence.
 
 
-      between young people and their worker empowers young people to play an active role in their care and skills development. The tool creates a visual timeline demonstrating a young person’s status and progress, which can be viewed by professionals, management, parents/carers and young people, creating transparency and accountability in the process. Automated email reminders also notify professionals of upcoming activities they need to complete for a young person. It aims to enhance joint working procedures by streamlining the process for updating other stakeholders, meaning young people can be supported to access relevant services or interventions in a more timely manner. On a wider level, the insights derived can inform broader service improvements and highlight key areas of focus for the service as a whole. TRACS is currently being piloted in Southampton over a 6-month period. It is a promising model for using simple technology to improve the experience and efficiency of services for young people at a critical juncture in their journey towards independence. 
-
-
-      https://www.tracsuk.org/
+      [https://www.tracsuk.org/](https://www.tracsuk.org/)
     how: >-
       * Build trust with caregivers. If they think you'll report them to
       authorities for their immigration status, they won't work with you. Make
@@ -3384,18 +3388,18 @@ projects:
     costs:
       - None
     about: >
-      Woebot is a digital platform used to support people with their mental
+      **Woebot** is a digital platform used to support people with their mental
       health. Described as a ‘personal mental health ally’ and based on CBT
-      theory, Woebot uses AI natural language processing to provide a space to
-      talk about mental health and wellbeing at the click of a button, whenever
-      it suits the user. It was developed by clinical research psychologist
-      Alison Darcy.
+      theory, **Woebot** uses AI natural language processing to provide a space
+      to talk about mental health and wellbeing at the click of a button,
+      whenever it suits the user. It was developed by clinical research
+      psychologist Alison Darcy.
 
 
-      With regular conversations and check-ins, Woebot is able to gain an insight into the person and their challenges, and provide personalised advice and guiding them towards suitable clinically tested tools and tactics. This advanced chatbot acknowledges the sentiment and provides encouraging, empathetic and personalised responses and shares practical tips and techniques, for example, around mother and baby bonding. The app is currently only available in the USA but data on its impact is promising. A Stanford University study indicated that the app supported a reduction in anxiety and depression among those aged 18-65 years old compared to the control group. The company has also devised treatments specifically designed for teenagers with a diagnosis of mild to moderate depression and new mothers facing post-partum mental health challenges. A recent study suggested that Woebot contributed to a reduction in symptoms of depression that were similar to those associated with clinician-led telehealth CBT.
+      With regular conversations and check-ins, **Woebot** is able to gain an insight into the person and their challenges, and provide personalised advice and guiding them towards suitable clinically tested tools and tactics. This advanced chatbot acknowledges the sentiment and provides encouraging, empathetic and personalised responses and shares practical tips and techniques, for example, around mother and baby bonding. The app is currently only available in the USA but data on its impact is promising. A Stanford University study indicated that the app supported a reduction in anxiety and depression among those aged 18-65 years old compared to the control group. The company has also devised treatments specifically designed for teenagers with a diagnosis of mild to moderate depression and new mothers facing post-partum mental health challenges. A recent study suggested that **Woebot** contributed to a reduction in symptoms of depression that were similar to those associated with clinician-led telehealth CBT.
 
 
-      Woebot won the Best Overall Mental Health Solution award at the MedTech Breakthrough Awards programme. Amid growing pressures on mental health services and notwithstanding the importance of in-person therapeutic care, it is clear that technology can play a role in providing timely access to support for those struggling.
+      **Woebot** won the Best Overall Mental Health Solution award at the MedTech Breakthrough Awards programme. Amid growing pressures on mental health services and notwithstanding the importance of in-person therapeutic care, it is clear that technology can play a role in providing timely access to support for those struggling.
 
 
       [https://woebothealth.com/](https://woebothealth.com/)
@@ -3430,7 +3434,7 @@ projects:
   - heading: Microsoft 365 Co Pilot in Social Care - Microsoft
     costs:
       - None
-    about: >
+    about: >+
       2 ways technology can help reduce the admin burden for social care
       professionals by Kenya McKenzie-Jones, Senior Digital Strategist,
       Microsoft.
@@ -3439,27 +3443,28 @@ projects:
       Imagine if you could spend more time in direct work with children and young people? In a recent survey, more than half of Social Workers felt they didn’t have enough time to spend with service users, with high administrative loads cited as a major source of stress1. How can you harness the power of technology to reduce your admin burden?
 
 
-      Microsoft 365 Copilot is integrated into the apps you already use every day, freeing you to focus on the most important work and less on the busy work. Agencies like the Illinois Department of Children and Family Services are already using Microsoft Teams to better collaborate with children, families and case workers. Taking this one step further, Microsoft 365 Copilot can work alongside care professionals to unlock productivity. Here’s 2 ways Copilot can free up time and effort for social care professionals:
+      **Microsoft 365 Copilot** is integrated into the apps you already use every day, freeing you to focus on the most important work and less on the busy work. Agencies like the Illinois Department of Children and Family Services are already using Microsoft Teams to better collaborate with children, families and case workers. Taking this one step further, **Microsoft 365 Copilot** can work alongside care professionals to unlock productivity. Here’s 2 ways Copilot can free up time and effort for social care professionals:
 
 
       1. Report writing. Get help drafting your supervision notes and inspection reports – no need to start from scratch. Copilot in Word writes, edits, summarises, and creates right alongside you. With only a brief prompt, Copilot in Word will create a first draft for you, bringing in information from across your organisation as needed. Copilot can add content to existing documents, summarise text, and rewrite paragraphs to make it more concise.
 
-
-
-
-
-
-      2. Multi-agency collaboration. Need help keeping track of emails across your multi-disciplinary teams? Copilot in Outlook works with you in your inbox and messages so that you can spend less time on email triage and more time on communicating – better, faster, and more easily. Summarise lengthy, convoluted email threads with multiple people, and quickly find open questions that have yet to be answered. Respond to an existing email with a simple prompt, or turn quick notes into crisp professional messages.
+      1. Multi-agency collaboration. Need help keeping track of emails across your multi-disciplinary teams? Copilot in Outlook works with you in your inbox and messages so that you can spend less time on email triage and more time on communicating – better, faster, and more easily. Summarise lengthy, convoluted email threads with multiple people, and quickly find open questions that have yet to be answered. Respond to an existing email with a simple prompt, or turn quick notes into crisp professional messages.
 
 
       The responsible use of AI technology can free up time and effort for Social Care teams, creating more capacity for direct work. Microsoft 365 Copilot is guided by AI principles and Responsible AI Standard, designed to put the human user in control.
 
 
-
-
-
-
       Find out more today: Microsoft 365 Copilot.
+
+
+
+      [https://www.microsoft.com/en-us/industry/government/public-health-service?rtc=1](https://www.microsoft.com/en-us/industry/government/public-health-service?rtc=1)
+
+
+
+
+      [https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1)
+
     how: >-
       * Move existing exception forms into your standard forms. This can largely
       be handled in the narrative sections of a home study.
@@ -3480,12 +3485,12 @@ projects:
     costs:
       - None
     about: >
-      Double Discrimination: Black care experienced young people navigating the
-      criminal justice system, was commissioned by Barnardo’s Care Journeys and,
-      conducted by Listen Up, to hear from Black care experienced young people
-      in prisons about their experiences navigating the criminal justice system.
-      The report presents a challenge, that ‘we cannot hide the obvious and nor
-      should you’, with a key finding being that racism was the major
+      **Double Discrimination: Black care experienced young people** navigating
+      the criminal justice system, was commissioned by Barnardo’s Care Journeys
+      and, conducted by Listen Up, to hear from Black care experienced young
+      people in prisons about their experiences navigating the criminal justice
+      system. The report presents a challenge, that ‘we cannot hide the obvious
+      and nor should you’, with a key finding being that racism was the major
       determinant in the lives of 20 out of the 22 Black care experienced young
       people who contributed to the research. The findings outline that Black
       care experienced young people are subject to a double whammy of
@@ -3519,22 +3524,23 @@ projects:
     costs:
       - Significant
     about: >
-      Care Crates is an initiative driven by care experienced young people with
-      an aim to put the ‘care back into the care system’. It focussed on the key
-      issue that young people did not have the right resources to hand when
-      leaving the care system. The initiative attracted the attention from Ikea,
-      a Barnardo’s corporate partner at the time, who invested £50,000 to enable
-      Care Crates to be disseminated across all four nations to Barnardo’s
-      services that support those leaving care. The Care Crates provide some key
-      essentials when setting up a home, but also some more sentimental items,
-      like a personalised card, a book that someone has personally recommended
-      and a phone card to allow the young person to keep in touch with those
-      important to them. Over 200 Care Crates have been sent to services and an
-      evaluation is planned in early 2024 to measure impact. Initial feedback
-      from young people is that they are making a difference during what many
-      experience as a difficult transition in their lives when leaving care. The
-      initiative was nominated and shortlisted for a Better Society Award, which
-      evidenced the future potential and relevance of this initiative.
+      **Care Crates** is an initiative driven by care experienced young people
+      with an aim to put the ‘care back into the care system’. It focussed on
+      the key issue that young people did not have the right resources to hand
+      when leaving the care system. The initiative attracted the attention from
+      Ikea, a Barnardo’s corporate partner at the time, who invested £50,000 to
+      enable Care Crates to be disseminated across all four nations to
+      Barnardo’s services that support those leaving care. The **Care Crates**
+      provide some key essentials when setting up a home, but also some more
+      sentimental items, like a personalised card, a book that someone has
+      personally recommended and a phone card to allow the young person to keep
+      in touch with those important to them. Over 200 **Care Crates** have been
+      sent to services and an evaluation is planned in early 2024 to measure
+      impact. Initial feedback from young people is that they are making a
+      difference during what many experience as a difficult transition in their
+      lives when leaving care. The initiative was nominated and shortlisted for
+      a Better Society Award, which evidenced the future potential and relevance
+      of this initiative.
     how: ""
     outcome: ""
     title: Care-Crates
@@ -3551,8 +3557,8 @@ projects:
     costs:
       - Staff time
     about: >
-      Defying the Odds is a training package designed and delivered by a care
-      experienced young person alongside training professionals and Care
+      **Defying the Odds** is a training package designed and delivered by a
+      care experienced young person alongside training professionals and Care
       Journeys professionals. The premise is to provide a ‘real’ insight into
       the care system from the perspective of people who have first-hand
       experience and are therefore best placed to do so. The training aims to
@@ -3592,7 +3598,7 @@ projects:
     costs:
       - Small
     about: >
-      Brent Care Journeys (BCJ) worked with a newly formed Company of care
+      **Brent Care Journeys (BCJ)** worked with a newly formed Company of care
       experienced young people and the Kiln Theatre to produce creative and
       expressive works to express home some key messages cleaned from their life
       experiences. ‘Dear Social Services’ was a collection of photography, art
@@ -3627,13 +3633,13 @@ projects:
     costs:
       - Can be free or paid
     about: >
-      Walk a day in my shoes is a creative art installation which depicts the
-      real lives of care experienced young people. Care experienced young people
-      taking part in the initiative were asked to design a shoe, which was then
-      placed on a display board with a QR code next to it. By scanning the QR
-      code the person can find out more about that person’s story and their
-      authentic view of their care journey, as told by them. It captures how
-      unique each person’s journey is to highlight why every child and young
+      **Walk a day in my shoes** is a creative art installation which depicts
+      the real lives of care experienced young people. Care experienced young
+      people taking part in the initiative were asked to design a shoe, which
+      was then placed on a display board with a QR code next to it. By scanning
+      the QR code the person can find out more about that person’s story and
+      their authentic view of their care journey, as told by them. It captures
+      how unique each person’s journey is to highlight why every child and young
       person should be treated as an individual and not simply a ‘looked-after’
       child. This installation has the potential to raise levels of awareness
       and change practice as well as give care experienced young people a
@@ -3671,7 +3677,7 @@ projects:
     costs:
       - None
     about: >
-      Barnardo’s Brent Care Journeys has worked with care experienced young
+      Barnardo’s Brent **Care Journeys** has worked with care experienced young
       people, NHS and local authority staff to create a pre-birth assessment
       that focuses on the unique strengths of care experienced parents and
       removed the negative stigma which can impact on their experiences. This
@@ -3710,7 +3716,7 @@ projects:
     costs:
       - Staff time
     about: >
-      Bristol Child Exploitation Collaboration is a partnership with Bristol
+      **Bristol Child Exploitation Collaboration** is a partnership with Bristol
       City Council to co-design specialist services for children who have been
       exploited or affected by community violence. In 2022, we conducted
       research with children who have been exploited and their families, along
@@ -3726,7 +3732,7 @@ projects:
       The Institute of Public Care at Oxford Brookes University completed an insightful and supportive evaluation of our partnership. It highlights our work in gaining the voices of young people as ‘gold standard’ and including the voices of a wide range of stakeholders underpinning the value, power and credibility of the process. Our work identified 11 opportunities for change which are the basis for the new service.
 
 
-      Based on the children’s experiences we created the ‘Here I am’ an immersive 360-degree film. It is aimed at commissioners and decision makers to ensure the child’s voices and experiences are central to decision making. 
+      Based on the children’s experiences we created the ‘Here I am’ an immersive 360-degree film. It is aimed at commissioners and decision makers to ensure the child’s voices and experiences are central to decision making.
 
 
       You can watch the film here: Here I Am - YouTube
@@ -3765,8 +3771,8 @@ projects:
     about: >
       In collaboration with Penificent, a social enterprise that creates comic
       books and workshops that tackle social issues by taking inspiration from
-      their lived experience growing up in London, we created Exploited and
-      Criminalised. The story is based on Barnardo’s experiences of witnessing
+      their lived experience growing up in London, we created **Exploited and
+      Criminalised**. The story is based on Barnardo’s experiences of witnessing
       how young men who experience exploitation are regularly criminalised
       rather than identified as victims of exploitation. Therefore, they do not
       receive the support they need to recover. The idea was prompted by
@@ -3801,8 +3807,8 @@ projects:
       - None
     about: >
       In collaboration with the Centre of expertise on child sexual abuse (CSA
-      Centre), Barnardo’s has piloted the delivery of the CSA Centre’s Child
-      Sexual Abuse Practice Leads Programme to their non-CSA specialist
+      Centre), Barnardo’s has piloted the delivery of the CSA Centre’s **Child
+      Sexual Abuse Practice Leads Programme** to their non-CSA specialist
       children’s workforce. This intensive training course builds the confidence
       and competence of safeguarding professionals in managing child sexual
       abuse cases. On completion of the training, the participants become
@@ -3888,14 +3894,14 @@ projects:
       - None
     about: >
       The London Borough of Newham is investing in its social workers by
-      providing a broad career progression support programme. The council offers
-      excellent opportunities to develop skills, knowledge, and experience of
-      working in a dynamic and progressive setting. The support includes
-      membership of Making Research Count and CareKnowledge, which provides a
-      wide range of evidence-informed practice and resources, access to a number
-      of courses to apply for via the Apprenticeship route for all staff, and
-      opportunities to work in a wide range of roles where one can develop
-      knowledge and expertise alongside the provision of mandatory and
+      providing a broad **career progression support programme**. The council
+      offers excellent opportunities to develop skills, knowledge, and
+      experience of working in a dynamic and progressive setting. The support
+      includes membership of Making Research Count and CareKnowledge, which
+      provides a wide range of evidence-informed practice and resources, access
+      to a number of courses to apply for via the Apprenticeship route for all
+      staff, and opportunities to work in a wide range of roles where one can
+      develop knowledge and expertise alongside the provision of mandatory and
       non-mandatory training days and mentoring/shadowing arrangements. The
       council also offers Best Interest Assessor and Approved Mental Health
       Professional training opportunities for Social Workers, peer supervision
@@ -3936,8 +3942,8 @@ projects:
     costs:
       - Usually under $100 per child
     about: >
-      The Coram Innovation Incubator (CII) runs the Coram Innovation Inset, a
-      five-session course offered to our members annually to support them to
+      The Coram Innovation Incubator (CII) runs the **Coram Innovation Inset,**
+      a five-session course offered to our members annually to support them to
       develop and implement an innovation pilot in their organisation. The Inset
       brings together a Design Thinking approach, social work theory and a focus
       on evaluation to help immerse participants in a problem, identify their
@@ -4060,22 +4066,23 @@ projects:
       - Time
     inspiration: Oklahoma tracks separated siblings in a dedicated part of its
       monthly Recruitment Report.
-    about: >
+    about: >+
       The Contingent is a project developed in partnership with Microsoft that
       aims to create a more diverse and inclusive workforce by leveraging
       location-based matching. The project is taking place in the United States,
       and its goal is to help companies find the right candidates for their job
-      openings while also promoting diversity and inclusion. The Every Child
+      openings while also promoting diversity and inclusion. The **Every Child**
       initiative is a case study within the Contingent project that focuses on
       recruiting and hiring for child welfare agencies. The initiative aims to
       help these agencies find and hire the best candidates for their open
       positions, with a focus on diversity and inclusion.
 
 
-      The Every Child initiative uses a location-based matching system to connect child welfare agencies with qualified candidates in their area. This system helps to ensure that candidates are familiar with the local community and can provide culturally sensitive care to the children they serve and in a range of ways. Part of the drive has been focused on supporting foster children. The initiative has already seen positive outcomes, with participating agencies reporting increased diversity in their
+      The **Every Child** initiative uses a location-based matching system to connect child welfare agencies with qualified candidates in their area. This system helps to ensure that candidates are familiar with the local community and can provide culturally sensitive care to the children they serve and in a range of ways. Part of the drive has been focused on supporting foster children. The initiative has already seen positive outcomes, with participating agencies reporting increased diversity in their
 
 
-      workforce and improved outcomes for the children they serve. In 2022, the Every Child initiative engaged 2,341 community members to support their local child welfare system. By leveraging technology to promote diversity and inclusion, the Every Child initiative is helping to create a more equitable and just society for all. https://thecontingent.org/initiatives/every-child/
+      workforce and improved outcomes for the children they serve. In 2022, the **Every Child** initiative engaged 2,341 community members to support their local child welfare system. By leveraging technology to promote diversity and inclusion, the **Every Child** initiative is helping to create a more equitable and just society for all. [https://thecontingent.org/initiatives/every-child/](https://thecontingent.org/initiatives/every-child/)
+
     how: >-
       * Confirm that you can generate a report of children in foster care who
       are separated from at least one sibling, distinguishing by kinship and
@@ -4101,24 +4108,24 @@ projects:
     about: >
       Following on from the London Pledge to address recruitment challenges, a
       £20m social worker recruitment initiative has been launched in London in
-      the context of increasing costs in children’s social care. The Framework
-      for London in Permanent Children’s Social Work Recruitment (FLiP) is a
+      the context of increasing costs in children’s social care. The **Framework
+      for London in Permanent Children’s Social Work Recruitment (FLiP)** is a
       partnership between Yorkshire Purchasing Organisation (YPO), London
       Councils and the London Innovation & Improvement Alliance (LIIA) and seeks
       to improve compliant access to permanent children’s social workers for all
       London local authorities. The partnership will provide both “full” and
       “reduced” service offerings for London local authorities and define 16
       specialist children’s social care service providers both locally and
-      regionally. The FLiP is a novel regional framework and guarantees
+      regionally. The **FLiP** is a novel regional framework and guarantees
       uniformity in price structure, stable costs, a single point of contact for
       recruitment, and a standard of service through pre-agreed terms and
       conditions.
 
 
-      The initiative is expected to increase councils’ access to permanent staff and help them save money on agency fees. The partnership will also help to address the shortage of social workers in London. The initiative was launched in August 2023 and is expected to have a positive impact on children’s social care in London. 
+      The initiative is expected to increase councils’ access to permanent staff and help them save money on agency fees. The partnership will also help to address the shortage of social workers in London. The initiative was launched in August 2023 and is expected to have a positive impact on children’s social care in London.
 
 
-      https://www.liia.london/flip-childrens-social-work-recruitment/
+      [https://www.liia.london/flip-childrens-social-work-recruitment/](https://www.liia.london/flip-childrens-social-work-recruitment/)
     how: >-
       * Make it normal practice for parent/child visits to include an entire
       sibling group, unless specific circumstances warrant a different
