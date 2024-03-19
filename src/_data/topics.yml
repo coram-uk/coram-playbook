@@ -171,7 +171,7 @@ topics:
       foster meaningful connections with the people who matter to them. These
       foundations are crucial to improving the lives of children now and in the
       future.
-    what: >+
+    what: >
       [Baby Box Project - Warwickshire Council
       Council](https://coram-playbook.netlify.app/projects/baby-box-project/)
 
@@ -182,20 +182,23 @@ topics:
       [Carer Journey Design Research - Key Assets Australia](https://coram-playbook.netlify.app/projects/carer-journey-design-research/)
 
 
-
       [Cartrefi Clyd Initiative – Isle of Anglesey Council](https://coram-playbook.netlify.app/projects/the-cartrefi-clyd-initiative/)
-
-
 
 
       [Create Your Village - Frontline](https://coram-playbook.netlify.app/projects/Create-Your-Village)
 
 
-
       [Empty Spaces to Homes Toolkit - Habitat for Humanity Great Britain](https://coram-playbook.netlify.app/projects/empty-spaces-to-homes-toolkit/)
 
 
+
       [Foster with North East](https://coram-playbook.netlify.app/projects/foster-with-north%20east/)
+
+
+
+
+      [Fostering Connections](https://coram-playbook.netlify.app/projects/fostering-connections/)
+
 
 
       [Life in Limbo - Fostering Great Idea](https://coram-playbook.netlify.app/projects/life-in-limbo/)
@@ -216,18 +219,10 @@ topics:
       [Take a Breath Model](https://coram-playbook.netlify.app/projects/Take-a-Breath-Model)
 
 
-
       [The Landing - Skookum Kids](https://coram-playbook.netlify.app/projects/the-landing/)
 
 
-
-
       [Why Care](https://coram-playbook.netlify.app/projects/why-care/)
-
-
-
-
-
     recommendations:
       - allow-youth-to-explore-and-select-programs-available-to-them
       - find-alternatives-to-physical-mail-for-sharing-documents-with-youth
@@ -535,16 +530,3 @@ topics:
     aboutTitle: About
     whyTitle: Why it's important
     whatTitle: Who is doing what?
-  - aboutTitle: About this topic
-    whyTitle: Why it matters
-    whatTitle: What can we do
-    layout: topic
-    title: Voice of the Child
-    hero:
-      title: zsdf
-    about: |
-      fsazfd
-    why: |
-      asff
-    what: |
-      fsddf
