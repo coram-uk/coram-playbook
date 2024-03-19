@@ -2856,9 +2856,9 @@ projects:
     costs:
       - Cost of camp
     about: >
-      Aberdeen City Council have used Microsoft Dynamics 365 Customer Service to
-      improve the way the council collects and uses data to provide a better
-      service to residents. The system has allowed social care workers to
+      Aberdeen City Council have used **Microsoft Dynamics 365** Customer
+      Service to improve the way the council collects and uses data to provide a
+      better service to residents. The system has allowed social care workers to
       collate all the key information they need expediently to develop a clear
       record of people in their care, rather than the arduous task of collating
       data and information from a number of separate sources and departments.
@@ -2866,10 +2866,10 @@ projects:
       information from one source to another.
 
 
-      With Dynamics 365 Customer Service, the Council have created a central database to store information, with the system automatically able to map and update relationships and interactions between people. As a result, a cross-cutting and holistic picture of the person and their history can be generated, with police, medical professionals and other partners also able to access this.
+      With **Dynamics 365 Customer Service**, the Council have created a central database to store information, with the system automatically able to map and update relationships and interactions between people. As a result, a cross-cutting and holistic picture of the person and their history can be generated, with police, medical professionals and other partners also able to access this.
 
 
-      The team at Microsoft worked closely with the Council to make sure the solution was bespoke to their needs. It is estimated that through Dynamics 365 Customer Service, Aberdeen City Council can save over £2 million per year due to time and effort saved, and deliver a faster, better service. The handling time per case has been reduced to an average of 218 minutes, allowing the council to take on 11,500 new referrals and complete over 3,000 new assessments every year. It has enabled the service to be more proactive and preventative in their approach, rather than being reactive. As part of a three year partnership with Microsoft, the council aim to add further capabilities into the system, integrating educational psychology data and providing a function for service users to add their own notes and information into the system, as well as exploring how machine learning can help to predict needs.
+      The team at Microsoft worked closely with the Council to make sure the solution was bespoke to their needs. It is estimated that through **Dynamics 365 Customer Service**, Aberdeen City Council can save over £2 million per year due to time and effort saved, and deliver a faster, better service. The handling time per case has been reduced to an average of 218 minutes, allowing the council to take on 11,500 new referrals and complete over 3,000 new assessments every year. It has enabled the service to be more proactive and preventative in their approach, rather than being reactive. As part of a three year partnership with Microsoft, the council aim to add further capabilities into the system, integrating educational psychology data and providing a function for service users to add their own notes and information into the system, as well as exploring how machine learning can help to predict needs.
 
 
       [https://customers.microsoft.com/en-us/story/1681418738558224641-aberdeen-city-council-government-dynamics-365-customer-service](https://customers.microsoft.com/en-us/story/1681418738558224641-aberdeen-city-council-government-dynamics-365-customer-service)
@@ -2884,6 +2884,8 @@ projects:
       number: 1
       image: ""
       what: "\n\n\n"
+      authorities:
+        - Aberdeen City Council
     aboutTitle: About this project
     whoTitle: Who is doing this
   - heading: Harnessing Virtual Reality for Trauma-Informed Adoption - Adoption East
