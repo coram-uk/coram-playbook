@@ -4297,3 +4297,12 @@ projects:
 
     heading: Fostering Connections - Coram
     title: fostering-connections
+  - aboutTitle: About this project
+    whoTitle: Who is doing this
+    title: Test-Project
+    heading: Test Project - Test Organisation
+    about: |
+      Paste case study here.
+    who:
+      authorities:
+        - The Children's Society
