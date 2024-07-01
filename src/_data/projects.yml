@@ -4256,3 +4256,28 @@ projects:
 
     heading: Fostering Connections - Coram
     title: fostering-connections
+  - aboutTitle: About this project
+    whoTitle: Who is doing this
+    title: Baby-and-Me
+    heading: Baby and Me - London Borough of Redbridge
+    about: >
+      In response to a growing number of newborn babies becoming subject to care
+      proceedings post-birth, the London Borough of Redbridge created the **Baby
+      and Me** service in August 2021. This early-intervention service assesses
+      and provides support to families who are about to have their first child,
+      or who have had children removed from their care in past, in an attempt to
+      ensure newborn babies have the best start in life and can live safely at
+      home with their families. Traditionally, assessments and support to
+      pregnant women had not been delivered until later on in the pregnancy at
+      around 24 weeks gestation. However, the **Baby and Me** team works with
+      women from a much earlier stage at around 12 weeks’ gestation in order to
+      try and mitigate escalation to a point of crisis, which often emerges
+      later in pregnancy for vulnerable women. In order to be able to offer
+      comprehensive, multi-agency support to families, the service is also
+      developing its strategic pathways with midwifery, health visiting,
+      perinatal and other adult services. By engaging early and ensuring
+      families are supported to work through any challenges they face, the hope
+      is that fewer babies in Redbridge will enter the care system.
+    who:
+      authorities:
+        - Redbridge London Borough Council
