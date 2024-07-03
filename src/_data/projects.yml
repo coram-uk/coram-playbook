@@ -4843,7 +4843,7 @@ projects:
     whoTitle: Who is doing this
     title: Is-This-OK?
     heading: Is This OK? - Runaway Helpline and Childline
-    about: >+
+    about: >
       **Is This OK?** was established in 2019, and is a chat service that allows
       young people (13-18 years old) to communicate anonymously, either with a
       bot or a trained advisor, if they are worried about something or would
@@ -4857,10 +4857,4 @@ projects:
       **Is This OK?** was developed through a co-design process, and is currently being trialled in two local authority areas, with a grounding in trauma-informed practice, and young people being involved in developing the chatbot functionality.
 
 
-
       [isthisok.org.uk](https://www.isthisok.org.uk/)
-
-
-
-
-
