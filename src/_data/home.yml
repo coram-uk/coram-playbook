@@ -16,7 +16,7 @@ home:
         facing the children’s social care sector.
       image: /src/images/features/kid.jpg
       imgAlt: This is alt text
-      link: https://coram-i.org.uk/coram-innovation-incubator/
+      link: https://www.coram.org.uk/coram-innovation-incubator/
       linkText: Find out more about what we do here.
     whatsNew: |
       Coram Innovation Incubator
@@ -27,14 +27,14 @@ home:
           and initiatives from across the sector and beyond.
         image: /src/images/features/kid.jpg
         imgAlt: This is alt text
-        link: https://coram-i.org.uk/coram-innovation-incubator/coram-innovation-incubator-webinars/
+        link: https://www.coram.org.uk/coram-innovation-incubator/
       - title: Find out more about what we offer in our CII Prospectus
         content: >
           Our Prospectus sets out our programme for 2024-25 and our range of
           membership options, which allow colleagues to benefit from the work of
           the Incubator whatever their capacity.
         image: /src/images/features/dsc4122_lowres-2.0.jpg
-        link: https://coram-i.org.uk/coram-innovation-incubator/the-coram-innovation-incubator-prospectus/
+        link: https://www.coram.org.uk/resource/the-coram-innovation-incubator-prospectus-2024-25/
         imgAlt: This is alt text
       - title: Read the CII Innovation Collective
         content: >
@@ -47,7 +47,7 @@ home:
           and families.
         image: /src/images/features/madeleine-w-children-2_lowres.jpg
         imgAlt: This is alt text
-        link: https://coram-i.org.uk/coram-innovation-incubator/the-cii-collective/
+        link: https://www.coram.org.uk/coram-innovation-incubator/
     mediumFeature:
       layout: md
   mission:
